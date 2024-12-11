@@ -1,0 +1,1285 @@
+Patient_ID,Age,Gender,Medication,Dosage,Route,Frequency,Diagnosis,Notes,ade
+0001,55,51-65,M,Amoxicillin,50mg,Oral,Once daily,High Cholesterol,"itching symptoms noted by patient, potentially related to Amoxicillin.",itching
+0002,40,36-50,F,Amoxicillin,50mg,Oral,As needed,High Cholesterol,Patient appears to tolerate Amoxicillin well with no side effects noted.,No ADE
+0003,28,19-35,F,Albuterol,20mg,Inhaled,As needed,Depression,Patient has been experiencing sweating after initiating treatment with Albuterol.,sweating
+0004,55,51-65,M,Lisinopril,10mg,Inhaled,Three times daily,Depression,Routine checkup showed no adverse responses to medication.,No ADE
+0005,65,51-65,F,Lisinopril,50mg,Inhaled,Once daily,Rheumatoid Arthritis,Patient appears to tolerate Lisinopril well with no side effects noted.,No ADE
+0006,54,51-65,F,Warfarin,100mg,Inhaled,Three times daily,Depression,"dizziness symptoms noted by patient, potentially related to Warfarin.",dizziness
+0007,39,36-50,F,Metformin,20mg,Inhaled,As needed,Rheumatoid Arthritis,Follow-up suggests the patient has no adverse responses to Metformin.,No ADE
+0008,70,66+,F,Paroxetine,500mg,Oral,Twice daily,Depression,Patient has been experiencing muscle pain after initiating treatment with Paroxetine.,muscle pain
+0009,80,66+,F,Prednisone,500mg,Oral,Twice daily,Atrial Fibrillation,"Reported issues include nosebleeds, which started after Prednisone was prescribed.",nosebleeds
+0010,52,51-65,M,Ibuprofen,100mg,Oral,As needed,Type 2 Diabetes,"sweating symptoms noted by patient, potentially related to Ibuprofen.",sweating
+0011,32,19-35,M,Metformin,50mg,Inhaled,As needed,Sinus Infection,Follow-up suggests the patient has no adverse responses to Metformin.,No ADE
+0012,65,51-65,F,Paroxetine,50mg,Oral,Three times daily,Anxiety,No complaints or unusual symptoms observed after medication use.,No ADE
+0013,68,66+,M,Paroxetine,50mg,Oral,As needed,Migraine,"Reported issues include sweating, which started after Paroxetine was prescribed.",sweating
+0014,47,36-50,F,Simvastatin,20mg,Oral,As needed,Type 2 Diabetes,Patient has been experiencing drowsiness after initiating treatment with Simvastatin.,drowsiness
+0015,30,19-35,F,Albuterol,10mg,Oral,Once daily,High Cholesterol,"bruising symptoms noted by patient, potentially related to Albuterol.",bruising
+0016,29,19-35,F,Lisinopril,20mg,Inhaled,As needed,High Cholesterol,Reports indicate Lisinopril has been effective without complications.,No ADE
+0017,71,66+,M,Amoxicillin,10mg,Inhaled,As needed,Depression,"itching symptoms noted by patient, potentially related to Amoxicillin.",itching
+0018,75,66+,M,Amoxicillin,20mg,Oral,Three times daily,Sinus Infection,Patient shows improvement with no notable side effects.,No ADE
+0019,62,51-65,M,Paroxetine,500mg,Inhaled,Twice daily,Anxiety,"Reported issues include appetite increase, which started after Paroxetine was prescribed.",appetite increase
+0020,26,19-35,M,Albuterol,50mg,Inhaled,Twice daily,Anxiety,No adverse reactions reported during follow-up.,No ADE
+0021,51,51-65,M,Ibuprofen,10mg,Oral,As needed,Type 2 Diabetes,Patient has been experiencing mood swings after initiating treatment with Ibuprofen.,mood swings
+0022,61,51-65,F,Albuterol,500mg,Oral,Once daily,Type 2 Diabetes,Patient has been experiencing appetite increase after initiating treatment with Albuterol.,appetite increase
+0023,34,19-35,F,Lisinopril,500mg,Inhaled,Twice daily,Anxiety,Patient has been experiencing itching after initiating treatment with Lisinopril.,itching
+0024,33,19-35,F,Albuterol,100mg,Inhaled,Three times daily,Atrial Fibrillation,Routine checkup showed no adverse responses to medication.,No ADE
+0025,68,66+,F,Simvastatin,500mg,Oral,Once daily,Depression,"dizziness symptoms noted by patient, potentially related to Simvastatin.",dizziness
+0026,52,51-65,M,Simvastatin,20mg,Inhaled,Once daily,Depression,Patient has been experiencing drowsiness after initiating treatment with Simvastatin.,drowsiness
+0027,55,51-65,M,Lisinopril,100mg,Inhaled,Three times daily,Hypertension,"insomnia symptoms noted by patient, potentially related to Lisinopril.",insomnia
+0028,74,66+,M,Sertraline,50mg,Inhaled,Three times daily,Depression,"appetite increase symptoms noted by patient, potentially related to Sertraline.",appetite increase
+0029,52,51-65,M,Sertraline,100mg,Oral,Twice daily,Asthma,Follow-up suggests the patient has no adverse responses to Sertraline.,No ADE
+0030,29,19-35,M,Albuterol,500mg,Oral,Twice daily,Asthma,"Reported issues include stomach upset, which started after Albuterol was prescribed.",stomach upset
+0031,50,36-50,F,Warfarin,500mg,Oral,As needed,Type 2 Diabetes,Patient appears to tolerate Warfarin well with no side effects noted.,No ADE
+0032,33,19-35,F,Amoxicillin,50mg,Oral,As needed,Migraine,"Reported issues include bruising, which started after Amoxicillin was prescribed.",bruising
+0033,21,19-35,F,Lisinopril,500mg,Oral,Twice daily,Hypertension,Follow-up suggests the patient has no adverse responses to Lisinopril.,No ADE
+0034,24,19-35,F,Paroxetine,100mg,Inhaled,Once daily,High Cholesterol,"Reported issues include rash, which started after Paroxetine was prescribed.",rash
+0035,47,36-50,M,Warfarin,500mg,Oral,Once daily,Atrial Fibrillation,"Reported issues include rash, which started after Warfarin was prescribed.",rash
+0036,24,19-35,F,Simvastatin,50mg,Inhaled,Three times daily,High Cholesterol,No evidence of Simvastatin being poorly tolerated by the patient.,No ADE
+0037,28,19-35,M,Simvastatin,500mg,Inhaled,Twice daily,Depression,No adverse reactions reported during follow-up.,No ADE
+0038,51,51-65,M,Albuterol,10mg,Oral,Twice daily,Depression,Patient denies any negative side effects associated with Albuterol.,No ADE
+0039,63,51-65,F,Albuterol,50mg,Inhaled,Once daily,Anxiety,"nosebleeds symptoms noted by patient, potentially related to Albuterol.",nosebleeds
+0040,30,19-35,F,Albuterol,500mg,Oral,Twice daily,Rheumatoid Arthritis,Routine checkup showed no adverse responses to medication.,No ADE
+0041,80,66+,F,Paroxetine,500mg,Oral,Three times daily,Type 2 Diabetes,No indications of intolerance or adverse events tied to Paroxetine.,No ADE
+0042,28,19-35,F,Metformin,10mg,Inhaled,Twice daily,Sinus Infection,Routine checkup showed no adverse responses to medication.,No ADE
+0043,23,19-35,F,Amoxicillin,100mg,Inhaled,Twice daily,Atrial Fibrillation,"Reported issues include dry mouth, which started after Amoxicillin was prescribed.",dry mouth
+0044,64,51-65,M,Sertraline,500mg,Oral,As needed,Anxiety,"Reported issues include nosebleeds, which started after Sertraline was prescribed.",nosebleeds
+0045,55,51-65,F,Prednisone,10mg,Inhaled,Three times daily,Rheumatoid Arthritis,Patient has been experiencing itching after initiating treatment with Prednisone.,itching
+0046,38,36-50,M,Sertraline,50mg,Inhaled,Three times daily,High Cholesterol,"nosebleeds symptoms noted by patient, potentially related to Sertraline.",nosebleeds
+0047,79,66+,M,Lisinopril,10mg,Oral,Three times daily,Hypertension,"Reported issues include nosebleeds, which started after Lisinopril was prescribed.",nosebleeds
+0048,41,36-50,F,Prednisone,100mg,Oral,Twice daily,High Cholesterol,"Reported issues include nosebleeds, which started after Prednisone was prescribed.",nosebleeds
+0049,64,51-65,F,Paroxetine,20mg,Inhaled,Twice daily,Atrial Fibrillation,Routine checkup showed no adverse responses to medication.,No ADE
+0050,41,36-50,M,Metformin,50mg,Inhaled,Twice daily,Hypertension,No indications of intolerance or adverse events tied to Metformin.,No ADE
+0051,26,19-35,F,Metformin,50mg,Oral,As needed,Rheumatoid Arthritis,Medical review confirms the absence of drug-related side effects.,No ADE
+0052,73,66+,F,Lisinopril,100mg,Oral,As needed,Asthma,Medical review confirms the absence of drug-related side effects.,No ADE
+0053,35,19-35,M,Amoxicillin,10mg,Oral,As needed,Depression,"Reported issues include itching, which started after Amoxicillin was prescribed.",itching
+0054,37,36-50,M,Warfarin,100mg,Oral,Twice daily,Anxiety,"insomnia symptoms noted by patient, potentially related to Warfarin.",insomnia
+0055,36,36-50,F,Metformin,50mg,Inhaled,Once daily,Rheumatoid Arthritis,"dry mouth symptoms noted by patient, potentially related to Metformin.",dry mouth
+0056,61,51-65,M,Warfarin,10mg,Oral,Twice daily,Migraine,"appetite increase symptoms noted by patient, potentially related to Warfarin.",appetite increase
+0057,20,19-35,F,Ibuprofen,100mg,Inhaled,Twice daily,Migraine,"itching symptoms noted by patient, potentially related to Ibuprofen.",itching
+0058,79,66+,M,Amoxicillin,100mg,Oral,Three times daily,Asthma,"Reported issues include stomach upset, which started after Amoxicillin was prescribed.",stomach upset
+0059,76,66+,M,Simvastatin,10mg,Oral,Three times daily,Type 2 Diabetes,Patient has been experiencing stomach upset after initiating treatment with Simvastatin.,stomach upset
+0060,56,51-65,F,Amoxicillin,10mg,Oral,Three times daily,Atrial Fibrillation,Patient shows improvement with no notable side effects.,No ADE
+0061,77,66+,F,Ibuprofen,20mg,Inhaled,Once daily,Atrial Fibrillation,Patient has been experiencing nosebleeds after initiating treatment with Ibuprofen.,nosebleeds
+0062,38,36-50,F,Amoxicillin,500mg,Inhaled,Once daily,Type 2 Diabetes,No adverse reactions reported during follow-up.,No ADE
+0063,60,51-65,M,Albuterol,500mg,Inhaled,Three times daily,Anxiety,Routine checkup showed no adverse responses to medication.,No ADE
+0064,28,19-35,M,Albuterol,20mg,Oral,Three times daily,Migraine,"insomnia symptoms noted by patient, potentially related to Albuterol.",insomnia
+0065,42,36-50,F,Warfarin,20mg,Oral,Three times daily,Sinus Infection,"Reported issues include drowsiness, which started after Warfarin was prescribed.",drowsiness
+0066,61,51-65,F,Paroxetine,20mg,Inhaled,Twice daily,High Cholesterol,"Reported issues include dry mouth, which started after Paroxetine was prescribed.",dry mouth
+0067,47,36-50,F,Amoxicillin,20mg,Inhaled,Once daily,Hypertension,No evidence of Amoxicillin being poorly tolerated by the patient.,No ADE
+0068,31,19-35,F,Paroxetine,50mg,Oral,Once daily,Asthma,"muscle pain symptoms noted by patient, potentially related to Paroxetine.",muscle pain
+0069,32,19-35,F,Amoxicillin,10mg,Inhaled,Three times daily,Hypertension,Patient remains asymptomatic and compliant with Amoxicillin therapy.,No ADE
+0070,45,36-50,M,Prednisone,10mg,Inhaled,Twice daily,Anxiety,No undesirable reactions have been observed following Prednisone administration.,No ADE
+0071,70,66+,M,Paroxetine,50mg,Inhaled,Twice daily,Asthma,No complaints or unusual symptoms observed after medication use.,No ADE
+0072,72,66+,M,Paroxetine,20mg,Inhaled,Once daily,Atrial Fibrillation,No adverse reactions reported during follow-up.,No ADE
+0073,74,66+,F,Lisinopril,50mg,Oral,As needed,Migraine,"muscle pain symptoms noted by patient, potentially related to Lisinopril.",muscle pain
+0074,70,66+,M,Amoxicillin,20mg,Oral,As needed,Asthma,"insomnia symptoms noted by patient, potentially related to Amoxicillin.",insomnia
+0075,58,51-65,M,Metformin,100mg,Oral,As needed,Depression,Patient has been experiencing muscle pain after initiating treatment with Metformin.,muscle pain
+0076,37,36-50,F,Prednisone,500mg,Inhaled,Twice daily,Hypertension,"nausea symptoms noted by patient, potentially related to Prednisone.",nausea
+0077,21,19-35,F,Sertraline,500mg,Oral,Three times daily,Depression,"dizziness symptoms noted by patient, potentially related to Sertraline.",dizziness
+0078,43,36-50,F,Lisinopril,500mg,Oral,Once daily,Atrial Fibrillation,Patient denies any negative side effects associated with Lisinopril.,No ADE
+0079,26,19-35,M,Warfarin,100mg,Oral,As needed,Rheumatoid Arthritis,"muscle pain symptoms noted by patient, potentially related to Warfarin.",muscle pain
+0080,38,36-50,F,Albuterol,100mg,Oral,As needed,Atrial Fibrillation,Follow-up suggests the patient has no adverse responses to Albuterol.,No ADE
+0081,56,51-65,M,Sertraline,20mg,Inhaled,Twice daily,Type 2 Diabetes,"nosebleeds symptoms noted by patient, potentially related to Sertraline.",nosebleeds
+0082,38,36-50,F,Metformin,500mg,Inhaled,As needed,High Cholesterol,Patient has been experiencing appetite increase after initiating treatment with Metformin.,appetite increase
+0083,57,51-65,M,Albuterol,100mg,Inhaled,Three times daily,Migraine,"Reported issues include itching, which started after Albuterol was prescribed.",itching
+0084,51,51-65,M,Sertraline,500mg,Inhaled,As needed,Depression,Patient shows improvement with no notable side effects.,No ADE
+0085,64,51-65,M,Sertraline,100mg,Inhaled,Once daily,Sinus Infection,Patient denies any negative side effects associated with Sertraline.,No ADE
+0086,27,19-35,F,Ibuprofen,50mg,Oral,Three times daily,Depression,"Reported issues include insomnia, which started after Ibuprofen was prescribed.",insomnia
+0087,69,66+,M,Metformin,50mg,Inhaled,Twice daily,Atrial Fibrillation,Routine checkup showed no adverse responses to medication.,No ADE
+0088,27,19-35,F,Paroxetine,100mg,Inhaled,Once daily,Asthma,"Reported issues include stomach upset, which started after Paroxetine was prescribed.",stomach upset
+0089,34,19-35,F,Simvastatin,10mg,Inhaled,As needed,Migraine,Clinical evaluation reveals no signs of Simvastatin-related adverse effects.,No ADE
+0090,29,19-35,M,Simvastatin,50mg,Oral,Twice daily,Rheumatoid Arthritis,Follow-up suggests the patient has no adverse responses to Simvastatin.,No ADE
+0091,41,36-50,F,Warfarin,100mg,Oral,Once daily,Anxiety,"nosebleeds symptoms noted by patient, potentially related to Warfarin.",nosebleeds
+0092,50,36-50,M,Albuterol,100mg,Oral,Three times daily,Rheumatoid Arthritis,"Reported issues include muscle pain, which started after Albuterol was prescribed.",muscle pain
+0093,54,51-65,F,Metformin,20mg,Inhaled,Once daily,Sinus Infection,"muscle pain symptoms noted by patient, potentially related to Metformin.",muscle pain
+0094,62,51-65,F,Prednisone,10mg,Inhaled,Twice daily,Depression,Patient shows improvement with no notable side effects.,No ADE
+0095,40,36-50,F,Amoxicillin,100mg,Oral,As needed,Atrial Fibrillation,"drowsiness symptoms noted by patient, potentially related to Amoxicillin.",drowsiness
+0096,70,66+,M,Metformin,10mg,Inhaled,Once daily,Atrial Fibrillation,Clinical evaluation reveals no signs of Metformin-related adverse effects.,No ADE
+0097,47,36-50,F,Amoxicillin,100mg,Oral,Three times daily,Depression,"Reported issues include stomach upset, which started after Amoxicillin was prescribed.",stomach upset
+0098,27,19-35,M,Metformin,20mg,Inhaled,Once daily,Anxiety,No undesirable reactions have been observed following Metformin administration.,No ADE
+0099,69,66+,F,Lisinopril,500mg,Inhaled,Once daily,Rheumatoid Arthritis,Patient denies any negative side effects associated with Lisinopril.,No ADE
+0100,20,19-35,M,Albuterol,100mg,Oral,Twice daily,Depression,"Reported issues include nosebleeds, which started after Albuterol was prescribed.",nosebleeds
+0101,70,66+,F,Lisinopril,500mg,Inhaled,As needed,High Cholesterol,"itching symptoms noted by patient, potentially related to Lisinopril.",itching
+0102,43,36-50,M,Prednisone,20mg,Inhaled,Twice daily,Sinus Infection,"Reported issues include dry mouth, which started after Prednisone was prescribed.",dry mouth
+0103,47,36-50,M,Prednisone,20mg,Inhaled,Once daily,Anxiety,"mood swings symptoms noted by patient, potentially related to Prednisone.",mood swings
+0104,46,36-50,M,Amoxicillin,500mg,Inhaled,Three times daily,Type 2 Diabetes,No undesirable reactions have been observed following Amoxicillin administration.,No ADE
+0105,76,66+,F,Amoxicillin,50mg,Oral,Twice daily,Sinus Infection,Patient has been experiencing stomach upset after initiating treatment with Amoxicillin.,stomach upset
+0106,40,36-50,M,Lisinopril,20mg,Inhaled,Twice daily,Rheumatoid Arthritis,"drowsiness symptoms noted by patient, potentially related to Lisinopril.",drowsiness
+0107,20,19-35,F,Prednisone,20mg,Oral,Twice daily,High Cholesterol,"dry mouth symptoms noted by patient, potentially related to Prednisone.",dry mouth
+0108,71,66+,F,Paroxetine,20mg,Oral,Three times daily,High Cholesterol,Patient remains asymptomatic and compliant with Paroxetine therapy.,No ADE
+0109,57,51-65,F,Sertraline,10mg,Oral,Twice daily,Asthma,Reports indicate Sertraline has been effective without complications.,No ADE
+0110,78,66+,F,Prednisone,10mg,Oral,Three times daily,Hypertension,Treatment with Prednisone appears safe with no adverse symptoms recorded.,No ADE
+0111,63,51-65,M,Albuterol,100mg,Oral,Once daily,Anxiety,Patient shows improvement with no notable side effects.,No ADE
+0112,60,51-65,M,Prednisone,500mg,Inhaled,Once daily,Hypertension,Patient has been experiencing insomnia after initiating treatment with Prednisone.,insomnia
+0113,45,36-50,F,Lisinopril,10mg,Inhaled,As needed,Asthma,Patient shows improvement with no notable side effects.,No ADE
+0114,50,36-50,F,Metformin,100mg,Oral,As needed,Hypertension,Clinical evaluation reveals no signs of Metformin-related adverse effects.,No ADE
+0115,47,36-50,F,Sertraline,10mg,Oral,Three times daily,Anxiety,Patient denies any negative side effects associated with Sertraline.,No ADE
+0116,58,51-65,M,Metformin,500mg,Inhaled,Once daily,Migraine,"nausea symptoms noted by patient, potentially related to Metformin.",nausea
+0117,36,36-50,F,Simvastatin,500mg,Oral,Twice daily,Anxiety,Follow-up suggests the patient has no adverse responses to Simvastatin.,No ADE
+0118,29,19-35,M,Prednisone,500mg,Inhaled,Three times daily,Atrial Fibrillation,No undesirable reactions have been observed following Prednisone administration.,No ADE
+0119,69,66+,M,Albuterol,10mg,Oral,As needed,Rheumatoid Arthritis,Routine checkup showed no adverse responses to medication.,No ADE
+0120,43,36-50,M,Prednisone,500mg,Oral,As needed,High Cholesterol,No indications of intolerance or adverse events tied to Prednisone.,No ADE
+0121,32,19-35,F,Simvastatin,20mg,Oral,Twice daily,Sinus Infection,"Reported issues include itching, which started after Simvastatin was prescribed.",itching
+0122,49,36-50,F,Sertraline,500mg,Oral,Once daily,Hypertension,Medical review confirms the absence of drug-related side effects.,No ADE
+0123,56,51-65,M,Prednisone,50mg,Oral,As needed,High Cholesterol,Follow-up suggests the patient has no adverse responses to Prednisone.,No ADE
+0124,79,66+,M,Albuterol,50mg,Inhaled,As needed,Sinus Infection,Routine checkup showed no adverse responses to medication.,No ADE
+0125,65,51-65,M,Albuterol,50mg,Inhaled,Three times daily,High Cholesterol,Patient has been experiencing sweating after initiating treatment with Albuterol.,sweating
+0126,34,19-35,M,Paroxetine,20mg,Oral,Once daily,Anxiety,Patient has been experiencing rash after initiating treatment with Paroxetine.,rash
+0127,73,66+,F,Lisinopril,50mg,Oral,Once daily,Depression,No undesirable reactions have been observed following Lisinopril administration.,No ADE
+0128,60,51-65,M,Sertraline,100mg,Inhaled,As needed,Asthma,Patient has been experiencing nausea after initiating treatment with Sertraline.,nausea
+0129,79,66+,F,Paroxetine,20mg,Inhaled,Three times daily,Hypertension,Medical review confirms the absence of drug-related side effects.,No ADE
+0130,56,51-65,F,Paroxetine,500mg,Inhaled,Twice daily,High Cholesterol,Follow-up suggests the patient has no adverse responses to Paroxetine.,No ADE
+0131,30,19-35,M,Amoxicillin,20mg,Inhaled,Once daily,Hypertension,Follow-up suggests the patient has no adverse responses to Amoxicillin.,No ADE
+0132,34,19-35,M,Sertraline,500mg,Inhaled,Once daily,Migraine,"Reported issues include muscle pain, which started after Sertraline was prescribed.",muscle pain
+0133,29,19-35,M,Simvastatin,10mg,Oral,Once daily,Migraine,Medical review confirms the absence of drug-related side effects.,No ADE
+0134,30,19-35,F,Prednisone,50mg,Oral,Three times daily,Sinus Infection,Patient has been experiencing drowsiness after initiating treatment with Prednisone.,drowsiness
+0135,37,36-50,M,Metformin,100mg,Oral,Once daily,Sinus Infection,"Reported issues include dizziness, which started after Metformin was prescribed.",dizziness
+0136,79,66+,F,Albuterol,20mg,Inhaled,As needed,Migraine,No undesirable reactions have been observed following Albuterol administration.,No ADE
+0137,72,66+,F,Ibuprofen,20mg,Oral,Three times daily,Hypertension,Patient shows improvement with no notable side effects.,No ADE
+0138,61,51-65,F,Lisinopril,100mg,Inhaled,Once daily,High Cholesterol,No complaints or unusual symptoms observed after medication use.,No ADE
+0139,57,51-65,M,Paroxetine,20mg,Inhaled,Three times daily,High Cholesterol,Patient denies any negative side effects associated with Paroxetine.,No ADE
+0140,71,66+,M,Metformin,100mg,Oral,Twice daily,Depression,Patient has been experiencing sweating after initiating treatment with Metformin.,sweating
+0141,66,66+,F,Ibuprofen,500mg,Oral,As needed,Anxiety,Patient has been experiencing mood swings after initiating treatment with Ibuprofen.,mood swings
+0142,64,51-65,M,Metformin,500mg,Oral,Once daily,Depression,"rash symptoms noted by patient, potentially related to Metformin.",rash
+0143,47,36-50,M,Sertraline,20mg,Inhaled,Three times daily,Depression,No adverse reactions reported during follow-up.,No ADE
+0144,56,51-65,F,Prednisone,50mg,Oral,Once daily,Rheumatoid Arthritis,Routine checkup showed no adverse responses to medication.,No ADE
+0145,53,51-65,M,Sertraline,500mg,Oral,As needed,Atrial Fibrillation,Clinical evaluation reveals no signs of Sertraline-related adverse effects.,No ADE
+0146,55,51-65,M,Sertraline,20mg,Oral,Once daily,Hypertension,Routine checkup showed no adverse responses to medication.,No ADE
+0147,78,66+,M,Paroxetine,10mg,Oral,Once daily,Type 2 Diabetes,"sweating symptoms noted by patient, potentially related to Paroxetine.",sweating
+0148,45,36-50,M,Lisinopril,20mg,Inhaled,Once daily,Rheumatoid Arthritis,No undesirable reactions have been observed following Lisinopril administration.,No ADE
+0149,56,51-65,M,Simvastatin,20mg,Oral,Twice daily,Hypertension,Routine checkup showed no adverse responses to medication.,No ADE
+0150,47,36-50,F,Lisinopril,50mg,Inhaled,Twice daily,Sinus Infection,"Reported issues include dizziness, which started after Lisinopril was prescribed.",dizziness
+0151,69,66+,F,Albuterol,500mg,Oral,Three times daily,Rheumatoid Arthritis,"Reported issues include dry mouth, which started after Albuterol was prescribed.",dry mouth
+0152,61,51-65,F,Albuterol,20mg,Inhaled,Twice daily,Type 2 Diabetes,Clinical evaluation reveals no signs of Albuterol-related adverse effects.,No ADE
+0153,65,51-65,M,Paroxetine,50mg,Oral,Once daily,Rheumatoid Arthritis,Patient shows improvement with no notable side effects.,No ADE
+0154,75,66+,F,Ibuprofen,100mg,Oral,Three times daily,Migraine,"Reported issues include drowsiness, which started after Ibuprofen was prescribed.",drowsiness
+0155,20,19-35,F,Paroxetine,50mg,Inhaled,Twice daily,Asthma,Patient shows improvement with no notable side effects.,No ADE
+0156,77,66+,M,Simvastatin,50mg,Oral,Once daily,High Cholesterol,"mood swings symptoms noted by patient, potentially related to Simvastatin.",mood swings
+0157,49,36-50,M,Prednisone,100mg,Oral,Once daily,Migraine,"muscle pain symptoms noted by patient, potentially related to Prednisone.",muscle pain
+0158,53,51-65,F,Warfarin,500mg,Oral,Three times daily,Asthma,No indications of intolerance or adverse events tied to Warfarin.,No ADE
+0159,38,36-50,M,Simvastatin,100mg,Oral,Twice daily,Sinus Infection,No complaints or unusual symptoms observed after medication use.,No ADE
+0160,22,19-35,F,Ibuprofen,500mg,Inhaled,As needed,Asthma,Patient remains asymptomatic and compliant with Ibuprofen therapy.,No ADE
+0161,60,51-65,M,Albuterol,500mg,Inhaled,Three times daily,Type 2 Diabetes,Routine checkup showed no adverse responses to medication.,No ADE
+0162,26,19-35,F,Prednisone,100mg,Oral,Twice daily,High Cholesterol,No adverse reactions reported during follow-up.,No ADE
+0163,21,19-35,F,Simvastatin,100mg,Oral,Once daily,Anxiety,No evidence of Simvastatin being poorly tolerated by the patient.,No ADE
+0164,21,19-35,M,Warfarin,500mg,Oral,As needed,Anxiety,"Reported issues include stomach upset, which started after Warfarin was prescribed.",stomach upset
+0165,67,66+,F,Lisinopril,10mg,Inhaled,Twice daily,Atrial Fibrillation,Medical review confirms the absence of drug-related side effects.,No ADE
+0166,20,19-35,M,Ibuprofen,500mg,Inhaled,As needed,Hypertension,Patient denies any negative side effects associated with Ibuprofen.,No ADE
+0167,63,51-65,F,Ibuprofen,100mg,Inhaled,As needed,High Cholesterol,No complaints or unusual symptoms observed after medication use.,No ADE
+0168,61,51-65,M,Simvastatin,20mg,Oral,Twice daily,Asthma,Routine checkup showed no adverse responses to medication.,No ADE
+0169,41,36-50,F,Paroxetine,500mg,Oral,Once daily,Hypertension,Reports indicate Paroxetine has been effective without complications.,No ADE
+0170,43,36-50,M,Metformin,100mg,Oral,Three times daily,Anxiety,Routine checkup showed no adverse responses to medication.,No ADE
+0171,77,66+,M,Warfarin,20mg,Oral,Three times daily,Type 2 Diabetes,No indications of intolerance or adverse events tied to Warfarin.,No ADE
+0172,25,19-35,F,Prednisone,500mg,Oral,Once daily,Sinus Infection,Patient appears to tolerate Prednisone well with no side effects noted.,No ADE
+0173,61,51-65,M,Simvastatin,500mg,Inhaled,Three times daily,Asthma,Patient has been experiencing dry mouth after initiating treatment with Simvastatin.,dry mouth
+0174,71,66+,F,Warfarin,20mg,Inhaled,Twice daily,Depression,Patient has been experiencing dry mouth after initiating treatment with Warfarin.,dry mouth
+0175,75,66+,F,Warfarin,100mg,Oral,Twice daily,Rheumatoid Arthritis,Patient denies any negative side effects associated with Warfarin.,No ADE
+0176,58,51-65,M,Warfarin,100mg,Oral,Twice daily,Atrial Fibrillation,No complaints or unusual symptoms observed after medication use.,No ADE
+0177,48,36-50,M,Albuterol,20mg,Oral,Three times daily,Rheumatoid Arthritis,Patient has been experiencing drowsiness after initiating treatment with Albuterol.,drowsiness
+0178,52,51-65,M,Albuterol,100mg,Inhaled,As needed,Sinus Infection,Patient has been experiencing dry mouth after initiating treatment with Albuterol.,dry mouth
+0179,75,66+,M,Albuterol,10mg,Inhaled,As needed,Sinus Infection,Follow-up suggests the patient has no adverse responses to Albuterol.,No ADE
+0180,73,66+,M,Ibuprofen,20mg,Oral,Three times daily,High Cholesterol,"rash symptoms noted by patient, potentially related to Ibuprofen.",rash
+0181,48,36-50,M,Warfarin,50mg,Inhaled,Once daily,Migraine,Patient has been experiencing dizziness after initiating treatment with Warfarin.,dizziness
+0182,26,19-35,F,Metformin,10mg,Inhaled,As needed,Hypertension,"Reported issues include mood swings, which started after Metformin was prescribed.",mood swings
+0183,79,66+,F,Sertraline,10mg,Inhaled,As needed,Migraine,"Reported issues include muscle pain, which started after Sertraline was prescribed.",muscle pain
+0184,48,36-50,F,Paroxetine,100mg,Inhaled,Once daily,Migraine,Patient has been experiencing drowsiness after initiating treatment with Paroxetine.,drowsiness
+0185,78,66+,M,Sertraline,500mg,Oral,Twice daily,Sinus Infection,No indications of intolerance or adverse events tied to Sertraline.,No ADE
+0186,57,51-65,M,Warfarin,10mg,Inhaled,Three times daily,Hypertension,Medical review confirms the absence of drug-related side effects.,No ADE
+0187,25,19-35,M,Lisinopril,100mg,Inhaled,Three times daily,Migraine,"dizziness symptoms noted by patient, potentially related to Lisinopril.",dizziness
+0188,50,36-50,F,Ibuprofen,500mg,Inhaled,Three times daily,Asthma,Patient has been experiencing mood swings after initiating treatment with Ibuprofen.,mood swings
+0189,30,19-35,M,Albuterol,20mg,Inhaled,As needed,Type 2 Diabetes,Follow-up suggests the patient has no adverse responses to Albuterol.,No ADE
+0190,33,19-35,F,Prednisone,20mg,Inhaled,Twice daily,Anxiety,"itching symptoms noted by patient, potentially related to Prednisone.",itching
+0191,69,66+,M,Ibuprofen,50mg,Oral,Twice daily,Migraine,No indications of intolerance or adverse events tied to Ibuprofen.,No ADE
+0192,24,19-35,M,Warfarin,20mg,Inhaled,Twice daily,High Cholesterol,Patient appears to tolerate Warfarin well with no side effects noted.,No ADE
+0193,74,66+,F,Prednisone,20mg,Oral,As needed,Sinus Infection,Follow-up suggests the patient has no adverse responses to Prednisone.,No ADE
+0194,76,66+,F,Amoxicillin,50mg,Oral,Three times daily,Migraine,No adverse reactions reported during follow-up.,No ADE
+0195,63,51-65,M,Ibuprofen,20mg,Oral,Twice daily,Atrial Fibrillation,Treatment with Ibuprofen appears safe with no adverse symptoms recorded.,No ADE
+0196,58,51-65,M,Albuterol,500mg,Inhaled,Twice daily,Hypertension,"Reported issues include itching, which started after Albuterol was prescribed.",itching
+0197,65,51-65,M,Amoxicillin,100mg,Oral,Three times daily,High Cholesterol,"Reported issues include dizziness, which started after Amoxicillin was prescribed.",dizziness
+0198,32,19-35,M,Lisinopril,500mg,Oral,As needed,Depression,No indications of intolerance or adverse events tied to Lisinopril.,No ADE
+0199,74,66+,F,Lisinopril,500mg,Oral,Twice daily,Rheumatoid Arthritis,"itching symptoms noted by patient, potentially related to Lisinopril.",itching
+0200,35,19-35,F,Simvastatin,500mg,Inhaled,Once daily,Migraine,Medical review confirms the absence of drug-related side effects.,No ADE
+0201,42,36-50,F,Ibuprofen,100mg,Inhaled,Three times daily,Sinus Infection,Patient has been experiencing insomnia after initiating treatment with Ibuprofen.,insomnia
+0202,22,19-35,M,Ibuprofen,500mg,Inhaled,As needed,Asthma,Patient has been experiencing rash after initiating treatment with Ibuprofen.,rash
+0203,45,36-50,F,Paroxetine,100mg,Oral,Twice daily,Rheumatoid Arthritis,"appetite increase symptoms noted by patient, potentially related to Paroxetine.",appetite increase
+0204,54,51-65,M,Sertraline,20mg,Inhaled,As needed,Anxiety,"Reported issues include nausea, which started after Sertraline was prescribed.",nausea
+0205,47,36-50,F,Ibuprofen,20mg,Inhaled,Three times daily,Rheumatoid Arthritis,Patient has been experiencing nosebleeds after initiating treatment with Ibuprofen.,nosebleeds
+0206,22,19-35,F,Prednisone,10mg,Inhaled,As needed,Asthma,Routine checkup showed no adverse responses to medication.,No ADE
+0207,37,36-50,M,Ibuprofen,10mg,Oral,Once daily,Hypertension,Patient has been experiencing muscle pain after initiating treatment with Ibuprofen.,muscle pain
+0208,59,51-65,F,Paroxetine,50mg,Oral,Twice daily,Depression,No undesirable reactions have been observed following Paroxetine administration.,No ADE
+0209,21,19-35,M,Paroxetine,10mg,Oral,Once daily,High Cholesterol,"Reported issues include mood swings, which started after Paroxetine was prescribed.",mood swings
+0210,67,66+,F,Prednisone,10mg,Oral,Twice daily,High Cholesterol,"muscle pain symptoms noted by patient, potentially related to Prednisone.",muscle pain
+0211,40,36-50,F,Warfarin,20mg,Oral,Twice daily,Migraine,Clinical evaluation reveals no signs of Warfarin-related adverse effects.,No ADE
+0212,77,66+,M,Sertraline,20mg,Oral,Three times daily,Migraine,"Reported issues include itching, which started after Sertraline was prescribed.",itching
+0213,45,36-50,F,Prednisone,500mg,Inhaled,As needed,Migraine,Patient has been experiencing drowsiness after initiating treatment with Prednisone.,drowsiness
+0214,62,51-65,F,Ibuprofen,50mg,Inhaled,Three times daily,Sinus Infection,"dizziness symptoms noted by patient, potentially related to Ibuprofen.",dizziness
+0215,47,36-50,M,Warfarin,20mg,Oral,Once daily,Anxiety,Patient denies any negative side effects associated with Warfarin.,No ADE
+0216,25,19-35,F,Lisinopril,20mg,Inhaled,Once daily,Type 2 Diabetes,"Reported issues include itching, which started after Lisinopril was prescribed.",itching
+0217,64,51-65,M,Prednisone,20mg,Inhaled,Once daily,High Cholesterol,"Reported issues include drowsiness, which started after Prednisone was prescribed.",drowsiness
+0218,34,19-35,M,Simvastatin,20mg,Inhaled,Once daily,Hypertension,"Reported issues include rash, which started after Simvastatin was prescribed.",rash
+0219,80,66+,M,Prednisone,50mg,Oral,Three times daily,Depression,"stomach upset symptoms noted by patient, potentially related to Prednisone.",stomach upset
+0220,49,36-50,M,Ibuprofen,10mg,Oral,As needed,Type 2 Diabetes,No evidence of Ibuprofen being poorly tolerated by the patient.,No ADE
+0221,40,36-50,M,Ibuprofen,50mg,Inhaled,Once daily,Depression,"drowsiness symptoms noted by patient, potentially related to Ibuprofen.",drowsiness
+0222,75,66+,M,Albuterol,100mg,Oral,As needed,Asthma,Clinical evaluation reveals no signs of Albuterol-related adverse effects.,No ADE
+0223,69,66+,M,Warfarin,20mg,Inhaled,Three times daily,High Cholesterol,"bruising symptoms noted by patient, potentially related to Warfarin.",bruising
+0224,27,19-35,F,Sertraline,100mg,Oral,Once daily,Migraine,"dizziness symptoms noted by patient, potentially related to Sertraline.",dizziness
+0225,61,51-65,M,Paroxetine,500mg,Inhaled,As needed,Sinus Infection,Clinical evaluation reveals no signs of Paroxetine-related adverse effects.,No ADE
+0226,23,19-35,F,Lisinopril,20mg,Oral,Once daily,Anxiety,Patient shows improvement with no notable side effects.,No ADE
+0227,24,19-35,F,Albuterol,20mg,Oral,Twice daily,Hypertension,Patient denies any negative side effects associated with Albuterol.,No ADE
+0228,32,19-35,F,Amoxicillin,20mg,Oral,Once daily,Hypertension,Patient has been experiencing muscle pain after initiating treatment with Amoxicillin.,muscle pain
+0229,75,66+,F,Sertraline,10mg,Oral,Twice daily,Asthma,Patient has been experiencing muscle pain after initiating treatment with Sertraline.,muscle pain
+0230,28,19-35,M,Warfarin,500mg,Oral,Once daily,Asthma,Clinical evaluation reveals no signs of Warfarin-related adverse effects.,No ADE
+0231,73,66+,M,Simvastatin,10mg,Inhaled,Three times daily,Anxiety,Reports indicate Simvastatin has been effective without complications.,No ADE
+0232,33,19-35,F,Albuterol,50mg,Oral,Once daily,Type 2 Diabetes,No complaints or unusual symptoms observed after medication use.,No ADE
+0233,79,66+,F,Warfarin,500mg,Inhaled,As needed,Asthma,"Reported issues include insomnia, which started after Warfarin was prescribed.",insomnia
+0234,57,51-65,M,Simvastatin,100mg,Inhaled,Once daily,Migraine,No indications of intolerance or adverse events tied to Simvastatin.,No ADE
+0235,26,19-35,F,Sertraline,10mg,Oral,As needed,Depression,Follow-up suggests the patient has no adverse responses to Sertraline.,No ADE
+0236,28,19-35,F,Amoxicillin,20mg,Oral,Three times daily,Atrial Fibrillation,"stomach upset symptoms noted by patient, potentially related to Amoxicillin.",stomach upset
+0237,35,19-35,F,Ibuprofen,50mg,Oral,Three times daily,Migraine,"bruising symptoms noted by patient, potentially related to Ibuprofen.",bruising
+0238,36,36-50,F,Simvastatin,20mg,Inhaled,Twice daily,Anxiety,No indications of intolerance or adverse events tied to Simvastatin.,No ADE
+0239,40,36-50,M,Ibuprofen,50mg,Oral,Three times daily,Anxiety,No evidence of Ibuprofen being poorly tolerated by the patient.,No ADE
+0240,32,19-35,F,Metformin,20mg,Inhaled,Once daily,Rheumatoid Arthritis,"Reported issues include rash, which started after Metformin was prescribed.",rash
+0241,72,66+,M,Ibuprofen,50mg,Oral,As needed,Migraine,"drowsiness symptoms noted by patient, potentially related to Ibuprofen.",drowsiness
+0242,28,19-35,M,Paroxetine,100mg,Inhaled,Three times daily,High Cholesterol,"mood swings symptoms noted by patient, potentially related to Paroxetine.",mood swings
+0243,56,51-65,F,Prednisone,500mg,Inhaled,Once daily,Sinus Infection,Medical review confirms the absence of drug-related side effects.,No ADE
+0244,60,51-65,M,Ibuprofen,20mg,Inhaled,Twice daily,High Cholesterol,Treatment with Ibuprofen appears safe with no adverse symptoms recorded.,No ADE
+0245,47,36-50,M,Ibuprofen,500mg,Oral,Three times daily,Type 2 Diabetes,Patient has been experiencing rash after initiating treatment with Ibuprofen.,rash
+0246,69,66+,M,Albuterol,500mg,Oral,Twice daily,Anxiety,"appetite increase symptoms noted by patient, potentially related to Albuterol.",appetite increase
+0247,22,19-35,F,Ibuprofen,10mg,Inhaled,Twice daily,Sinus Infection,Patient has been experiencing appetite increase after initiating treatment with Ibuprofen.,appetite increase
+0248,24,19-35,M,Prednisone,100mg,Inhaled,Once daily,Atrial Fibrillation,Patient remains asymptomatic and compliant with Prednisone therapy.,No ADE
+0249,56,51-65,F,Albuterol,10mg,Inhaled,As needed,Depression,"Reported issues include itching, which started after Albuterol was prescribed.",itching
+0250,57,51-65,M,Metformin,20mg,Oral,Three times daily,Atrial Fibrillation,"Reported issues include mood swings, which started after Metformin was prescribed.",mood swings
+0251,80,66+,F,Warfarin,100mg,Inhaled,Once daily,Atrial Fibrillation,No adverse reactions reported during follow-up.,No ADE
+0252,25,19-35,M,Paroxetine,500mg,Oral,As needed,High Cholesterol,Follow-up suggests the patient has no adverse responses to Paroxetine.,No ADE
+0253,44,36-50,M,Paroxetine,20mg,Oral,Three times daily,Sinus Infection,Routine checkup showed no adverse responses to medication.,No ADE
+0254,72,66+,M,Ibuprofen,20mg,Inhaled,Three times daily,Sinus Infection,Clinical evaluation reveals no signs of Ibuprofen-related adverse effects.,No ADE
+0255,52,51-65,F,Amoxicillin,20mg,Oral,Once daily,Rheumatoid Arthritis,Patient shows improvement with no notable side effects.,No ADE
+0256,20,19-35,F,Ibuprofen,100mg,Inhaled,Twice daily,Migraine,"Reported issues include drowsiness, which started after Ibuprofen was prescribed.",drowsiness
+0257,67,66+,F,Ibuprofen,100mg,Oral,Twice daily,Sinus Infection,"Reported issues include drowsiness, which started after Ibuprofen was prescribed.",drowsiness
+0258,37,36-50,M,Lisinopril,50mg,Inhaled,Three times daily,Type 2 Diabetes,Reports indicate Lisinopril has been effective without complications.,No ADE
+0259,60,51-65,F,Paroxetine,20mg,Inhaled,Twice daily,Atrial Fibrillation,"Reported issues include nosebleeds, which started after Paroxetine was prescribed.",nosebleeds
+0260,59,51-65,M,Amoxicillin,10mg,Oral,Once daily,Rheumatoid Arthritis,Patient has been experiencing nosebleeds after initiating treatment with Amoxicillin.,nosebleeds
+0261,29,19-35,F,Amoxicillin,500mg,Inhaled,As needed,Asthma,Patient denies any negative side effects associated with Amoxicillin.,No ADE
+0262,73,66+,M,Paroxetine,10mg,Inhaled,Twice daily,Anxiety,Routine checkup showed no adverse responses to medication.,No ADE
+0263,79,66+,F,Sertraline,100mg,Oral,Twice daily,Asthma,Treatment with Sertraline appears safe with no adverse symptoms recorded.,No ADE
+0264,27,19-35,M,Warfarin,500mg,Inhaled,Three times daily,Type 2 Diabetes,No complaints or unusual symptoms observed after medication use.,No ADE
+0265,28,19-35,F,Simvastatin,10mg,Inhaled,As needed,Depression,Patient shows improvement with no notable side effects.,No ADE
+0266,72,66+,F,Warfarin,50mg,Oral,Twice daily,Anxiety,Patient has been experiencing nosebleeds after initiating treatment with Warfarin.,nosebleeds
+0267,25,19-35,M,Paroxetine,50mg,Oral,As needed,Atrial Fibrillation,"Reported issues include nosebleeds, which started after Paroxetine was prescribed.",nosebleeds
+0268,26,19-35,F,Amoxicillin,20mg,Inhaled,Twice daily,Depression,"Reported issues include nausea, which started after Amoxicillin was prescribed.",nausea
+0269,68,66+,M,Paroxetine,50mg,Oral,Once daily,Depression,Medical review confirms the absence of drug-related side effects.,No ADE
+0270,44,36-50,M,Lisinopril,500mg,Oral,As needed,High Cholesterol,Patient appears to tolerate Lisinopril well with no side effects noted.,No ADE
+0271,54,51-65,M,Metformin,10mg,Oral,As needed,High Cholesterol,Patient remains asymptomatic and compliant with Metformin therapy.,No ADE
+0272,69,66+,F,Amoxicillin,500mg,Inhaled,Three times daily,Rheumatoid Arthritis,"sweating symptoms noted by patient, potentially related to Amoxicillin.",sweating
+0273,52,51-65,M,Albuterol,50mg,Inhaled,Once daily,Asthma,Patient shows improvement with no notable side effects.,No ADE
+0274,49,36-50,F,Warfarin,50mg,Oral,Once daily,Depression,"rash symptoms noted by patient, potentially related to Warfarin.",rash
+0275,56,51-65,M,Metformin,100mg,Oral,Once daily,Asthma,"sweating symptoms noted by patient, potentially related to Metformin.",sweating
+0276,63,51-65,F,Prednisone,500mg,Inhaled,Three times daily,Rheumatoid Arthritis,No complaints or unusual symptoms observed after medication use.,No ADE
+0277,41,36-50,F,Albuterol,20mg,Inhaled,Three times daily,Depression,Patient shows improvement with no notable side effects.,No ADE
+0278,49,36-50,M,Metformin,100mg,Inhaled,Three times daily,Type 2 Diabetes,No adverse reactions reported during follow-up.,No ADE
+0279,45,36-50,F,Prednisone,10mg,Oral,Twice daily,Hypertension,"insomnia symptoms noted by patient, potentially related to Prednisone.",insomnia
+0280,62,51-65,F,Ibuprofen,50mg,Inhaled,Twice daily,Atrial Fibrillation,Patient appears to tolerate Ibuprofen well with no side effects noted.,No ADE
+0281,39,36-50,M,Lisinopril,20mg,Oral,Three times daily,Rheumatoid Arthritis,Patient has been experiencing muscle pain after initiating treatment with Lisinopril.,muscle pain
+0282,70,66+,F,Amoxicillin,500mg,Inhaled,Once daily,Atrial Fibrillation,Patient remains asymptomatic and compliant with Amoxicillin therapy.,No ADE
+0283,38,36-50,F,Warfarin,50mg,Inhaled,Once daily,Depression,Follow-up suggests the patient has no adverse responses to Warfarin.,No ADE
+0284,50,36-50,F,Ibuprofen,100mg,Inhaled,Three times daily,Migraine,Patient has been experiencing rash after initiating treatment with Ibuprofen.,rash
+0285,32,19-35,M,Lisinopril,100mg,Inhaled,Twice daily,Type 2 Diabetes,Treatment with Lisinopril appears safe with no adverse symptoms recorded.,No ADE
+0286,28,19-35,M,Simvastatin,100mg,Oral,Twice daily,High Cholesterol,Patient has been experiencing itching after initiating treatment with Simvastatin.,itching
+0287,20,19-35,M,Paroxetine,20mg,Inhaled,Three times daily,Rheumatoid Arthritis,No complaints or unusual symptoms observed after medication use.,No ADE
+0288,62,51-65,F,Sertraline,20mg,Oral,Twice daily,Hypertension,Patient denies any negative side effects associated with Sertraline.,No ADE
+0289,49,36-50,F,Sertraline,500mg,Inhaled,Once daily,Depression,"Reported issues include insomnia, which started after Sertraline was prescribed.",insomnia
+0290,46,36-50,M,Warfarin,500mg,Oral,Three times daily,Rheumatoid Arthritis,No evidence of Warfarin being poorly tolerated by the patient.,No ADE
+0291,34,19-35,F,Lisinopril,50mg,Oral,Once daily,Asthma,Patient has been experiencing nosebleeds after initiating treatment with Lisinopril.,nosebleeds
+0292,57,51-65,M,Lisinopril,500mg,Oral,Twice daily,Asthma,"itching symptoms noted by patient, potentially related to Lisinopril.",itching
+0293,39,36-50,F,Lisinopril,100mg,Oral,Twice daily,High Cholesterol,"nausea symptoms noted by patient, potentially related to Lisinopril.",nausea
+0294,27,19-35,M,Prednisone,10mg,Oral,Twice daily,Sinus Infection,No evidence of Prednisone being poorly tolerated by the patient.,No ADE
+0295,32,19-35,F,Sertraline,20mg,Inhaled,Three times daily,Hypertension,"dry mouth symptoms noted by patient, potentially related to Sertraline.",dry mouth
+0296,22,19-35,F,Ibuprofen,50mg,Inhaled,Three times daily,Asthma,"Reported issues include muscle pain, which started after Ibuprofen was prescribed.",muscle pain
+0297,31,19-35,M,Simvastatin,20mg,Inhaled,Three times daily,Anxiety,Medical review confirms the absence of drug-related side effects.,No ADE
+0298,45,36-50,F,Simvastatin,500mg,Inhaled,As needed,Type 2 Diabetes,Reports indicate Simvastatin has been effective without complications.,No ADE
+0299,26,19-35,F,Ibuprofen,20mg,Oral,As needed,Asthma,Patient has been experiencing dizziness after initiating treatment with Ibuprofen.,dizziness
+0300,41,36-50,F,Lisinopril,100mg,Oral,Twice daily,Migraine,No complaints or unusual symptoms observed after medication use.,No ADE
+0301,74,66+,F,Amoxicillin,20mg,Inhaled,As needed,Atrial Fibrillation,No indications of intolerance or adverse events tied to Amoxicillin.,No ADE
+0302,78,66+,F,Albuterol,50mg,Oral,Twice daily,Hypertension,Patient has been experiencing drowsiness after initiating treatment with Albuterol.,drowsiness
+0303,45,36-50,F,Albuterol,100mg,Inhaled,As needed,Rheumatoid Arthritis,"Reported issues include appetite increase, which started after Albuterol was prescribed.",appetite increase
+0304,22,19-35,M,Paroxetine,500mg,Inhaled,Once daily,Atrial Fibrillation,Medical review confirms the absence of drug-related side effects.,No ADE
+0305,42,36-50,M,Warfarin,500mg,Inhaled,Twice daily,Sinus Infection,Treatment with Warfarin appears safe with no adverse symptoms recorded.,No ADE
+0306,54,51-65,M,Sertraline,20mg,Inhaled,Once daily,Anxiety,Patient has been experiencing appetite increase after initiating treatment with Sertraline.,appetite increase
+0307,66,66+,M,Warfarin,10mg,Oral,Three times daily,Migraine,Patient has been experiencing muscle pain after initiating treatment with Warfarin.,muscle pain
+0308,76,66+,M,Warfarin,100mg,Inhaled,Once daily,Asthma,"Reported issues include dry mouth, which started after Warfarin was prescribed.",dry mouth
+0309,80,66+,M,Paroxetine,50mg,Oral,As needed,Rheumatoid Arthritis,Patient appears to tolerate Paroxetine well with no side effects noted.,No ADE
+0310,59,51-65,M,Lisinopril,50mg,Oral,Twice daily,Sinus Infection,Reports indicate Lisinopril has been effective without complications.,No ADE
+0311,30,19-35,F,Albuterol,10mg,Oral,Twice daily,Asthma,Patient has been experiencing drowsiness after initiating treatment with Albuterol.,drowsiness
+0312,33,19-35,M,Prednisone,500mg,Inhaled,As needed,Hypertension,Patient remains asymptomatic and compliant with Prednisone therapy.,No ADE
+0313,74,66+,F,Simvastatin,10mg,Oral,Three times daily,Sinus Infection,Reports indicate Simvastatin has been effective without complications.,No ADE
+0314,62,51-65,M,Simvastatin,100mg,Oral,Twice daily,Asthma,Clinical evaluation reveals no signs of Simvastatin-related adverse effects.,No ADE
+0315,41,36-50,F,Prednisone,500mg,Oral,Once daily,Migraine,Patient appears to tolerate Prednisone well with no side effects noted.,No ADE
+0316,55,51-65,F,Amoxicillin,500mg,Inhaled,Once daily,High Cholesterol,Reports indicate Amoxicillin has been effective without complications.,No ADE
+0317,29,19-35,M,Lisinopril,20mg,Oral,As needed,Asthma,Patient appears to tolerate Lisinopril well with no side effects noted.,No ADE
+0318,53,51-65,M,Prednisone,500mg,Oral,Three times daily,Atrial Fibrillation,"appetite increase symptoms noted by patient, potentially related to Prednisone.",appetite increase
+0319,68,66+,F,Warfarin,10mg,Oral,Twice daily,Sinus Infection,"mood swings symptoms noted by patient, potentially related to Warfarin.",mood swings
+0320,55,51-65,M,Prednisone,10mg,Oral,Once daily,Migraine,Patient has been experiencing nausea after initiating treatment with Prednisone.,nausea
+0321,32,19-35,F,Lisinopril,100mg,Inhaled,Three times daily,Depression,No complaints or unusual symptoms observed after medication use.,No ADE
+0322,63,51-65,M,Albuterol,500mg,Oral,As needed,Atrial Fibrillation,Patient denies any negative side effects associated with Albuterol.,No ADE
+0323,79,66+,F,Lisinopril,10mg,Inhaled,Once daily,Sinus Infection,Patient denies any negative side effects associated with Lisinopril.,No ADE
+0324,70,66+,M,Lisinopril,500mg,Oral,Once daily,High Cholesterol,No undesirable reactions have been observed following Lisinopril administration.,No ADE
+0325,22,19-35,F,Amoxicillin,20mg,Inhaled,Three times daily,Rheumatoid Arthritis,Patient has been experiencing dizziness after initiating treatment with Amoxicillin.,dizziness
+0326,23,19-35,M,Simvastatin,20mg,Inhaled,Twice daily,Hypertension,Patient denies any negative side effects associated with Simvastatin.,No ADE
+0327,48,36-50,M,Simvastatin,500mg,Inhaled,As needed,Anxiety,Patient remains asymptomatic and compliant with Simvastatin therapy.,No ADE
+0328,29,19-35,M,Amoxicillin,10mg,Inhaled,Twice daily,Sinus Infection,Patient has been experiencing dizziness after initiating treatment with Amoxicillin.,dizziness
+0329,59,51-65,M,Prednisone,500mg,Inhaled,Twice daily,Hypertension,"stomach upset symptoms noted by patient, potentially related to Prednisone.",stomach upset
+0330,51,51-65,M,Ibuprofen,10mg,Inhaled,As needed,Depression,No undesirable reactions have been observed following Ibuprofen administration.,No ADE
+0331,43,36-50,M,Amoxicillin,20mg,Inhaled,Once daily,Depression,Patient appears to tolerate Amoxicillin well with no side effects noted.,No ADE
+0332,26,19-35,F,Albuterol,500mg,Oral,Twice daily,Type 2 Diabetes,"drowsiness symptoms noted by patient, potentially related to Albuterol.",drowsiness
+0333,23,19-35,F,Warfarin,100mg,Inhaled,Once daily,Type 2 Diabetes,Patient has been experiencing nausea after initiating treatment with Warfarin.,nausea
+0334,34,19-35,M,Albuterol,500mg,Inhaled,As needed,Hypertension,Patient appears to tolerate Albuterol well with no side effects noted.,No ADE
+0335,21,19-35,F,Amoxicillin,10mg,Inhaled,Once daily,Atrial Fibrillation,"Reported issues include insomnia, which started after Amoxicillin was prescribed.",insomnia
+0336,24,19-35,F,Lisinopril,500mg,Oral,Twice daily,Type 2 Diabetes,"nausea symptoms noted by patient, potentially related to Lisinopril.",nausea
+0337,23,19-35,F,Amoxicillin,100mg,Inhaled,Once daily,Asthma,"Reported issues include dry mouth, which started after Amoxicillin was prescribed.",dry mouth
+0338,69,66+,M,Warfarin,100mg,Oral,Twice daily,Atrial Fibrillation,Routine checkup showed no adverse responses to medication.,No ADE
+0339,29,19-35,M,Amoxicillin,100mg,Inhaled,Once daily,Type 2 Diabetes,"itching symptoms noted by patient, potentially related to Amoxicillin.",itching
+0340,34,19-35,M,Ibuprofen,10mg,Inhaled,Twice daily,Sinus Infection,"Reported issues include appetite increase, which started after Ibuprofen was prescribed.",appetite increase
+0341,44,36-50,F,Albuterol,500mg,Oral,Twice daily,Atrial Fibrillation,"stomach upset symptoms noted by patient, potentially related to Albuterol.",stomach upset
+0342,26,19-35,F,Ibuprofen,20mg,Inhaled,Once daily,Asthma,Patient appears to tolerate Ibuprofen well with no side effects noted.,No ADE
+0343,22,19-35,F,Ibuprofen,50mg,Oral,As needed,Sinus Infection,No undesirable reactions have been observed following Ibuprofen administration.,No ADE
+0344,48,36-50,M,Simvastatin,500mg,Inhaled,Once daily,Migraine,Patient shows improvement with no notable side effects.,No ADE
+0345,51,51-65,F,Prednisone,50mg,Oral,Once daily,Rheumatoid Arthritis,No evidence of Prednisone being poorly tolerated by the patient.,No ADE
+0346,65,51-65,F,Lisinopril,20mg,Inhaled,Twice daily,High Cholesterol,"Reported issues include mood swings, which started after Lisinopril was prescribed.",mood swings
+0347,67,66+,F,Paroxetine,50mg,Oral,As needed,Anxiety,"itching symptoms noted by patient, potentially related to Paroxetine.",itching
+0348,30,19-35,M,Metformin,100mg,Inhaled,Once daily,Hypertension,Follow-up suggests the patient has no adverse responses to Metformin.,No ADE
+0349,77,66+,M,Metformin,10mg,Inhaled,Twice daily,High Cholesterol,Medical review confirms the absence of drug-related side effects.,No ADE
+0350,73,66+,M,Lisinopril,20mg,Inhaled,Once daily,Type 2 Diabetes,"Reported issues include itching, which started after Lisinopril was prescribed.",itching
+0351,27,19-35,F,Simvastatin,500mg,Inhaled,Three times daily,Sinus Infection,Patient shows improvement with no notable side effects.,No ADE
+0352,26,19-35,F,Prednisone,500mg,Oral,As needed,Sinus Infection,Patient has been experiencing muscle pain after initiating treatment with Prednisone.,muscle pain
+0353,63,51-65,F,Albuterol,100mg,Oral,Three times daily,Migraine,Patient has been experiencing bruising after initiating treatment with Albuterol.,bruising
+0354,39,36-50,M,Warfarin,100mg,Oral,As needed,Asthma,No evidence of Warfarin being poorly tolerated by the patient.,No ADE
+0355,24,19-35,M,Metformin,500mg,Oral,As needed,High Cholesterol,Patient has been experiencing itching after initiating treatment with Metformin.,itching
+0356,61,51-65,M,Warfarin,100mg,Inhaled,Twice daily,Depression,Routine checkup showed no adverse responses to medication.,No ADE
+0357,68,66+,M,Ibuprofen,10mg,Inhaled,Twice daily,Hypertension,"drowsiness symptoms noted by patient, potentially related to Ibuprofen.",drowsiness
+0358,55,51-65,M,Metformin,500mg,Inhaled,Twice daily,Type 2 Diabetes,No undesirable reactions have been observed following Metformin administration.,No ADE
+0359,75,66+,M,Simvastatin,50mg,Oral,As needed,Anxiety,Patient has been experiencing sweating after initiating treatment with Simvastatin.,sweating
+0360,34,19-35,M,Ibuprofen,100mg,Inhaled,Once daily,Atrial Fibrillation,No undesirable reactions have been observed following Ibuprofen administration.,No ADE
+0361,46,36-50,F,Prednisone,500mg,Inhaled,Three times daily,Anxiety,"nausea symptoms noted by patient, potentially related to Prednisone.",nausea
+0362,36,36-50,M,Metformin,100mg,Oral,Once daily,High Cholesterol,Patient has been experiencing itching after initiating treatment with Metformin.,itching
+0363,76,66+,M,Metformin,20mg,Oral,Once daily,Anxiety,"appetite increase symptoms noted by patient, potentially related to Metformin.",appetite increase
+0364,78,66+,F,Warfarin,10mg,Inhaled,Three times daily,High Cholesterol,Follow-up suggests the patient has no adverse responses to Warfarin.,No ADE
+0365,42,36-50,F,Paroxetine,100mg,Inhaled,As needed,Rheumatoid Arthritis,Patient has been experiencing stomach upset after initiating treatment with Paroxetine.,stomach upset
+0366,63,51-65,F,Ibuprofen,50mg,Inhaled,As needed,Atrial Fibrillation,Patient shows improvement with no notable side effects.,No ADE
+0367,24,19-35,M,Metformin,100mg,Inhaled,Once daily,Rheumatoid Arthritis,"insomnia symptoms noted by patient, potentially related to Metformin.",insomnia
+0368,56,51-65,F,Warfarin,500mg,Inhaled,As needed,Sinus Infection,"Reported issues include sweating, which started after Warfarin was prescribed.",sweating
+0369,73,66+,M,Amoxicillin,20mg,Oral,Once daily,Hypertension,Treatment with Amoxicillin appears safe with no adverse symptoms recorded.,No ADE
+0370,55,51-65,M,Prednisone,500mg,Inhaled,Twice daily,Migraine,Patient remains asymptomatic and compliant with Prednisone therapy.,No ADE
+0371,36,36-50,F,Prednisone,20mg,Inhaled,Twice daily,Atrial Fibrillation,Patient denies any negative side effects associated with Prednisone.,No ADE
+0372,31,19-35,F,Ibuprofen,20mg,Inhaled,Three times daily,Depression,"Reported issues include insomnia, which started after Ibuprofen was prescribed.",insomnia
+0373,76,66+,M,Simvastatin,20mg,Inhaled,Twice daily,Type 2 Diabetes,"Reported issues include dry mouth, which started after Simvastatin was prescribed.",dry mouth
+0374,35,19-35,M,Lisinopril,500mg,Inhaled,As needed,Hypertension,"Reported issues include stomach upset, which started after Lisinopril was prescribed.",stomach upset
+0375,65,51-65,M,Prednisone,500mg,Inhaled,Twice daily,Anxiety,No indications of intolerance or adverse events tied to Prednisone.,No ADE
+0376,41,36-50,F,Sertraline,10mg,Oral,Twice daily,Hypertension,"Reported issues include rash, which started after Sertraline was prescribed.",rash
+0377,46,36-50,M,Albuterol,20mg,Inhaled,Once daily,Type 2 Diabetes,"sweating symptoms noted by patient, potentially related to Albuterol.",sweating
+0378,45,36-50,F,Lisinopril,10mg,Inhaled,Once daily,Sinus Infection,Patient denies any negative side effects associated with Lisinopril.,No ADE
+0379,57,51-65,M,Metformin,10mg,Inhaled,As needed,Rheumatoid Arthritis,Patient has been experiencing bruising after initiating treatment with Metformin.,bruising
+0380,54,51-65,M,Prednisone,20mg,Oral,As needed,Rheumatoid Arthritis,Patient remains asymptomatic and compliant with Prednisone therapy.,No ADE
+0381,54,51-65,M,Paroxetine,10mg,Oral,Three times daily,Asthma,Routine checkup showed no adverse responses to medication.,No ADE
+0382,66,66+,M,Metformin,20mg,Inhaled,Twice daily,Migraine,"appetite increase symptoms noted by patient, potentially related to Metformin.",appetite increase
+0383,41,36-50,F,Sertraline,50mg,Inhaled,Three times daily,Sinus Infection,Patient shows improvement with no notable side effects.,No ADE
+0384,42,36-50,M,Amoxicillin,10mg,Inhaled,Twice daily,Depression,No indications of intolerance or adverse events tied to Amoxicillin.,No ADE
+0385,71,66+,F,Albuterol,100mg,Inhaled,As needed,Atrial Fibrillation,No undesirable reactions have been observed following Albuterol administration.,No ADE
+0386,42,36-50,M,Prednisone,500mg,Inhaled,As needed,Rheumatoid Arthritis,"nosebleeds symptoms noted by patient, potentially related to Prednisone.",nosebleeds
+0387,73,66+,M,Sertraline,50mg,Oral,Twice daily,Asthma,Routine checkup showed no adverse responses to medication.,No ADE
+0388,75,66+,F,Amoxicillin,100mg,Inhaled,Twice daily,Type 2 Diabetes,Patient has been experiencing nosebleeds after initiating treatment with Amoxicillin.,nosebleeds
+0389,33,19-35,F,Amoxicillin,100mg,Inhaled,As needed,Anxiety,No complaints or unusual symptoms observed after medication use.,No ADE
+0390,75,66+,M,Metformin,10mg,Oral,As needed,Type 2 Diabetes,Patient shows improvement with no notable side effects.,No ADE
+0391,59,51-65,M,Warfarin,20mg,Inhaled,Once daily,Anxiety,"Reported issues include appetite increase, which started after Warfarin was prescribed.",appetite increase
+0392,30,19-35,M,Prednisone,20mg,Oral,Twice daily,Depression,"Reported issues include bruising, which started after Prednisone was prescribed.",bruising
+0393,69,66+,M,Lisinopril,100mg,Inhaled,Twice daily,Atrial Fibrillation,Patient appears to tolerate Lisinopril well with no side effects noted.,No ADE
+0394,51,51-65,M,Prednisone,10mg,Inhaled,Once daily,Asthma,"Reported issues include bruising, which started after Prednisone was prescribed.",bruising
+0395,52,51-65,M,Warfarin,500mg,Oral,Once daily,Rheumatoid Arthritis,Patient has been experiencing bruising after initiating treatment with Warfarin.,bruising
+0396,25,19-35,M,Albuterol,100mg,Oral,Three times daily,Asthma,No indications of intolerance or adverse events tied to Albuterol.,No ADE
+0397,71,66+,M,Amoxicillin,50mg,Oral,Twice daily,High Cholesterol,"Reported issues include dizziness, which started after Amoxicillin was prescribed.",dizziness
+0398,34,19-35,F,Warfarin,10mg,Oral,As needed,Sinus Infection,Reports indicate Warfarin has been effective without complications.,No ADE
+0399,80,66+,F,Ibuprofen,10mg,Oral,Twice daily,Depression,Follow-up suggests the patient has no adverse responses to Ibuprofen.,No ADE
+0400,78,66+,F,Albuterol,100mg,Inhaled,Twice daily,Asthma,No indications of intolerance or adverse events tied to Albuterol.,No ADE
+0401,67,66+,M,Sertraline,500mg,Oral,Twice daily,Hypertension,"Reported issues include itching, which started after Sertraline was prescribed.",itching
+0402,58,51-65,M,Lisinopril,20mg,Oral,Once daily,Migraine,No adverse reactions reported during follow-up.,No ADE
+0403,31,19-35,F,Lisinopril,100mg,Oral,Once daily,Type 2 Diabetes,Reports indicate Lisinopril has been effective without complications.,No ADE
+0404,74,66+,F,Simvastatin,100mg,Oral,Once daily,Rheumatoid Arthritis,No indications of intolerance or adverse events tied to Simvastatin.,No ADE
+0405,63,51-65,F,Prednisone,50mg,Oral,As needed,Rheumatoid Arthritis,Follow-up suggests the patient has no adverse responses to Prednisone.,No ADE
+0406,77,66+,F,Lisinopril,500mg,Inhaled,Once daily,Rheumatoid Arthritis,No adverse reactions reported during follow-up.,No ADE
+0407,63,51-65,M,Albuterol,500mg,Oral,Twice daily,Migraine,Patient denies any negative side effects associated with Albuterol.,No ADE
+0408,39,36-50,F,Lisinopril,50mg,Oral,Once daily,Sinus Infection,Patient appears to tolerate Lisinopril well with no side effects noted.,No ADE
+0409,47,36-50,F,Lisinopril,20mg,Oral,As needed,Hypertension,Medical review confirms the absence of drug-related side effects.,No ADE
+0410,72,66+,F,Prednisone,50mg,Inhaled,Twice daily,Migraine,"stomach upset symptoms noted by patient, potentially related to Prednisone.",stomach upset
+0411,77,66+,F,Warfarin,10mg,Oral,Twice daily,Depression,Patient appears to tolerate Warfarin well with no side effects noted.,No ADE
+0412,24,19-35,M,Ibuprofen,50mg,Oral,Twice daily,Rheumatoid Arthritis,"Reported issues include bruising, which started after Ibuprofen was prescribed.",bruising
+0413,35,19-35,M,Sertraline,50mg,Inhaled,As needed,Asthma,"stomach upset symptoms noted by patient, potentially related to Sertraline.",stomach upset
+0414,70,66+,F,Albuterol,100mg,Oral,Once daily,Migraine,"Reported issues include appetite increase, which started after Albuterol was prescribed.",appetite increase
+0415,36,36-50,F,Paroxetine,500mg,Inhaled,As needed,Type 2 Diabetes,"Reported issues include stomach upset, which started after Paroxetine was prescribed.",stomach upset
+0416,56,51-65,F,Amoxicillin,100mg,Oral,Twice daily,Depression,Clinical evaluation reveals no signs of Amoxicillin-related adverse effects.,No ADE
+0417,76,66+,M,Lisinopril,100mg,Oral,As needed,Asthma,Patient has been experiencing drowsiness after initiating treatment with Lisinopril.,drowsiness
+0418,50,36-50,F,Ibuprofen,20mg,Inhaled,Three times daily,Depression,Follow-up suggests the patient has no adverse responses to Ibuprofen.,No ADE
+0419,47,36-50,M,Metformin,50mg,Inhaled,Once daily,Hypertension,"Reported issues include muscle pain, which started after Metformin was prescribed.",muscle pain
+0420,60,51-65,F,Metformin,50mg,Oral,As needed,High Cholesterol,"muscle pain symptoms noted by patient, potentially related to Metformin.",muscle pain
+0421,65,51-65,M,Lisinopril,500mg,Oral,As needed,Sinus Infection,No complaints or unusual symptoms observed after medication use.,No ADE
+0422,76,66+,F,Albuterol,50mg,Inhaled,Twice daily,Hypertension,Patient appears to tolerate Albuterol well with no side effects noted.,No ADE
+0423,71,66+,F,Ibuprofen,50mg,Oral,Twice daily,High Cholesterol,"itching symptoms noted by patient, potentially related to Ibuprofen.",itching
+0424,53,51-65,F,Metformin,50mg,Oral,Twice daily,Anxiety,Patient has been experiencing dry mouth after initiating treatment with Metformin.,dry mouth
+0425,71,66+,M,Warfarin,20mg,Oral,Twice daily,Asthma,Patient denies any negative side effects associated with Warfarin.,No ADE
+0426,36,36-50,F,Amoxicillin,10mg,Oral,Twice daily,Depression,Treatment with Amoxicillin appears safe with no adverse symptoms recorded.,No ADE
+0427,49,36-50,F,Lisinopril,20mg,Oral,Three times daily,Type 2 Diabetes,"nausea symptoms noted by patient, potentially related to Lisinopril.",nausea
+0428,25,19-35,M,Sertraline,500mg,Inhaled,Twice daily,Atrial Fibrillation,Patient has been experiencing insomnia after initiating treatment with Sertraline.,insomnia
+0429,76,66+,F,Simvastatin,20mg,Inhaled,Three times daily,Migraine,"Reported issues include mood swings, which started after Simvastatin was prescribed.",mood swings
+0430,45,36-50,F,Warfarin,100mg,Inhaled,Twice daily,Sinus Infection,"stomach upset symptoms noted by patient, potentially related to Warfarin.",stomach upset
+0431,27,19-35,M,Metformin,100mg,Inhaled,Twice daily,Migraine,No evidence of Metformin being poorly tolerated by the patient.,No ADE
+0432,39,36-50,M,Warfarin,10mg,Oral,Three times daily,Rheumatoid Arthritis,No evidence of Warfarin being poorly tolerated by the patient.,No ADE
+0433,58,51-65,F,Paroxetine,500mg,Oral,Twice daily,Depression,Treatment with Paroxetine appears safe with no adverse symptoms recorded.,No ADE
+0434,37,36-50,M,Simvastatin,20mg,Oral,Twice daily,Depression,Patient has been experiencing nosebleeds after initiating treatment with Simvastatin.,nosebleeds
+0435,23,19-35,M,Amoxicillin,10mg,Oral,Three times daily,Hypertension,Patient has been experiencing mood swings after initiating treatment with Amoxicillin.,mood swings
+0436,44,36-50,M,Paroxetine,100mg,Inhaled,As needed,Type 2 Diabetes,Follow-up suggests the patient has no adverse responses to Paroxetine.,No ADE
+0437,73,66+,M,Simvastatin,500mg,Inhaled,As needed,Asthma,Medical review confirms the absence of drug-related side effects.,No ADE
+0438,77,66+,M,Metformin,500mg,Oral,Twice daily,Hypertension,Treatment with Metformin appears safe with no adverse symptoms recorded.,No ADE
+0439,66,66+,F,Warfarin,10mg,Inhaled,Three times daily,Asthma,"appetite increase symptoms noted by patient, potentially related to Warfarin.",appetite increase
+0440,42,36-50,F,Lisinopril,100mg,Inhaled,Twice daily,High Cholesterol,"insomnia symptoms noted by patient, potentially related to Lisinopril.",insomnia
+0441,71,66+,M,Albuterol,100mg,Oral,Twice daily,Depression,No evidence of Albuterol being poorly tolerated by the patient.,No ADE
+0442,46,36-50,F,Sertraline,50mg,Oral,Twice daily,Anxiety,"stomach upset symptoms noted by patient, potentially related to Sertraline.",stomach upset
+0443,31,19-35,M,Amoxicillin,10mg,Oral,As needed,Depression,Patient appears to tolerate Amoxicillin well with no side effects noted.,No ADE
+0444,37,36-50,F,Lisinopril,50mg,Inhaled,Once daily,Depression,No evidence of Lisinopril being poorly tolerated by the patient.,No ADE
+0445,72,66+,M,Warfarin,50mg,Inhaled,As needed,Atrial Fibrillation,No indications of intolerance or adverse events tied to Warfarin.,No ADE
+0446,64,51-65,F,Paroxetine,50mg,Inhaled,Three times daily,Anxiety,"nausea symptoms noted by patient, potentially related to Paroxetine.",nausea
+0447,77,66+,F,Warfarin,20mg,Oral,Three times daily,Migraine,No complaints or unusual symptoms observed after medication use.,No ADE
+0448,40,36-50,M,Warfarin,10mg,Inhaled,Three times daily,Migraine,No adverse reactions reported during follow-up.,No ADE
+0449,74,66+,F,Albuterol,100mg,Oral,Three times daily,Atrial Fibrillation,Patient has been experiencing stomach upset after initiating treatment with Albuterol.,stomach upset
+0450,77,66+,F,Prednisone,500mg,Oral,Once daily,High Cholesterol,Reports indicate Prednisone has been effective without complications.,No ADE
+0451,63,51-65,F,Albuterol,500mg,Inhaled,Once daily,Type 2 Diabetes,"Reported issues include dry mouth, which started after Albuterol was prescribed.",dry mouth
+0452,60,51-65,M,Sertraline,20mg,Oral,Once daily,Rheumatoid Arthritis,No undesirable reactions have been observed following Sertraline administration.,No ADE
+0453,61,51-65,M,Warfarin,10mg,Inhaled,Twice daily,Sinus Infection,"Reported issues include appetite increase, which started after Warfarin was prescribed.",appetite increase
+0454,31,19-35,M,Simvastatin,20mg,Oral,Three times daily,Type 2 Diabetes,Clinical evaluation reveals no signs of Simvastatin-related adverse effects.,No ADE
+0455,70,66+,F,Amoxicillin,100mg,Oral,Three times daily,Rheumatoid Arthritis,"Reported issues include drowsiness, which started after Amoxicillin was prescribed.",drowsiness
+0456,54,51-65,F,Ibuprofen,50mg,Inhaled,Once daily,Hypertension,"Reported issues include drowsiness, which started after Ibuprofen was prescribed.",drowsiness
+0457,76,66+,M,Paroxetine,500mg,Oral,Once daily,Type 2 Diabetes,"muscle pain symptoms noted by patient, potentially related to Paroxetine.",muscle pain
+0458,44,36-50,F,Ibuprofen,20mg,Oral,Twice daily,Type 2 Diabetes,Clinical evaluation reveals no signs of Ibuprofen-related adverse effects.,No ADE
+0459,74,66+,M,Lisinopril,50mg,Oral,As needed,Migraine,"rash symptoms noted by patient, potentially related to Lisinopril.",rash
+0460,78,66+,F,Prednisone,20mg,Oral,Three times daily,Type 2 Diabetes,Follow-up suggests the patient has no adverse responses to Prednisone.,No ADE
+0461,24,19-35,M,Paroxetine,100mg,Oral,As needed,Asthma,Follow-up suggests the patient has no adverse responses to Paroxetine.,No ADE
+0462,66,66+,F,Simvastatin,50mg,Inhaled,Once daily,Asthma,"appetite increase symptoms noted by patient, potentially related to Simvastatin.",appetite increase
+0463,23,19-35,M,Simvastatin,50mg,Oral,Twice daily,Migraine,Patient has been experiencing drowsiness after initiating treatment with Simvastatin.,drowsiness
+0464,80,66+,M,Paroxetine,10mg,Inhaled,Once daily,Anxiety,Clinical evaluation reveals no signs of Paroxetine-related adverse effects.,No ADE
+0465,54,51-65,F,Albuterol,20mg,Oral,Twice daily,Type 2 Diabetes,Patient has been experiencing nosebleeds after initiating treatment with Albuterol.,nosebleeds
+0466,61,51-65,F,Simvastatin,20mg,Oral,Once daily,Atrial Fibrillation,Medical review confirms the absence of drug-related side effects.,No ADE
+0467,20,19-35,F,Prednisone,20mg,Oral,Once daily,Depression,"Reported issues include drowsiness, which started after Prednisone was prescribed.",drowsiness
+0468,26,19-35,F,Prednisone,20mg,Oral,As needed,Atrial Fibrillation,Patient remains asymptomatic and compliant with Prednisone therapy.,No ADE
+0469,66,66+,F,Lisinopril,100mg,Oral,Once daily,Asthma,Patient has been experiencing sweating after initiating treatment with Lisinopril.,sweating
+0470,80,66+,F,Simvastatin,100mg,Inhaled,Three times daily,High Cholesterol,Patient denies any negative side effects associated with Simvastatin.,No ADE
+0471,72,66+,M,Sertraline,10mg,Oral,Once daily,High Cholesterol,Patient shows improvement with no notable side effects.,No ADE
+0472,41,36-50,M,Amoxicillin,500mg,Oral,Once daily,Anxiety,Patient has been experiencing nosebleeds after initiating treatment with Amoxicillin.,nosebleeds
+0473,46,36-50,M,Metformin,500mg,Inhaled,Once daily,Migraine,Patient has been experiencing mood swings after initiating treatment with Metformin.,mood swings
+0474,75,66+,F,Albuterol,10mg,Oral,Once daily,Sinus Infection,Follow-up suggests the patient has no adverse responses to Albuterol.,No ADE
+0475,52,51-65,M,Sertraline,100mg,Inhaled,Once daily,Type 2 Diabetes,Patient remains asymptomatic and compliant with Sertraline therapy.,No ADE
+0476,29,19-35,F,Warfarin,500mg,Oral,Three times daily,Asthma,No adverse reactions reported during follow-up.,No ADE
+0477,35,19-35,M,Lisinopril,500mg,Inhaled,Three times daily,Migraine,"Reported issues include mood swings, which started after Lisinopril was prescribed.",mood swings
+0478,79,66+,F,Ibuprofen,50mg,Inhaled,As needed,High Cholesterol,Patient has been experiencing rash after initiating treatment with Ibuprofen.,rash
+0479,39,36-50,M,Simvastatin,50mg,Inhaled,Three times daily,High Cholesterol,"Reported issues include sweating, which started after Simvastatin was prescribed.",sweating
+0480,38,36-50,M,Albuterol,500mg,Inhaled,Three times daily,Type 2 Diabetes,Clinical evaluation reveals no signs of Albuterol-related adverse effects.,No ADE
+0481,46,36-50,F,Albuterol,10mg,Oral,As needed,Hypertension,Patient remains asymptomatic and compliant with Albuterol therapy.,No ADE
+0482,30,19-35,M,Lisinopril,20mg,Oral,Three times daily,Rheumatoid Arthritis,No adverse reactions reported during follow-up.,No ADE
+0483,38,36-50,F,Paroxetine,10mg,Oral,Once daily,Rheumatoid Arthritis,"Reported issues include nausea, which started after Paroxetine was prescribed.",nausea
+0484,62,51-65,M,Albuterol,100mg,Inhaled,As needed,Depression,"stomach upset symptoms noted by patient, potentially related to Albuterol.",stomach upset
+0485,69,66+,F,Metformin,20mg,Oral,Three times daily,Hypertension,Patient has been experiencing stomach upset after initiating treatment with Metformin.,stomach upset
+0486,31,19-35,F,Ibuprofen,20mg,Oral,Once daily,High Cholesterol,Reports indicate Ibuprofen has been effective without complications.,No ADE
+0487,40,36-50,M,Ibuprofen,10mg,Inhaled,Three times daily,Asthma,Treatment with Ibuprofen appears safe with no adverse symptoms recorded.,No ADE
+0488,41,36-50,F,Prednisone,500mg,Oral,Twice daily,Anxiety,Patient denies any negative side effects associated with Prednisone.,No ADE
+0489,50,36-50,M,Sertraline,500mg,Oral,Three times daily,Type 2 Diabetes,Patient shows improvement with no notable side effects.,No ADE
+0490,24,19-35,M,Sertraline,500mg,Oral,As needed,Rheumatoid Arthritis,Patient has been experiencing rash after initiating treatment with Sertraline.,rash
+0491,47,36-50,M,Warfarin,10mg,Inhaled,Twice daily,Atrial Fibrillation,"itching symptoms noted by patient, potentially related to Warfarin.",itching
+0492,22,19-35,F,Albuterol,500mg,Inhaled,Once daily,Anxiety,"rash symptoms noted by patient, potentially related to Albuterol.",rash
+0493,58,51-65,F,Lisinopril,10mg,Oral,Twice daily,Rheumatoid Arthritis,No evidence of Lisinopril being poorly tolerated by the patient.,No ADE
+0494,35,19-35,M,Sertraline,20mg,Oral,Once daily,Migraine,No evidence of Sertraline being poorly tolerated by the patient.,No ADE
+0495,54,51-65,F,Prednisone,500mg,Inhaled,As needed,High Cholesterol,No indications of intolerance or adverse events tied to Prednisone.,No ADE
+0496,61,51-65,F,Simvastatin,20mg,Oral,Twice daily,Type 2 Diabetes,Follow-up suggests the patient has no adverse responses to Simvastatin.,No ADE
+0497,20,19-35,M,Simvastatin,100mg,Inhaled,As needed,Migraine,No indications of intolerance or adverse events tied to Simvastatin.,No ADE
+0498,49,36-50,M,Warfarin,100mg,Oral,Twice daily,Hypertension,"drowsiness symptoms noted by patient, potentially related to Warfarin.",drowsiness
+0499,78,66+,F,Warfarin,20mg,Oral,Twice daily,Type 2 Diabetes,"Reported issues include appetite increase, which started after Warfarin was prescribed.",appetite increase
+0500,41,36-50,M,Paroxetine,50mg,Oral,Twice daily,Migraine,Medical review confirms the absence of drug-related side effects.,No ADE
+0501,54,51-65,F,Albuterol,50mg,Inhaled,Three times daily,Migraine,Medical review confirms the absence of drug-related side effects.,No ADE
+0502,64,51-65,M,Ibuprofen,50mg,Oral,Twice daily,Anxiety,Patient denies any negative side effects associated with Ibuprofen.,No ADE
+0503,58,51-65,F,Lisinopril,20mg,Inhaled,Once daily,Depression,No indications of intolerance or adverse events tied to Lisinopril.,No ADE
+0504,80,66+,F,Albuterol,10mg,Inhaled,Three times daily,Asthma,Reports indicate Albuterol has been effective without complications.,No ADE
+0505,80,66+,F,Paroxetine,20mg,Inhaled,Three times daily,Anxiety,Patient appears to tolerate Paroxetine well with no side effects noted.,No ADE
+0506,75,66+,F,Lisinopril,10mg,Oral,Three times daily,Asthma,Routine checkup showed no adverse responses to medication.,No ADE
+0507,59,51-65,F,Simvastatin,10mg,Inhaled,As needed,Rheumatoid Arthritis,Patient has been experiencing itching after initiating treatment with Simvastatin.,itching
+0508,38,36-50,M,Ibuprofen,500mg,Inhaled,Once daily,Rheumatoid Arthritis,Clinical evaluation reveals no signs of Ibuprofen-related adverse effects.,No ADE
+0509,64,51-65,M,Sertraline,100mg,Oral,As needed,Type 2 Diabetes,"Reported issues include itching, which started after Sertraline was prescribed.",itching
+0510,47,36-50,F,Paroxetine,20mg,Oral,As needed,High Cholesterol,No complaints or unusual symptoms observed after medication use.,No ADE
+0511,66,66+,F,Sertraline,100mg,Inhaled,Three times daily,Type 2 Diabetes,"insomnia symptoms noted by patient, potentially related to Sertraline.",insomnia
+0512,42,36-50,M,Prednisone,20mg,Inhaled,Three times daily,Atrial Fibrillation,No undesirable reactions have been observed following Prednisone administration.,No ADE
+0513,43,36-50,F,Prednisone,100mg,Inhaled,Once daily,Migraine,Follow-up suggests the patient has no adverse responses to Prednisone.,No ADE
+0514,30,19-35,F,Metformin,50mg,Inhaled,Three times daily,Anxiety,"Reported issues include stomach upset, which started after Metformin was prescribed.",stomach upset
+0515,54,51-65,F,Prednisone,500mg,Oral,Twice daily,Depression,Patient has been experiencing stomach upset after initiating treatment with Prednisone.,stomach upset
+0516,23,19-35,M,Metformin,100mg,Inhaled,As needed,Rheumatoid Arthritis,"muscle pain symptoms noted by patient, potentially related to Metformin.",muscle pain
+0517,49,36-50,F,Ibuprofen,100mg,Inhaled,As needed,Rheumatoid Arthritis,"Reported issues include nausea, which started after Ibuprofen was prescribed.",nausea
+0518,47,36-50,F,Ibuprofen,100mg,Oral,Twice daily,Sinus Infection,No adverse reactions reported during follow-up.,No ADE
+0519,72,66+,F,Sertraline,500mg,Oral,As needed,Sinus Infection,No complaints or unusual symptoms observed after medication use.,No ADE
+0520,57,51-65,F,Lisinopril,10mg,Inhaled,Three times daily,Rheumatoid Arthritis,Patient has been experiencing appetite increase after initiating treatment with Lisinopril.,appetite increase
+0521,62,51-65,F,Simvastatin,500mg,Inhaled,Twice daily,Type 2 Diabetes,"Reported issues include nosebleeds, which started after Simvastatin was prescribed.",nosebleeds
+0522,34,19-35,F,Amoxicillin,20mg,Oral,As needed,Migraine,"mood swings symptoms noted by patient, potentially related to Amoxicillin.",mood swings
+0523,76,66+,F,Metformin,20mg,Oral,Once daily,Sinus Infection,No adverse reactions reported during follow-up.,No ADE
+0524,45,36-50,M,Paroxetine,10mg,Oral,Once daily,Asthma,"sweating symptoms noted by patient, potentially related to Paroxetine.",sweating
+0525,25,19-35,M,Ibuprofen,50mg,Oral,As needed,Rheumatoid Arthritis,"Reported issues include insomnia, which started after Ibuprofen was prescribed.",insomnia
+0526,22,19-35,F,Simvastatin,500mg,Oral,Once daily,Migraine,Patient has been experiencing itching after initiating treatment with Simvastatin.,itching
+0527,49,36-50,F,Ibuprofen,20mg,Inhaled,Twice daily,Asthma,Patient has been experiencing insomnia after initiating treatment with Ibuprofen.,insomnia
+0528,79,66+,M,Amoxicillin,500mg,Inhaled,Three times daily,Atrial Fibrillation,"Reported issues include insomnia, which started after Amoxicillin was prescribed.",insomnia
+0529,28,19-35,M,Prednisone,10mg,Inhaled,Twice daily,Sinus Infection,"Reported issues include bruising, which started after Prednisone was prescribed.",bruising
+0530,71,66+,M,Simvastatin,100mg,Oral,As needed,Atrial Fibrillation,Reports indicate Simvastatin has been effective without complications.,No ADE
+0531,39,36-50,F,Albuterol,100mg,Inhaled,As needed,Migraine,"insomnia symptoms noted by patient, potentially related to Albuterol.",insomnia
+0532,34,19-35,F,Lisinopril,20mg,Oral,Twice daily,Asthma,"Reported issues include insomnia, which started after Lisinopril was prescribed.",insomnia
+0533,33,19-35,F,Warfarin,500mg,Oral,Three times daily,Type 2 Diabetes,Patient has been experiencing sweating after initiating treatment with Warfarin.,sweating
+0534,21,19-35,M,Metformin,50mg,Inhaled,Once daily,Atrial Fibrillation,Reports indicate Metformin has been effective without complications.,No ADE
+0535,44,36-50,F,Simvastatin,500mg,Oral,As needed,Asthma,Medical review confirms the absence of drug-related side effects.,No ADE
+0536,38,36-50,M,Lisinopril,100mg,Inhaled,As needed,Hypertension,"drowsiness symptoms noted by patient, potentially related to Lisinopril.",drowsiness
+0537,75,66+,F,Paroxetine,10mg,Oral,As needed,Hypertension,"drowsiness symptoms noted by patient, potentially related to Paroxetine.",drowsiness
+0538,46,36-50,M,Metformin,50mg,Inhaled,Three times daily,Type 2 Diabetes,Routine checkup showed no adverse responses to medication.,No ADE
+0539,24,19-35,F,Paroxetine,50mg,Inhaled,Three times daily,Migraine,Patient denies any negative side effects associated with Paroxetine.,No ADE
+0540,71,66+,M,Paroxetine,500mg,Inhaled,As needed,Hypertension,"itching symptoms noted by patient, potentially related to Paroxetine.",itching
+0541,51,51-65,F,Sertraline,20mg,Inhaled,As needed,Asthma,"insomnia symptoms noted by patient, potentially related to Sertraline.",insomnia
+0542,58,51-65,M,Paroxetine,100mg,Inhaled,Three times daily,Atrial Fibrillation,"dry mouth symptoms noted by patient, potentially related to Paroxetine.",dry mouth
+0543,67,66+,M,Amoxicillin,10mg,Oral,Three times daily,High Cholesterol,Follow-up suggests the patient has no adverse responses to Amoxicillin.,No ADE
+0544,65,51-65,F,Sertraline,500mg,Inhaled,Once daily,Type 2 Diabetes,"drowsiness symptoms noted by patient, potentially related to Sertraline.",drowsiness
+0545,21,19-35,F,Amoxicillin,10mg,Inhaled,Twice daily,Asthma,"bruising symptoms noted by patient, potentially related to Amoxicillin.",bruising
+0546,75,66+,F,Metformin,50mg,Oral,As needed,Depression,Patient has been experiencing itching after initiating treatment with Metformin.,itching
+0547,72,66+,M,Simvastatin,20mg,Oral,Once daily,Migraine,Medical review confirms the absence of drug-related side effects.,No ADE
+0548,43,36-50,M,Ibuprofen,100mg,Inhaled,Once daily,Depression,Treatment with Ibuprofen appears safe with no adverse symptoms recorded.,No ADE
+0549,25,19-35,M,Prednisone,50mg,Oral,Three times daily,Hypertension,Clinical evaluation reveals no signs of Prednisone-related adverse effects.,No ADE
+0550,78,66+,F,Warfarin,10mg,Inhaled,Twice daily,Atrial Fibrillation,"Reported issues include drowsiness, which started after Warfarin was prescribed.",drowsiness
+0551,30,19-35,M,Albuterol,100mg,Oral,Once daily,Hypertension,"Reported issues include dry mouth, which started after Albuterol was prescribed.",dry mouth
+0552,31,19-35,F,Lisinopril,10mg,Inhaled,Twice daily,Atrial Fibrillation,Patient has been experiencing dry mouth after initiating treatment with Lisinopril.,dry mouth
+0553,68,66+,M,Paroxetine,500mg,Oral,Twice daily,High Cholesterol,No indications of intolerance or adverse events tied to Paroxetine.,No ADE
+0554,45,36-50,F,Metformin,100mg,Inhaled,Twice daily,Depression,"mood swings symptoms noted by patient, potentially related to Metformin.",mood swings
+0555,26,19-35,F,Ibuprofen,500mg,Oral,Three times daily,Hypertension,Patient remains asymptomatic and compliant with Ibuprofen therapy.,No ADE
+0556,57,51-65,F,Warfarin,20mg,Inhaled,Once daily,Asthma,"Reported issues include appetite increase, which started after Warfarin was prescribed.",appetite increase
+0557,21,19-35,F,Simvastatin,50mg,Oral,Three times daily,High Cholesterol,Routine checkup showed no adverse responses to medication.,No ADE
+0558,72,66+,M,Lisinopril,500mg,Oral,Twice daily,Asthma,"Reported issues include sweating, which started after Lisinopril was prescribed.",sweating
+0559,43,36-50,M,Warfarin,20mg,Inhaled,As needed,Sinus Infection,No complaints or unusual symptoms observed after medication use.,No ADE
+0560,26,19-35,F,Paroxetine,500mg,Inhaled,Twice daily,High Cholesterol,Patient has been experiencing stomach upset after initiating treatment with Paroxetine.,stomach upset
+0561,58,51-65,F,Ibuprofen,500mg,Inhaled,Once daily,Hypertension,Reports indicate Ibuprofen has been effective without complications.,No ADE
+0562,34,19-35,F,Lisinopril,10mg,Oral,Once daily,Anxiety,Patient has been experiencing sweating after initiating treatment with Lisinopril.,sweating
+0563,51,51-65,M,Simvastatin,10mg,Oral,As needed,Hypertension,"Reported issues include rash, which started after Simvastatin was prescribed.",rash
+0564,77,66+,M,Warfarin,10mg,Oral,Twice daily,Type 2 Diabetes,Patient has been experiencing nausea after initiating treatment with Warfarin.,nausea
+0565,68,66+,M,Albuterol,500mg,Oral,Twice daily,Asthma,Patient has been experiencing drowsiness after initiating treatment with Albuterol.,drowsiness
+0566,26,19-35,F,Lisinopril,50mg,Inhaled,As needed,Hypertension,Patient shows improvement with no notable side effects.,No ADE
+0567,50,36-50,M,Prednisone,10mg,Inhaled,Three times daily,Atrial Fibrillation,Patient remains asymptomatic and compliant with Prednisone therapy.,No ADE
+0568,37,36-50,F,Prednisone,100mg,Inhaled,Three times daily,Sinus Infection,Patient has been experiencing dry mouth after initiating treatment with Prednisone.,dry mouth
+0569,24,19-35,M,Prednisone,10mg,Oral,Once daily,Depression,Patient has been experiencing sweating after initiating treatment with Prednisone.,sweating
+0570,22,19-35,M,Amoxicillin,50mg,Oral,As needed,Anxiety,No indications of intolerance or adverse events tied to Amoxicillin.,No ADE
+0571,70,66+,M,Simvastatin,100mg,Inhaled,Three times daily,Atrial Fibrillation,Patient has been experiencing dizziness after initiating treatment with Simvastatin.,dizziness
+0572,51,51-65,M,Albuterol,10mg,Inhaled,Three times daily,Atrial Fibrillation,Patient shows improvement with no notable side effects.,No ADE
+0573,52,51-65,F,Lisinopril,50mg,Inhaled,Twice daily,Rheumatoid Arthritis,"drowsiness symptoms noted by patient, potentially related to Lisinopril.",drowsiness
+0574,33,19-35,F,Simvastatin,100mg,Inhaled,As needed,High Cholesterol,Treatment with Simvastatin appears safe with no adverse symptoms recorded.,No ADE
+0575,78,66+,M,Albuterol,20mg,Oral,As needed,Atrial Fibrillation,"Reported issues include mood swings, which started after Albuterol was prescribed.",mood swings
+0576,49,36-50,M,Amoxicillin,20mg,Inhaled,Once daily,Asthma,Patient has been experiencing dizziness after initiating treatment with Amoxicillin.,dizziness
+0577,53,51-65,M,Amoxicillin,100mg,Inhaled,Twice daily,Asthma,Patient remains asymptomatic and compliant with Amoxicillin therapy.,No ADE
+0578,67,66+,M,Lisinopril,500mg,Oral,Three times daily,High Cholesterol,"Reported issues include rash, which started after Lisinopril was prescribed.",rash
+0579,26,19-35,M,Sertraline,10mg,Oral,Twice daily,Atrial Fibrillation,No complaints or unusual symptoms observed after medication use.,No ADE
+0580,40,36-50,F,Amoxicillin,20mg,Oral,Three times daily,Rheumatoid Arthritis,Patient has been experiencing muscle pain after initiating treatment with Amoxicillin.,muscle pain
+0581,78,66+,F,Albuterol,10mg,Inhaled,Twice daily,Asthma,Patient denies any negative side effects associated with Albuterol.,No ADE
+0582,51,51-65,M,Albuterol,100mg,Inhaled,Once daily,Rheumatoid Arthritis,Patient has been experiencing nosebleeds after initiating treatment with Albuterol.,nosebleeds
+0583,76,66+,M,Prednisone,100mg,Inhaled,Once daily,Migraine,"Reported issues include appetite increase, which started after Prednisone was prescribed.",appetite increase
+0584,65,51-65,M,Albuterol,20mg,Inhaled,Three times daily,Asthma,"nausea symptoms noted by patient, potentially related to Albuterol.",nausea
+0585,46,36-50,M,Albuterol,500mg,Inhaled,Twice daily,Depression,Medical review confirms the absence of drug-related side effects.,No ADE
+0586,76,66+,F,Simvastatin,100mg,Inhaled,Twice daily,Depression,"Reported issues include muscle pain, which started after Simvastatin was prescribed.",muscle pain
+0587,59,51-65,F,Paroxetine,500mg,Inhaled,Once daily,Rheumatoid Arthritis,No complaints or unusual symptoms observed after medication use.,No ADE
+0588,49,36-50,M,Lisinopril,100mg,Inhaled,Once daily,Atrial Fibrillation,"dizziness symptoms noted by patient, potentially related to Lisinopril.",dizziness
+0589,26,19-35,F,Albuterol,500mg,Oral,Twice daily,Type 2 Diabetes,Patient denies any negative side effects associated with Albuterol.,No ADE
+0590,29,19-35,M,Warfarin,100mg,Oral,Three times daily,Asthma,"itching symptoms noted by patient, potentially related to Warfarin.",itching
+0591,27,19-35,F,Paroxetine,500mg,Inhaled,Three times daily,Rheumatoid Arthritis,"Reported issues include itching, which started after Paroxetine was prescribed.",itching
+0592,67,66+,F,Warfarin,50mg,Oral,Three times daily,Sinus Infection,"rash symptoms noted by patient, potentially related to Warfarin.",rash
+0593,50,36-50,M,Metformin,500mg,Oral,Three times daily,Atrial Fibrillation,Reports indicate Metformin has been effective without complications.,No ADE
+0594,29,19-35,M,Sertraline,50mg,Oral,As needed,Migraine,Patient has been experiencing dry mouth after initiating treatment with Sertraline.,dry mouth
+0595,64,51-65,M,Prednisone,50mg,Inhaled,Twice daily,Sinus Infection,"muscle pain symptoms noted by patient, potentially related to Prednisone.",muscle pain
+0596,70,66+,F,Amoxicillin,10mg,Oral,Once daily,Rheumatoid Arthritis,"Reported issues include nausea, which started after Amoxicillin was prescribed.",nausea
+0597,40,36-50,M,Prednisone,50mg,Oral,Twice daily,Sinus Infection,Follow-up suggests the patient has no adverse responses to Prednisone.,No ADE
+0598,80,66+,F,Prednisone,100mg,Inhaled,Twice daily,High Cholesterol,Patient has been experiencing nausea after initiating treatment with Prednisone.,nausea
+0599,50,36-50,F,Warfarin,20mg,Inhaled,Three times daily,Anxiety,"mood swings symptoms noted by patient, potentially related to Warfarin.",mood swings
+0600,20,19-35,F,Albuterol,20mg,Oral,As needed,Rheumatoid Arthritis,Patient has been experiencing drowsiness after initiating treatment with Albuterol.,drowsiness
+0601,27,19-35,F,Paroxetine,20mg,Oral,Twice daily,Rheumatoid Arthritis,"bruising symptoms noted by patient, potentially related to Paroxetine.",bruising
+0602,48,36-50,M,Amoxicillin,50mg,Oral,Twice daily,Rheumatoid Arthritis,No adverse reactions reported during follow-up.,No ADE
+0603,21,19-35,F,Amoxicillin,100mg,Inhaled,Once daily,Hypertension,"insomnia symptoms noted by patient, potentially related to Amoxicillin.",insomnia
+0604,68,66+,F,Metformin,10mg,Oral,Three times daily,Atrial Fibrillation,No indications of intolerance or adverse events tied to Metformin.,No ADE
+0605,64,51-65,F,Warfarin,100mg,Inhaled,Once daily,Sinus Infection,Patient has been experiencing appetite increase after initiating treatment with Warfarin.,appetite increase
+0606,61,51-65,M,Metformin,100mg,Inhaled,As needed,Anxiety,"appetite increase symptoms noted by patient, potentially related to Metformin.",appetite increase
+0607,32,19-35,F,Warfarin,100mg,Inhaled,Once daily,Sinus Infection,No indications of intolerance or adverse events tied to Warfarin.,No ADE
+0608,56,51-65,F,Lisinopril,500mg,Oral,Twice daily,Type 2 Diabetes,Patient remains asymptomatic and compliant with Lisinopril therapy.,No ADE
+0609,71,66+,F,Prednisone,50mg,Inhaled,Twice daily,Hypertension,Patient has been experiencing dry mouth after initiating treatment with Prednisone.,dry mouth
+0610,27,19-35,M,Amoxicillin,100mg,Oral,Twice daily,Anxiety,"dry mouth symptoms noted by patient, potentially related to Amoxicillin.",dry mouth
+0611,80,66+,M,Ibuprofen,100mg,Oral,Three times daily,Hypertension,Patient appears to tolerate Ibuprofen well with no side effects noted.,No ADE
+0612,61,51-65,M,Albuterol,10mg,Oral,As needed,Depression,Medical review confirms the absence of drug-related side effects.,No ADE
+0613,36,36-50,F,Warfarin,10mg,Inhaled,Once daily,Atrial Fibrillation,Patient has been experiencing appetite increase after initiating treatment with Warfarin.,appetite increase
+0614,49,36-50,M,Albuterol,100mg,Oral,As needed,Hypertension,Reports indicate Albuterol has been effective without complications.,No ADE
+0615,58,51-65,F,Paroxetine,100mg,Oral,As needed,Rheumatoid Arthritis,Follow-up suggests the patient has no adverse responses to Paroxetine.,No ADE
+0616,25,19-35,M,Sertraline,10mg,Inhaled,Once daily,Rheumatoid Arthritis,Patient has been experiencing rash after initiating treatment with Sertraline.,rash
+0617,77,66+,F,Prednisone,100mg,Oral,Twice daily,Hypertension,"dizziness symptoms noted by patient, potentially related to Prednisone.",dizziness
+0618,58,51-65,F,Prednisone,10mg,Inhaled,Three times daily,High Cholesterol,"Reported issues include appetite increase, which started after Prednisone was prescribed.",appetite increase
+0619,67,66+,F,Amoxicillin,100mg,Oral,Three times daily,High Cholesterol,"nausea symptoms noted by patient, potentially related to Amoxicillin.",nausea
+0620,50,36-50,M,Lisinopril,500mg,Inhaled,Twice daily,Atrial Fibrillation,"Reported issues include itching, which started after Lisinopril was prescribed.",itching
+0621,25,19-35,F,Ibuprofen,100mg,Oral,Twice daily,Asthma,No undesirable reactions have been observed following Ibuprofen administration.,No ADE
+0622,76,66+,M,Lisinopril,20mg,Oral,Twice daily,Rheumatoid Arthritis,Routine checkup showed no adverse responses to medication.,No ADE
+0623,71,66+,M,Simvastatin,500mg,Oral,Once daily,Hypertension,Patient has been experiencing drowsiness after initiating treatment with Simvastatin.,drowsiness
+0624,35,19-35,F,Prednisone,500mg,Inhaled,Twice daily,Depression,Patient appears to tolerate Prednisone well with no side effects noted.,No ADE
+0625,35,19-35,F,Albuterol,50mg,Oral,Once daily,Anxiety,"Reported issues include dry mouth, which started after Albuterol was prescribed.",dry mouth
+0626,37,36-50,F,Paroxetine,100mg,Inhaled,Three times daily,Asthma,Patient denies any negative side effects associated with Paroxetine.,No ADE
+0627,37,36-50,M,Paroxetine,10mg,Oral,Once daily,Type 2 Diabetes,Treatment with Paroxetine appears safe with no adverse symptoms recorded.,No ADE
+0628,79,66+,F,Simvastatin,50mg,Inhaled,Three times daily,Depression,Treatment with Simvastatin appears safe with no adverse symptoms recorded.,No ADE
+0629,35,19-35,M,Warfarin,100mg,Oral,As needed,Asthma,Patient appears to tolerate Warfarin well with no side effects noted.,No ADE
+0630,53,51-65,M,Sertraline,500mg,Oral,Twice daily,Atrial Fibrillation,Treatment with Sertraline appears safe with no adverse symptoms recorded.,No ADE
+0631,54,51-65,F,Lisinopril,10mg,Inhaled,Once daily,Atrial Fibrillation,Reports indicate Lisinopril has been effective without complications.,No ADE
+0632,42,36-50,F,Albuterol,100mg,Oral,Three times daily,Hypertension,Clinical evaluation reveals no signs of Albuterol-related adverse effects.,No ADE
+0633,77,66+,F,Metformin,20mg,Inhaled,Once daily,Hypertension,Reports indicate Metformin has been effective without complications.,No ADE
+0634,28,19-35,F,Prednisone,20mg,Oral,As needed,Hypertension,"drowsiness symptoms noted by patient, potentially related to Prednisone.",drowsiness
+0635,48,36-50,M,Lisinopril,10mg,Oral,Once daily,High Cholesterol,Patient has been experiencing insomnia after initiating treatment with Lisinopril.,insomnia
+0636,20,19-35,M,Warfarin,10mg,Oral,As needed,Anxiety,"rash symptoms noted by patient, potentially related to Warfarin.",rash
+0637,21,19-35,M,Lisinopril,500mg,Oral,As needed,High Cholesterol,Patient remains asymptomatic and compliant with Lisinopril therapy.,No ADE
+0638,59,51-65,M,Albuterol,10mg,Oral,Twice daily,Hypertension,"Reported issues include itching, which started after Albuterol was prescribed.",itching
+0639,76,66+,M,Albuterol,50mg,Inhaled,Once daily,Anxiety,No adverse reactions reported during follow-up.,No ADE
+0640,26,19-35,F,Sertraline,50mg,Inhaled,As needed,Hypertension,Patient appears to tolerate Sertraline well with no side effects noted.,No ADE
+0641,27,19-35,F,Ibuprofen,500mg,Oral,Once daily,Type 2 Diabetes,Patient has been experiencing insomnia after initiating treatment with Ibuprofen.,insomnia
+0642,62,51-65,F,Ibuprofen,20mg,Inhaled,Twice daily,Anxiety,No adverse reactions reported during follow-up.,No ADE
+0643,76,66+,F,Ibuprofen,20mg,Oral,Three times daily,Sinus Infection,No evidence of Ibuprofen being poorly tolerated by the patient.,No ADE
+0644,25,19-35,F,Warfarin,50mg,Inhaled,Once daily,Migraine,"Reported issues include drowsiness, which started after Warfarin was prescribed.",drowsiness
+0645,74,66+,M,Amoxicillin,50mg,Oral,Twice daily,Rheumatoid Arthritis,"itching symptoms noted by patient, potentially related to Amoxicillin.",itching
+0646,57,51-65,F,Simvastatin,50mg,Inhaled,Three times daily,High Cholesterol,Medical review confirms the absence of drug-related side effects.,No ADE
+0647,71,66+,F,Paroxetine,50mg,Inhaled,Three times daily,Hypertension,Patient has been experiencing dry mouth after initiating treatment with Paroxetine.,dry mouth
+0648,55,51-65,M,Albuterol,10mg,Oral,Three times daily,Depression,"bruising symptoms noted by patient, potentially related to Albuterol.",bruising
+0649,59,51-65,M,Warfarin,50mg,Oral,Once daily,Rheumatoid Arthritis,No indications of intolerance or adverse events tied to Warfarin.,No ADE
+0650,43,36-50,M,Simvastatin,10mg,Oral,Once daily,Rheumatoid Arthritis,"Reported issues include mood swings, which started after Simvastatin was prescribed.",mood swings
+0651,48,36-50,M,Metformin,100mg,Inhaled,Once daily,Rheumatoid Arthritis,Patient has been experiencing bruising after initiating treatment with Metformin.,bruising
+0652,63,51-65,M,Simvastatin,100mg,Oral,Once daily,Anxiety,"nosebleeds symptoms noted by patient, potentially related to Simvastatin.",nosebleeds
+0653,53,51-65,F,Prednisone,50mg,Oral,Three times daily,Type 2 Diabetes,Clinical evaluation reveals no signs of Prednisone-related adverse effects.,No ADE
+0654,78,66+,M,Metformin,20mg,Inhaled,Once daily,Asthma,"Reported issues include mood swings, which started after Metformin was prescribed.",mood swings
+0655,33,19-35,M,Albuterol,500mg,Inhaled,Twice daily,Asthma,No evidence of Albuterol being poorly tolerated by the patient.,No ADE
+0656,80,66+,F,Amoxicillin,500mg,Oral,Twice daily,Depression,Patient shows improvement with no notable side effects.,No ADE
+0657,23,19-35,M,Sertraline,50mg,Oral,Twice daily,Sinus Infection,"Reported issues include appetite increase, which started after Sertraline was prescribed.",appetite increase
+0658,30,19-35,M,Ibuprofen,500mg,Oral,Twice daily,Hypertension,Follow-up suggests the patient has no adverse responses to Ibuprofen.,No ADE
+0659,24,19-35,F,Prednisone,10mg,Inhaled,Twice daily,Atrial Fibrillation,"Reported issues include dizziness, which started after Prednisone was prescribed.",dizziness
+0660,78,66+,F,Metformin,50mg,Inhaled,Three times daily,Rheumatoid Arthritis,"muscle pain symptoms noted by patient, potentially related to Metformin.",muscle pain
+0661,38,36-50,M,Albuterol,10mg,Inhaled,As needed,Depression,Reports indicate Albuterol has been effective without complications.,No ADE
+0662,66,66+,M,Paroxetine,50mg,Inhaled,As needed,Depression,"Reported issues include nausea, which started after Paroxetine was prescribed.",nausea
+0663,41,36-50,M,Metformin,50mg,Oral,Once daily,Atrial Fibrillation,Medical review confirms the absence of drug-related side effects.,No ADE
+0664,61,51-65,F,Lisinopril,50mg,Inhaled,Twice daily,Depression,Patient has been experiencing dry mouth after initiating treatment with Lisinopril.,dry mouth
+0665,80,66+,F,Ibuprofen,10mg,Oral,As needed,Migraine,Medical review confirms the absence of drug-related side effects.,No ADE
+0666,47,36-50,F,Lisinopril,20mg,Oral,Three times daily,Rheumatoid Arthritis,"nosebleeds symptoms noted by patient, potentially related to Lisinopril.",nosebleeds
+0667,30,19-35,F,Amoxicillin,100mg,Inhaled,Once daily,Atrial Fibrillation,"dizziness symptoms noted by patient, potentially related to Amoxicillin.",dizziness
+0668,74,66+,M,Lisinopril,500mg,Inhaled,As needed,Anxiety,Follow-up suggests the patient has no adverse responses to Lisinopril.,No ADE
+0669,20,19-35,F,Amoxicillin,50mg,Oral,Twice daily,High Cholesterol,Patient denies any negative side effects associated with Amoxicillin.,No ADE
+0670,78,66+,F,Lisinopril,20mg,Inhaled,As needed,Hypertension,"dizziness symptoms noted by patient, potentially related to Lisinopril.",dizziness
+0671,27,19-35,F,Simvastatin,10mg,Oral,Twice daily,Type 2 Diabetes,Patient has been experiencing rash after initiating treatment with Simvastatin.,rash
+0672,67,66+,M,Prednisone,20mg,Inhaled,Three times daily,High Cholesterol,Patient has been experiencing mood swings after initiating treatment with Prednisone.,mood swings
+0673,30,19-35,M,Prednisone,100mg,Inhaled,Three times daily,Migraine,No indications of intolerance or adverse events tied to Prednisone.,No ADE
+0674,23,19-35,M,Sertraline,50mg,Oral,Twice daily,Type 2 Diabetes,"Reported issues include drowsiness, which started after Sertraline was prescribed.",drowsiness
+0675,20,19-35,M,Albuterol,500mg,Inhaled,Twice daily,Migraine,No undesirable reactions have been observed following Albuterol administration.,No ADE
+0676,57,51-65,F,Prednisone,100mg,Inhaled,Twice daily,Type 2 Diabetes,"nosebleeds symptoms noted by patient, potentially related to Prednisone.",nosebleeds
+0677,35,19-35,F,Warfarin,100mg,Inhaled,Three times daily,Hypertension,Patient shows improvement with no notable side effects.,No ADE
+0678,76,66+,F,Metformin,50mg,Inhaled,Three times daily,Atrial Fibrillation,Patient remains asymptomatic and compliant with Metformin therapy.,No ADE
+0679,46,36-50,M,Simvastatin,50mg,Inhaled,Twice daily,Migraine,No evidence of Simvastatin being poorly tolerated by the patient.,No ADE
+0680,66,66+,F,Lisinopril,20mg,Inhaled,As needed,Type 2 Diabetes,"Reported issues include sweating, which started after Lisinopril was prescribed.",sweating
+0681,46,36-50,M,Lisinopril,500mg,Inhaled,As needed,Rheumatoid Arthritis,No complaints or unusual symptoms observed after medication use.,No ADE
+0682,33,19-35,M,Ibuprofen,20mg,Inhaled,Once daily,Asthma,Patient has been experiencing appetite increase after initiating treatment with Ibuprofen.,appetite increase
+0683,22,19-35,M,Paroxetine,20mg,Inhaled,Once daily,Anxiety,Reports indicate Paroxetine has been effective without complications.,No ADE
+0684,50,36-50,M,Simvastatin,100mg,Oral,As needed,Atrial Fibrillation,"Reported issues include bruising, which started after Simvastatin was prescribed.",bruising
+0685,79,66+,M,Paroxetine,20mg,Oral,As needed,Asthma,Patient shows improvement with no notable side effects.,No ADE
+0686,32,19-35,F,Amoxicillin,20mg,Oral,Three times daily,Depression,"Reported issues include insomnia, which started after Amoxicillin was prescribed.",insomnia
+0687,27,19-35,F,Metformin,500mg,Oral,Three times daily,Depression,Reports indicate Metformin has been effective without complications.,No ADE
+0688,21,19-35,F,Sertraline,10mg,Inhaled,Three times daily,Type 2 Diabetes,Patient remains asymptomatic and compliant with Sertraline therapy.,No ADE
+0689,69,66+,F,Amoxicillin,50mg,Oral,As needed,Hypertension,"sweating symptoms noted by patient, potentially related to Amoxicillin.",sweating
+0690,47,36-50,F,Paroxetine,500mg,Oral,Twice daily,Rheumatoid Arthritis,Clinical evaluation reveals no signs of Paroxetine-related adverse effects.,No ADE
+0691,57,51-65,F,Paroxetine,500mg,Oral,Once daily,High Cholesterol,Patient has been experiencing drowsiness after initiating treatment with Paroxetine.,drowsiness
+0692,28,19-35,F,Warfarin,20mg,Oral,Twice daily,Sinus Infection,Patient has been experiencing itching after initiating treatment with Warfarin.,itching
+0693,60,51-65,M,Prednisone,20mg,Inhaled,Three times daily,Hypertension,Treatment with Prednisone appears safe with no adverse symptoms recorded.,No ADE
+0694,71,66+,M,Sertraline,10mg,Inhaled,Twice daily,Depression,Patient has been experiencing mood swings after initiating treatment with Sertraline.,mood swings
+0695,34,19-35,F,Paroxetine,500mg,Oral,As needed,Atrial Fibrillation,Patient has been experiencing appetite increase after initiating treatment with Paroxetine.,appetite increase
+0696,48,36-50,M,Simvastatin,10mg,Oral,Once daily,Atrial Fibrillation,No undesirable reactions have been observed following Simvastatin administration.,No ADE
+0697,55,51-65,M,Metformin,20mg,Inhaled,Three times daily,Atrial Fibrillation,Patient denies any negative side effects associated with Metformin.,No ADE
+0698,68,66+,M,Simvastatin,50mg,Inhaled,Three times daily,Atrial Fibrillation,Patient has been experiencing nosebleeds after initiating treatment with Simvastatin.,nosebleeds
+0699,60,51-65,F,Sertraline,10mg,Inhaled,Once daily,High Cholesterol,No indications of intolerance or adverse events tied to Sertraline.,No ADE
+0700,43,36-50,M,Prednisone,10mg,Inhaled,Three times daily,Anxiety,No adverse reactions reported during follow-up.,No ADE
+0701,58,51-65,M,Amoxicillin,10mg,Inhaled,Three times daily,Atrial Fibrillation,Patient denies any negative side effects associated with Amoxicillin.,No ADE
+0702,65,51-65,F,Simvastatin,500mg,Oral,Twice daily,Depression,No undesirable reactions have been observed following Simvastatin administration.,No ADE
+0703,55,51-65,M,Ibuprofen,50mg,Inhaled,Twice daily,Atrial Fibrillation,Follow-up suggests the patient has no adverse responses to Ibuprofen.,No ADE
+0704,67,66+,F,Sertraline,500mg,Inhaled,Three times daily,Type 2 Diabetes,No complaints or unusual symptoms observed after medication use.,No ADE
+0705,64,51-65,F,Prednisone,20mg,Oral,Three times daily,Depression,No indications of intolerance or adverse events tied to Prednisone.,No ADE
+0706,62,51-65,F,Simvastatin,500mg,Oral,As needed,High Cholesterol,Reports indicate Simvastatin has been effective without complications.,No ADE
+0707,32,19-35,M,Paroxetine,20mg,Inhaled,Three times daily,Sinus Infection,No complaints or unusual symptoms observed after medication use.,No ADE
+0708,45,36-50,F,Metformin,500mg,Oral,Once daily,High Cholesterol,No evidence of Metformin being poorly tolerated by the patient.,No ADE
+0709,43,36-50,M,Metformin,100mg,Inhaled,As needed,High Cholesterol,"muscle pain symptoms noted by patient, potentially related to Metformin.",muscle pain
+0710,44,36-50,M,Simvastatin,20mg,Oral,Twice daily,Anxiety,"nosebleeds symptoms noted by patient, potentially related to Simvastatin.",nosebleeds
+0711,59,51-65,F,Prednisone,100mg,Oral,Once daily,Depression,No adverse reactions reported during follow-up.,No ADE
+0712,65,51-65,M,Warfarin,10mg,Inhaled,Three times daily,Migraine,"sweating symptoms noted by patient, potentially related to Warfarin.",sweating
+0713,26,19-35,F,Metformin,20mg,Inhaled,Once daily,Type 2 Diabetes,"Reported issues include itching, which started after Metformin was prescribed.",itching
+0714,59,51-65,M,Simvastatin,50mg,Oral,Twice daily,High Cholesterol,Clinical evaluation reveals no signs of Simvastatin-related adverse effects.,No ADE
+0715,27,19-35,F,Amoxicillin,50mg,Inhaled,Three times daily,Hypertension,Clinical evaluation reveals no signs of Amoxicillin-related adverse effects.,No ADE
+0716,55,51-65,M,Lisinopril,100mg,Oral,Once daily,Asthma,Patient has been experiencing dry mouth after initiating treatment with Lisinopril.,dry mouth
+0717,56,51-65,M,Prednisone,10mg,Oral,Three times daily,Anxiety,No adverse reactions reported during follow-up.,No ADE
+0718,79,66+,F,Warfarin,10mg,Inhaled,As needed,High Cholesterol,Routine checkup showed no adverse responses to medication.,No ADE
+0719,67,66+,F,Metformin,10mg,Inhaled,Once daily,Depression,Reports indicate Metformin has been effective without complications.,No ADE
+0720,25,19-35,M,Metformin,500mg,Oral,As needed,Hypertension,"Reported issues include stomach upset, which started after Metformin was prescribed.",stomach upset
+0721,76,66+,F,Lisinopril,100mg,Oral,Once daily,Migraine,Reports indicate Lisinopril has been effective without complications.,No ADE
+0722,51,51-65,M,Sertraline,500mg,Inhaled,Once daily,Hypertension,No adverse reactions reported during follow-up.,No ADE
+0723,57,51-65,F,Metformin,100mg,Inhaled,Three times daily,Type 2 Diabetes,Patient has been experiencing dizziness after initiating treatment with Metformin.,dizziness
+0724,70,66+,M,Lisinopril,10mg,Inhaled,Once daily,Migraine,No complaints or unusual symptoms observed after medication use.,No ADE
+0725,57,51-65,F,Albuterol,50mg,Oral,Three times daily,Depression,Reports indicate Albuterol has been effective without complications.,No ADE
+0726,41,36-50,F,Paroxetine,20mg,Oral,Three times daily,Type 2 Diabetes,"Reported issues include muscle pain, which started after Paroxetine was prescribed.",muscle pain
+0727,60,51-65,F,Paroxetine,50mg,Oral,As needed,Sinus Infection,Patient has been experiencing dizziness after initiating treatment with Paroxetine.,dizziness
+0728,61,51-65,F,Albuterol,100mg,Oral,Three times daily,Type 2 Diabetes,Patient remains asymptomatic and compliant with Albuterol therapy.,No ADE
+0729,59,51-65,M,Lisinopril,20mg,Oral,Twice daily,Asthma,No evidence of Lisinopril being poorly tolerated by the patient.,No ADE
+0730,63,51-65,M,Lisinopril,10mg,Inhaled,Three times daily,Asthma,Patient shows improvement with no notable side effects.,No ADE
+0731,55,51-65,F,Albuterol,100mg,Inhaled,Three times daily,Atrial Fibrillation,Patient has been experiencing nosebleeds after initiating treatment with Albuterol.,nosebleeds
+0732,27,19-35,F,Albuterol,20mg,Oral,As needed,Atrial Fibrillation,"bruising symptoms noted by patient, potentially related to Albuterol.",bruising
+0733,38,36-50,F,Ibuprofen,50mg,Oral,As needed,Hypertension,Patient remains asymptomatic and compliant with Ibuprofen therapy.,No ADE
+0734,39,36-50,F,Amoxicillin,10mg,Oral,Once daily,Depression,Routine checkup showed no adverse responses to medication.,No ADE
+0735,68,66+,F,Albuterol,20mg,Inhaled,As needed,Asthma,No complaints or unusual symptoms observed after medication use.,No ADE
+0736,62,51-65,F,Simvastatin,50mg,Inhaled,Twice daily,Rheumatoid Arthritis,No indications of intolerance or adverse events tied to Simvastatin.,No ADE
+0737,66,66+,F,Lisinopril,20mg,Inhaled,Three times daily,Asthma,Patient has been experiencing appetite increase after initiating treatment with Lisinopril.,appetite increase
+0738,75,66+,F,Prednisone,50mg,Oral,Twice daily,Asthma,Medical review confirms the absence of drug-related side effects.,No ADE
+0739,76,66+,F,Metformin,10mg,Inhaled,As needed,High Cholesterol,"muscle pain symptoms noted by patient, potentially related to Metformin.",muscle pain
+0740,35,19-35,F,Warfarin,500mg,Oral,Twice daily,Asthma,"Reported issues include nosebleeds, which started after Warfarin was prescribed.",nosebleeds
+0741,45,36-50,M,Paroxetine,100mg,Inhaled,Twice daily,Migraine,"dizziness symptoms noted by patient, potentially related to Paroxetine.",dizziness
+0742,39,36-50,M,Sertraline,20mg,Inhaled,As needed,Migraine,Patient appears to tolerate Sertraline well with no side effects noted.,No ADE
+0743,79,66+,M,Warfarin,50mg,Inhaled,As needed,Type 2 Diabetes,Reports indicate Warfarin has been effective without complications.,No ADE
+0744,42,36-50,F,Ibuprofen,20mg,Inhaled,Twice daily,High Cholesterol,Medical review confirms the absence of drug-related side effects.,No ADE
+0745,20,19-35,M,Amoxicillin,20mg,Inhaled,Twice daily,High Cholesterol,Patient has been experiencing mood swings after initiating treatment with Amoxicillin.,mood swings
+0746,54,51-65,M,Paroxetine,10mg,Inhaled,As needed,Hypertension,No complaints or unusual symptoms observed after medication use.,No ADE
+0747,46,36-50,F,Paroxetine,50mg,Inhaled,As needed,Sinus Infection,Treatment with Paroxetine appears safe with no adverse symptoms recorded.,No ADE
+0748,66,66+,M,Metformin,50mg,Inhaled,Once daily,Asthma,Follow-up suggests the patient has no adverse responses to Metformin.,No ADE
+0749,74,66+,M,Simvastatin,50mg,Inhaled,Three times daily,Migraine,No indications of intolerance or adverse events tied to Simvastatin.,No ADE
+0750,31,19-35,F,Simvastatin,50mg,Inhaled,As needed,Hypertension,Patient remains asymptomatic and compliant with Simvastatin therapy.,No ADE
+0751,53,51-65,M,Metformin,500mg,Oral,Three times daily,Asthma,Patient has been experiencing insomnia after initiating treatment with Metformin.,insomnia
+0752,70,66+,M,Ibuprofen,500mg,Inhaled,Three times daily,Type 2 Diabetes,Patient has been experiencing nosebleeds after initiating treatment with Ibuprofen.,nosebleeds
+0753,45,36-50,M,Sertraline,50mg,Inhaled,Three times daily,Sinus Infection,"bruising symptoms noted by patient, potentially related to Sertraline.",bruising
+0754,47,36-50,M,Warfarin,20mg,Oral,Once daily,Rheumatoid Arthritis,Patient appears to tolerate Warfarin well with no side effects noted.,No ADE
+0755,44,36-50,F,Albuterol,100mg,Oral,Three times daily,Anxiety,No undesirable reactions have been observed following Albuterol administration.,No ADE
+0756,61,51-65,M,Metformin,100mg,Oral,As needed,Sinus Infection,No adverse reactions reported during follow-up.,No ADE
+0757,65,51-65,F,Prednisone,20mg,Inhaled,As needed,Asthma,Patient has been experiencing drowsiness after initiating treatment with Prednisone.,drowsiness
+0758,63,51-65,M,Ibuprofen,50mg,Inhaled,Twice daily,Type 2 Diabetes,Patient has been experiencing insomnia after initiating treatment with Ibuprofen.,insomnia
+0759,34,19-35,M,Paroxetine,20mg,Inhaled,As needed,Anxiety,Follow-up suggests the patient has no adverse responses to Paroxetine.,No ADE
+0760,77,66+,F,Amoxicillin,500mg,Oral,Once daily,Anxiety,"Reported issues include dizziness, which started after Amoxicillin was prescribed.",dizziness
+0761,36,36-50,F,Metformin,20mg,Inhaled,Once daily,Hypertension,Clinical evaluation reveals no signs of Metformin-related adverse effects.,No ADE
+0762,33,19-35,F,Albuterol,50mg,Inhaled,Twice daily,Hypertension,Follow-up suggests the patient has no adverse responses to Albuterol.,No ADE
+0763,80,66+,M,Prednisone,500mg,Oral,Three times daily,Sinus Infection,No adverse reactions reported during follow-up.,No ADE
+0764,38,36-50,F,Warfarin,10mg,Inhaled,Three times daily,Migraine,No complaints or unusual symptoms observed after medication use.,No ADE
+0765,72,66+,M,Paroxetine,50mg,Inhaled,Twice daily,Asthma,Patient has been experiencing stomach upset after initiating treatment with Paroxetine.,stomach upset
+0766,62,51-65,F,Warfarin,10mg,Oral,Three times daily,Rheumatoid Arthritis,Patient has been experiencing dry mouth after initiating treatment with Warfarin.,dry mouth
+0767,67,66+,F,Albuterol,100mg,Oral,Once daily,Atrial Fibrillation,Reports indicate Albuterol has been effective without complications.,No ADE
+0768,67,66+,M,Simvastatin,50mg,Oral,As needed,Anxiety,Patient denies any negative side effects associated with Simvastatin.,No ADE
+0769,79,66+,F,Metformin,50mg,Inhaled,As needed,High Cholesterol,Medical review confirms the absence of drug-related side effects.,No ADE
+0770,38,36-50,M,Prednisone,100mg,Inhaled,As needed,Atrial Fibrillation,No indications of intolerance or adverse events tied to Prednisone.,No ADE
+0771,60,51-65,M,Albuterol,50mg,Oral,As needed,Sinus Infection,Patient has been experiencing bruising after initiating treatment with Albuterol.,bruising
+0772,79,66+,F,Paroxetine,500mg,Inhaled,Three times daily,Depression,Patient shows improvement with no notable side effects.,No ADE
+0773,69,66+,M,Sertraline,100mg,Oral,As needed,High Cholesterol,"dry mouth symptoms noted by patient, potentially related to Sertraline.",dry mouth
+0774,37,36-50,M,Warfarin,20mg,Inhaled,Twice daily,Anxiety,Medical review confirms the absence of drug-related side effects.,No ADE
+0775,45,36-50,M,Amoxicillin,50mg,Inhaled,Once daily,Anxiety,Follow-up suggests the patient has no adverse responses to Amoxicillin.,No ADE
+0776,61,51-65,F,Metformin,100mg,Oral,Once daily,Anxiety,No evidence of Metformin being poorly tolerated by the patient.,No ADE
+0777,62,51-65,M,Metformin,50mg,Inhaled,Three times daily,Rheumatoid Arthritis,Patient shows improvement with no notable side effects.,No ADE
+0778,78,66+,M,Albuterol,10mg,Inhaled,As needed,High Cholesterol,Reports indicate Albuterol has been effective without complications.,No ADE
+0779,43,36-50,F,Simvastatin,500mg,Oral,Once daily,Hypertension,Patient has been experiencing dizziness after initiating treatment with Simvastatin.,dizziness
+0780,71,66+,F,Paroxetine,50mg,Oral,Twice daily,Anxiety,Follow-up suggests the patient has no adverse responses to Paroxetine.,No ADE
+0781,72,66+,M,Ibuprofen,50mg,Oral,Twice daily,Atrial Fibrillation,"Reported issues include muscle pain, which started after Ibuprofen was prescribed.",muscle pain
+0782,77,66+,M,Prednisone,50mg,Inhaled,Twice daily,Asthma,"Reported issues include sweating, which started after Prednisone was prescribed.",sweating
+0783,62,51-65,M,Sertraline,50mg,Inhaled,Twice daily,Type 2 Diabetes,No complaints or unusual symptoms observed after medication use.,No ADE
+0784,22,19-35,M,Simvastatin,50mg,Oral,Three times daily,Anxiety,"Reported issues include sweating, which started after Simvastatin was prescribed.",sweating
+0785,67,66+,M,Albuterol,10mg,Inhaled,As needed,Sinus Infection,Reports indicate Albuterol has been effective without complications.,No ADE
+0786,49,36-50,F,Paroxetine,500mg,Oral,Twice daily,Sinus Infection,No undesirable reactions have been observed following Paroxetine administration.,No ADE
+0787,41,36-50,M,Prednisone,20mg,Oral,Twice daily,Anxiety,"Reported issues include stomach upset, which started after Prednisone was prescribed.",stomach upset
+0788,49,36-50,M,Albuterol,20mg,Oral,Three times daily,Asthma,Patient has been experiencing dizziness after initiating treatment with Albuterol.,dizziness
+0789,25,19-35,M,Prednisone,50mg,Oral,Three times daily,Migraine,"dry mouth symptoms noted by patient, potentially related to Prednisone.",dry mouth
+0790,43,36-50,M,Prednisone,500mg,Inhaled,Once daily,Migraine,Treatment with Prednisone appears safe with no adverse symptoms recorded.,No ADE
+0791,75,66+,F,Metformin,500mg,Oral,Once daily,Hypertension,Patient has been experiencing drowsiness after initiating treatment with Metformin.,drowsiness
+0792,33,19-35,F,Lisinopril,100mg,Inhaled,Three times daily,High Cholesterol,"Reported issues include stomach upset, which started after Lisinopril was prescribed.",stomach upset
+0793,80,66+,F,Prednisone,50mg,Oral,Once daily,High Cholesterol,"Reported issues include appetite increase, which started after Prednisone was prescribed.",appetite increase
+0794,45,36-50,M,Ibuprofen,500mg,Inhaled,Three times daily,Atrial Fibrillation,Medical review confirms the absence of drug-related side effects.,No ADE
+0795,44,36-50,M,Ibuprofen,20mg,Inhaled,As needed,Type 2 Diabetes,"Reported issues include stomach upset, which started after Ibuprofen was prescribed.",stomach upset
+0796,56,51-65,M,Metformin,10mg,Inhaled,Twice daily,Anxiety,Reports indicate Metformin has been effective without complications.,No ADE
+0797,29,19-35,M,Simvastatin,500mg,Oral,Once daily,Rheumatoid Arthritis,"Reported issues include appetite increase, which started after Simvastatin was prescribed.",appetite increase
+0798,34,19-35,M,Warfarin,20mg,Inhaled,Three times daily,Hypertension,No adverse reactions reported during follow-up.,No ADE
+0799,31,19-35,F,Prednisone,20mg,Oral,As needed,Anxiety,No undesirable reactions have been observed following Prednisone administration.,No ADE
+0800,42,36-50,F,Prednisone,10mg,Oral,Once daily,Rheumatoid Arthritis,No adverse reactions reported during follow-up.,No ADE
+0801,71,66+,F,Amoxicillin,10mg,Inhaled,Twice daily,Anxiety,No undesirable reactions have been observed following Amoxicillin administration.,No ADE
+0802,40,36-50,M,Prednisone,100mg,Inhaled,As needed,Anxiety,No indications of intolerance or adverse events tied to Prednisone.,No ADE
+0803,79,66+,M,Ibuprofen,20mg,Inhaled,Once daily,High Cholesterol,Patient has been experiencing mood swings after initiating treatment with Ibuprofen.,mood swings
+0804,53,51-65,M,Simvastatin,500mg,Inhaled,Three times daily,Type 2 Diabetes,Patient has been experiencing dry mouth after initiating treatment with Simvastatin.,dry mouth
+0805,79,66+,F,Prednisone,500mg,Oral,Once daily,Rheumatoid Arthritis,"Reported issues include nosebleeds, which started after Prednisone was prescribed.",nosebleeds
+0806,44,36-50,F,Sertraline,50mg,Oral,Once daily,Atrial Fibrillation,No adverse reactions reported during follow-up.,No ADE
+0807,73,66+,M,Simvastatin,10mg,Inhaled,Once daily,Migraine,"Reported issues include itching, which started after Simvastatin was prescribed.",itching
+0808,42,36-50,M,Simvastatin,20mg,Oral,Twice daily,Migraine,Patient remains asymptomatic and compliant with Simvastatin therapy.,No ADE
+0809,55,51-65,M,Prednisone,100mg,Inhaled,Once daily,Sinus Infection,Clinical evaluation reveals no signs of Prednisone-related adverse effects.,No ADE
+0810,70,66+,F,Ibuprofen,100mg,Inhaled,As needed,Asthma,Patient has been experiencing nausea after initiating treatment with Ibuprofen.,nausea
+0811,24,19-35,F,Lisinopril,100mg,Inhaled,Three times daily,Hypertension,Treatment with Lisinopril appears safe with no adverse symptoms recorded.,No ADE
+0812,62,51-65,F,Lisinopril,500mg,Inhaled,As needed,Asthma,"Reported issues include muscle pain, which started after Lisinopril was prescribed.",muscle pain
+0813,29,19-35,M,Prednisone,500mg,Inhaled,Twice daily,Migraine,Patient appears to tolerate Prednisone well with no side effects noted.,No ADE
+0814,71,66+,M,Simvastatin,20mg,Oral,Twice daily,Hypertension,Follow-up suggests the patient has no adverse responses to Simvastatin.,No ADE
+0815,26,19-35,F,Albuterol,500mg,Inhaled,As needed,Type 2 Diabetes,Treatment with Albuterol appears safe with no adverse symptoms recorded.,No ADE
+0816,40,36-50,F,Amoxicillin,50mg,Inhaled,Once daily,Migraine,No complaints or unusual symptoms observed after medication use.,No ADE
+0817,53,51-65,M,Prednisone,500mg,Oral,Once daily,High Cholesterol,Medical review confirms the absence of drug-related side effects.,No ADE
+0818,35,19-35,F,Sertraline,50mg,Oral,Once daily,Asthma,"drowsiness symptoms noted by patient, potentially related to Sertraline.",drowsiness
+0819,75,66+,M,Prednisone,50mg,Inhaled,Twice daily,Asthma,Medical review confirms the absence of drug-related side effects.,No ADE
+0820,70,66+,F,Albuterol,50mg,Inhaled,Twice daily,Atrial Fibrillation,Patient appears to tolerate Albuterol well with no side effects noted.,No ADE
+0821,21,19-35,M,Metformin,10mg,Oral,As needed,Hypertension,"Reported issues include bruising, which started after Metformin was prescribed.",bruising
+0822,39,36-50,M,Paroxetine,50mg,Inhaled,Three times daily,Atrial Fibrillation,Treatment with Paroxetine appears safe with no adverse symptoms recorded.,No ADE
+0823,34,19-35,F,Albuterol,50mg,Oral,Three times daily,Type 2 Diabetes,"dizziness symptoms noted by patient, potentially related to Albuterol.",dizziness
+0824,44,36-50,F,Albuterol,100mg,Oral,Twice daily,Type 2 Diabetes,Reports indicate Albuterol has been effective without complications.,No ADE
+0825,76,66+,F,Prednisone,50mg,Oral,As needed,Sinus Infection,Patient has been experiencing insomnia after initiating treatment with Prednisone.,insomnia
+0826,31,19-35,M,Simvastatin,20mg,Inhaled,As needed,Sinus Infection,Patient appears to tolerate Simvastatin well with no side effects noted.,No ADE
+0827,29,19-35,F,Metformin,20mg,Oral,As needed,Hypertension,Patient has been experiencing nausea after initiating treatment with Metformin.,nausea
+0828,76,66+,M,Albuterol,20mg,Oral,As needed,Anxiety,"sweating symptoms noted by patient, potentially related to Albuterol.",sweating
+0829,71,66+,F,Prednisone,20mg,Inhaled,Once daily,Asthma,Patient appears to tolerate Prednisone well with no side effects noted.,No ADE
+0830,26,19-35,F,Lisinopril,100mg,Oral,Once daily,Sinus Infection,Follow-up suggests the patient has no adverse responses to Lisinopril.,No ADE
+0831,66,66+,M,Prednisone,50mg,Oral,Twice daily,Atrial Fibrillation,No evidence of Prednisone being poorly tolerated by the patient.,No ADE
+0832,69,66+,M,Prednisone,20mg,Oral,Twice daily,Rheumatoid Arthritis,Patient has been experiencing mood swings after initiating treatment with Prednisone.,mood swings
+0833,25,19-35,F,Metformin,500mg,Oral,As needed,Atrial Fibrillation,No undesirable reactions have been observed following Metformin administration.,No ADE
+0834,34,19-35,F,Albuterol,500mg,Inhaled,Once daily,Migraine,No evidence of Albuterol being poorly tolerated by the patient.,No ADE
+0835,23,19-35,F,Prednisone,100mg,Inhaled,Once daily,Sinus Infection,Treatment with Prednisone appears safe with no adverse symptoms recorded.,No ADE
+0836,45,36-50,F,Lisinopril,500mg,Oral,As needed,Type 2 Diabetes,Patient appears to tolerate Lisinopril well with no side effects noted.,No ADE
+0837,62,51-65,F,Paroxetine,20mg,Oral,As needed,Rheumatoid Arthritis,Patient shows improvement with no notable side effects.,No ADE
+0838,39,36-50,M,Prednisone,20mg,Inhaled,Once daily,Depression,"Reported issues include sweating, which started after Prednisone was prescribed.",sweating
+0839,35,19-35,F,Paroxetine,20mg,Inhaled,As needed,Sinus Infection,"dizziness symptoms noted by patient, potentially related to Paroxetine.",dizziness
+0840,71,66+,F,Paroxetine,500mg,Oral,Once daily,Atrial Fibrillation,Routine checkup showed no adverse responses to medication.,No ADE
+0841,28,19-35,F,Sertraline,50mg,Inhaled,As needed,Type 2 Diabetes,Patient has been experiencing nosebleeds after initiating treatment with Sertraline.,nosebleeds
+0842,21,19-35,M,Albuterol,50mg,Oral,As needed,Type 2 Diabetes,No evidence of Albuterol being poorly tolerated by the patient.,No ADE
+0843,58,51-65,M,Albuterol,20mg,Oral,Once daily,Asthma,Routine checkup showed no adverse responses to medication.,No ADE
+0844,69,66+,M,Albuterol,500mg,Inhaled,Three times daily,Migraine,"Reported issues include dizziness, which started after Albuterol was prescribed.",dizziness
+0845,49,36-50,M,Prednisone,10mg,Inhaled,Three times daily,Depression,Patient has been experiencing appetite increase after initiating treatment with Prednisone.,appetite increase
+0846,55,51-65,F,Metformin,100mg,Inhaled,As needed,Sinus Infection,Follow-up suggests the patient has no adverse responses to Metformin.,No ADE
+0847,26,19-35,M,Metformin,500mg,Oral,As needed,High Cholesterol,Routine checkup showed no adverse responses to medication.,No ADE
+0848,54,51-65,F,Amoxicillin,10mg,Inhaled,Three times daily,Type 2 Diabetes,"Reported issues include drowsiness, which started after Amoxicillin was prescribed.",drowsiness
+0849,39,36-50,F,Simvastatin,500mg,Inhaled,Three times daily,Atrial Fibrillation,Patient denies any negative side effects associated with Simvastatin.,No ADE
+0850,79,66+,F,Lisinopril,20mg,Inhaled,Twice daily,Atrial Fibrillation,Patient appears to tolerate Lisinopril well with no side effects noted.,No ADE
+0851,27,19-35,M,Sertraline,100mg,Oral,As needed,Migraine,Patient has been experiencing drowsiness after initiating treatment with Sertraline.,drowsiness
+0852,35,19-35,F,Albuterol,50mg,Inhaled,As needed,Type 2 Diabetes,"dry mouth symptoms noted by patient, potentially related to Albuterol.",dry mouth
+0853,22,19-35,F,Prednisone,100mg,Oral,As needed,Depression,"appetite increase symptoms noted by patient, potentially related to Prednisone.",appetite increase
+0854,65,51-65,F,Warfarin,500mg,Inhaled,As needed,Migraine,Patient has been experiencing dizziness after initiating treatment with Warfarin.,dizziness
+0855,67,66+,F,Albuterol,500mg,Oral,As needed,Hypertension,No evidence of Albuterol being poorly tolerated by the patient.,No ADE
+0856,60,51-65,F,Metformin,20mg,Oral,As needed,Sinus Infection,Patient has been experiencing insomnia after initiating treatment with Metformin.,insomnia
+0857,63,51-65,M,Albuterol,500mg,Inhaled,Twice daily,Hypertension,Patient has been experiencing dizziness after initiating treatment with Albuterol.,dizziness
+0858,48,36-50,F,Lisinopril,100mg,Inhaled,Once daily,Sinus Infection,Treatment with Lisinopril appears safe with no adverse symptoms recorded.,No ADE
+0859,67,66+,F,Lisinopril,20mg,Inhaled,Twice daily,Sinus Infection,Medical review confirms the absence of drug-related side effects.,No ADE
+0860,68,66+,F,Prednisone,20mg,Inhaled,Three times daily,Migraine,No indications of intolerance or adverse events tied to Prednisone.,No ADE
+0861,67,66+,F,Warfarin,100mg,Oral,Twice daily,Asthma,Patient has been experiencing bruising after initiating treatment with Warfarin.,bruising
+0862,56,51-65,M,Simvastatin,500mg,Oral,As needed,Migraine,Routine checkup showed no adverse responses to medication.,No ADE
+0863,73,66+,M,Sertraline,10mg,Oral,Once daily,Sinus Infection,No adverse reactions reported during follow-up.,No ADE
+0864,45,36-50,F,Sertraline,20mg,Oral,As needed,High Cholesterol,Patient appears to tolerate Sertraline well with no side effects noted.,No ADE
+0865,39,36-50,F,Ibuprofen,50mg,Oral,Three times daily,Depression,Patient has been experiencing dizziness after initiating treatment with Ibuprofen.,dizziness
+0866,79,66+,F,Sertraline,500mg,Inhaled,As needed,Sinus Infection,No undesirable reactions have been observed following Sertraline administration.,No ADE
+0867,66,66+,M,Albuterol,10mg,Oral,Twice daily,Type 2 Diabetes,"itching symptoms noted by patient, potentially related to Albuterol.",itching
+0868,49,36-50,F,Sertraline,50mg,Inhaled,Twice daily,Type 2 Diabetes,Patient has been experiencing nosebleeds after initiating treatment with Sertraline.,nosebleeds
+0869,69,66+,M,Albuterol,50mg,Oral,As needed,Rheumatoid Arthritis,Patient denies any negative side effects associated with Albuterol.,No ADE
+0870,72,66+,M,Lisinopril,100mg,Inhaled,Twice daily,Depression,"Reported issues include nausea, which started after Lisinopril was prescribed.",nausea
+0871,48,36-50,F,Paroxetine,20mg,Inhaled,Once daily,Depression,"Reported issues include nausea, which started after Paroxetine was prescribed.",nausea
+0872,32,19-35,M,Warfarin,100mg,Oral,Twice daily,Migraine,Patient has been experiencing muscle pain after initiating treatment with Warfarin.,muscle pain
+0873,35,19-35,M,Metformin,500mg,Inhaled,As needed,Atrial Fibrillation,"Reported issues include muscle pain, which started after Metformin was prescribed.",muscle pain
+0874,59,51-65,M,Ibuprofen,100mg,Oral,Three times daily,Migraine,Routine checkup showed no adverse responses to medication.,No ADE
+0875,29,19-35,M,Simvastatin,20mg,Inhaled,Twice daily,Type 2 Diabetes,"Reported issues include bruising, which started after Simvastatin was prescribed.",bruising
+0876,70,66+,M,Prednisone,10mg,Inhaled,As needed,Migraine,"drowsiness symptoms noted by patient, potentially related to Prednisone.",drowsiness
+0877,78,66+,F,Lisinopril,20mg,Inhaled,As needed,Type 2 Diabetes,Follow-up suggests the patient has no adverse responses to Lisinopril.,No ADE
+0878,73,66+,M,Lisinopril,100mg,Inhaled,Three times daily,Sinus Infection,"Reported issues include itching, which started after Lisinopril was prescribed.",itching
+0879,29,19-35,F,Warfarin,10mg,Inhaled,As needed,High Cholesterol,"muscle pain symptoms noted by patient, potentially related to Warfarin.",muscle pain
+0880,73,66+,F,Amoxicillin,500mg,Oral,As needed,Sinus Infection,"Reported issues include itching, which started after Amoxicillin was prescribed.",itching
+0881,61,51-65,M,Prednisone,20mg,Oral,As needed,Depression,"dry mouth symptoms noted by patient, potentially related to Prednisone.",dry mouth
+0882,52,51-65,F,Simvastatin,100mg,Inhaled,Twice daily,Migraine,No undesirable reactions have been observed following Simvastatin administration.,No ADE
+0883,39,36-50,F,Lisinopril,50mg,Oral,Once daily,Rheumatoid Arthritis,Patient has been experiencing mood swings after initiating treatment with Lisinopril.,mood swings
+0884,71,66+,F,Warfarin,100mg,Oral,Twice daily,Type 2 Diabetes,Patient has been experiencing dry mouth after initiating treatment with Warfarin.,dry mouth
+0885,36,36-50,F,Warfarin,20mg,Inhaled,Once daily,Depression,"Reported issues include nosebleeds, which started after Warfarin was prescribed.",nosebleeds
+0886,57,51-65,F,Prednisone,50mg,Oral,As needed,Sinus Infection,Patient has been experiencing insomnia after initiating treatment with Prednisone.,insomnia
+0887,46,36-50,F,Warfarin,10mg,Oral,Three times daily,Anxiety,"insomnia symptoms noted by patient, potentially related to Warfarin.",insomnia
+0888,48,36-50,F,Lisinopril,500mg,Oral,As needed,Sinus Infection,No undesirable reactions have been observed following Lisinopril administration.,No ADE
+0889,43,36-50,F,Albuterol,500mg,Oral,Twice daily,Anxiety,Treatment with Albuterol appears safe with no adverse symptoms recorded.,No ADE
+0890,38,36-50,M,Albuterol,500mg,Inhaled,As needed,Atrial Fibrillation,Patient denies any negative side effects associated with Albuterol.,No ADE
+0891,21,19-35,M,Paroxetine,50mg,Oral,Twice daily,Migraine,Treatment with Paroxetine appears safe with no adverse symptoms recorded.,No ADE
+0892,23,19-35,F,Simvastatin,100mg,Oral,Once daily,Hypertension,No evidence of Simvastatin being poorly tolerated by the patient.,No ADE
+0893,45,36-50,M,Metformin,100mg,Inhaled,Twice daily,Migraine,Follow-up suggests the patient has no adverse responses to Metformin.,No ADE
+0894,50,36-50,M,Warfarin,500mg,Oral,Once daily,High Cholesterol,"Reported issues include insomnia, which started after Warfarin was prescribed.",insomnia
+0895,62,51-65,F,Amoxicillin,500mg,Oral,Twice daily,Anxiety,"nosebleeds symptoms noted by patient, potentially related to Amoxicillin.",nosebleeds
+0896,69,66+,F,Paroxetine,100mg,Oral,As needed,Migraine,No undesirable reactions have been observed following Paroxetine administration.,No ADE
+0897,42,36-50,F,Paroxetine,10mg,Oral,Twice daily,Depression,"Reported issues include nausea, which started after Paroxetine was prescribed.",nausea
+0898,46,36-50,M,Simvastatin,20mg,Oral,Once daily,Sinus Infection,"Reported issues include nausea, which started after Simvastatin was prescribed.",nausea
+0899,44,36-50,F,Prednisone,50mg,Oral,As needed,High Cholesterol,Patient denies any negative side effects associated with Prednisone.,No ADE
+0900,51,51-65,M,Prednisone,500mg,Inhaled,Twice daily,Anxiety,Patient remains asymptomatic and compliant with Prednisone therapy.,No ADE
+0901,56,51-65,F,Prednisone,500mg,Oral,Three times daily,High Cholesterol,Patient has been experiencing nausea after initiating treatment with Prednisone.,nausea
+0902,51,51-65,F,Warfarin,10mg,Oral,Three times daily,Hypertension,Patient has been experiencing appetite increase after initiating treatment with Warfarin.,appetite increase
+0903,52,51-65,F,Lisinopril,10mg,Inhaled,Three times daily,Anxiety,Patient has been experiencing drowsiness after initiating treatment with Lisinopril.,drowsiness
+0904,30,19-35,M,Paroxetine,20mg,Inhaled,Twice daily,Rheumatoid Arthritis,"Reported issues include itching, which started after Paroxetine was prescribed.",itching
+0905,56,51-65,F,Albuterol,20mg,Inhaled,As needed,Asthma,No undesirable reactions have been observed following Albuterol administration.,No ADE
+0906,51,51-65,M,Lisinopril,50mg,Oral,Once daily,Depression,Patient denies any negative side effects associated with Lisinopril.,No ADE
+0907,49,36-50,F,Lisinopril,10mg,Oral,Once daily,Depression,"nosebleeds symptoms noted by patient, potentially related to Lisinopril.",nosebleeds
+0908,58,51-65,M,Sertraline,100mg,Oral,As needed,High Cholesterol,Routine checkup showed no adverse responses to medication.,No ADE
+0909,55,51-65,F,Prednisone,50mg,Oral,Twice daily,Sinus Infection,Clinical evaluation reveals no signs of Prednisone-related adverse effects.,No ADE
+0910,51,51-65,F,Ibuprofen,500mg,Oral,Three times daily,High Cholesterol,"dry mouth symptoms noted by patient, potentially related to Ibuprofen.",dry mouth
+0911,39,36-50,M,Sertraline,10mg,Oral,Twice daily,Sinus Infection,Patient has been experiencing nosebleeds after initiating treatment with Sertraline.,nosebleeds
+0912,34,19-35,F,Simvastatin,50mg,Oral,Twice daily,Type 2 Diabetes,Patient has been experiencing appetite increase after initiating treatment with Simvastatin.,appetite increase
+0913,47,36-50,F,Paroxetine,100mg,Inhaled,Once daily,Sinus Infection,"Reported issues include drowsiness, which started after Paroxetine was prescribed.",drowsiness
+0914,65,51-65,M,Simvastatin,10mg,Oral,Three times daily,Asthma,No adverse reactions reported during follow-up.,No ADE
+0915,24,19-35,F,Warfarin,50mg,Oral,As needed,Atrial Fibrillation,Patient has been experiencing insomnia after initiating treatment with Warfarin.,insomnia
+0916,25,19-35,F,Paroxetine,10mg,Oral,Once daily,Sinus Infection,"Reported issues include sweating, which started after Paroxetine was prescribed.",sweating
+0917,39,36-50,F,Amoxicillin,50mg,Inhaled,Twice daily,High Cholesterol,Patient remains asymptomatic and compliant with Amoxicillin therapy.,No ADE
+0918,68,66+,F,Paroxetine,500mg,Oral,Once daily,Sinus Infection,No indications of intolerance or adverse events tied to Paroxetine.,No ADE
+0919,22,19-35,M,Simvastatin,20mg,Oral,As needed,Type 2 Diabetes,Patient denies any negative side effects associated with Simvastatin.,No ADE
+0920,71,66+,M,Amoxicillin,50mg,Inhaled,As needed,Rheumatoid Arthritis,"stomach upset symptoms noted by patient, potentially related to Amoxicillin.",stomach upset
+0921,63,51-65,F,Lisinopril,50mg,Inhaled,Once daily,Type 2 Diabetes,"stomach upset symptoms noted by patient, potentially related to Lisinopril.",stomach upset
+0922,73,66+,F,Warfarin,10mg,Inhaled,Three times daily,Rheumatoid Arthritis,"Reported issues include mood swings, which started after Warfarin was prescribed.",mood swings
+0923,31,19-35,M,Paroxetine,20mg,Inhaled,As needed,Asthma,"Reported issues include insomnia, which started after Paroxetine was prescribed.",insomnia
+0924,60,51-65,M,Warfarin,50mg,Oral,Once daily,Asthma,"Reported issues include stomach upset, which started after Warfarin was prescribed.",stomach upset
+0925,34,19-35,F,Metformin,50mg,Inhaled,Twice daily,Sinus Infection,Follow-up suggests the patient has no adverse responses to Metformin.,No ADE
+0926,54,51-65,F,Amoxicillin,500mg,Inhaled,As needed,Migraine,Treatment with Amoxicillin appears safe with no adverse symptoms recorded.,No ADE
+0927,65,51-65,M,Simvastatin,100mg,Inhaled,As needed,Migraine,Treatment with Simvastatin appears safe with no adverse symptoms recorded.,No ADE
+0928,69,66+,M,Metformin,50mg,Inhaled,Twice daily,High Cholesterol,No evidence of Metformin being poorly tolerated by the patient.,No ADE
+0929,76,66+,F,Albuterol,20mg,Inhaled,Three times daily,Type 2 Diabetes,Patient has been experiencing rash after initiating treatment with Albuterol.,rash
+0930,33,19-35,M,Lisinopril,20mg,Oral,Three times daily,Migraine,No indications of intolerance or adverse events tied to Lisinopril.,No ADE
+0931,77,66+,M,Ibuprofen,500mg,Oral,Three times daily,Hypertension,"Reported issues include nausea, which started after Ibuprofen was prescribed.",nausea
+0932,35,19-35,M,Albuterol,100mg,Oral,As needed,Rheumatoid Arthritis,"Reported issues include dizziness, which started after Albuterol was prescribed.",dizziness
+0933,28,19-35,F,Amoxicillin,20mg,Oral,Twice daily,Sinus Infection,"bruising symptoms noted by patient, potentially related to Amoxicillin.",bruising
+0934,20,19-35,F,Paroxetine,100mg,Oral,Once daily,Asthma,"dizziness symptoms noted by patient, potentially related to Paroxetine.",dizziness
+0935,46,36-50,M,Paroxetine,100mg,Oral,Twice daily,Migraine,Routine checkup showed no adverse responses to medication.,No ADE
+0936,63,51-65,M,Warfarin,10mg,Oral,As needed,Type 2 Diabetes,"Reported issues include rash, which started after Warfarin was prescribed.",rash
+0937,54,51-65,M,Albuterol,50mg,Oral,Once daily,Atrial Fibrillation,"Reported issues include bruising, which started after Albuterol was prescribed.",bruising
+0938,73,66+,F,Ibuprofen,50mg,Inhaled,Once daily,Asthma,"muscle pain symptoms noted by patient, potentially related to Ibuprofen.",muscle pain
+0939,39,36-50,M,Amoxicillin,100mg,Oral,Twice daily,Depression,No indications of intolerance or adverse events tied to Amoxicillin.,No ADE
+0940,52,51-65,M,Simvastatin,50mg,Oral,As needed,Type 2 Diabetes,"insomnia symptoms noted by patient, potentially related to Simvastatin.",insomnia
+0941,50,36-50,F,Ibuprofen,10mg,Inhaled,Once daily,Atrial Fibrillation,Patient appears to tolerate Ibuprofen well with no side effects noted.,No ADE
+0942,53,51-65,F,Lisinopril,50mg,Inhaled,As needed,Hypertension,Follow-up suggests the patient has no adverse responses to Lisinopril.,No ADE
+0943,38,36-50,F,Prednisone,10mg,Inhaled,Twice daily,Sinus Infection,Patient shows improvement with no notable side effects.,No ADE
+0944,66,66+,F,Amoxicillin,100mg,Oral,Three times daily,Rheumatoid Arthritis,Follow-up suggests the patient has no adverse responses to Amoxicillin.,No ADE
+0945,56,51-65,F,Sertraline,500mg,Oral,Once daily,Asthma,No undesirable reactions have been observed following Sertraline administration.,No ADE
+0946,50,36-50,M,Simvastatin,20mg,Inhaled,Three times daily,High Cholesterol,"dizziness symptoms noted by patient, potentially related to Simvastatin.",dizziness
+0947,69,66+,F,Simvastatin,10mg,Oral,As needed,Asthma,Patient shows improvement with no notable side effects.,No ADE
+0948,63,51-65,M,Amoxicillin,10mg,Oral,Twice daily,Depression,Medical review confirms the absence of drug-related side effects.,No ADE
+0949,30,19-35,M,Metformin,10mg,Inhaled,As needed,Atrial Fibrillation,"Reported issues include drowsiness, which started after Metformin was prescribed.",drowsiness
+0950,69,66+,F,Warfarin,20mg,Inhaled,Three times daily,Type 2 Diabetes,No undesirable reactions have been observed following Warfarin administration.,No ADE
+0951,35,19-35,F,Ibuprofen,50mg,Oral,Once daily,Depression,No adverse reactions reported during follow-up.,No ADE
+0952,31,19-35,M,Metformin,100mg,Oral,Twice daily,Asthma,No adverse reactions reported during follow-up.,No ADE
+0953,75,66+,F,Warfarin,100mg,Oral,Once daily,Atrial Fibrillation,"bruising symptoms noted by patient, potentially related to Warfarin.",bruising
+0954,42,36-50,F,Ibuprofen,500mg,Oral,Once daily,Hypertension,"mood swings symptoms noted by patient, potentially related to Ibuprofen.",mood swings
+0955,65,51-65,F,Prednisone,100mg,Oral,As needed,Anxiety,"nosebleeds symptoms noted by patient, potentially related to Prednisone.",nosebleeds
+0956,28,19-35,M,Ibuprofen,20mg,Oral,Twice daily,Atrial Fibrillation,"Reported issues include insomnia, which started after Ibuprofen was prescribed.",insomnia
+0957,73,66+,M,Paroxetine,20mg,Oral,Twice daily,Type 2 Diabetes,"mood swings symptoms noted by patient, potentially related to Paroxetine.",mood swings
+0958,48,36-50,M,Simvastatin,500mg,Inhaled,As needed,Rheumatoid Arthritis,"dizziness symptoms noted by patient, potentially related to Simvastatin.",dizziness
+0959,31,19-35,F,Warfarin,10mg,Oral,As needed,Asthma,"Reported issues include muscle pain, which started after Warfarin was prescribed.",muscle pain
+0960,24,19-35,M,Amoxicillin,100mg,Oral,Twice daily,Sinus Infection,"Reported issues include rash, which started after Amoxicillin was prescribed.",rash
+0961,35,19-35,M,Ibuprofen,10mg,Inhaled,Three times daily,Type 2 Diabetes,Patient remains asymptomatic and compliant with Ibuprofen therapy.,No ADE
+0962,24,19-35,F,Ibuprofen,50mg,Oral,As needed,High Cholesterol,Reports indicate Ibuprofen has been effective without complications.,No ADE
+0963,56,51-65,F,Amoxicillin,50mg,Inhaled,Once daily,Anxiety,Clinical evaluation reveals no signs of Amoxicillin-related adverse effects.,No ADE
+0964,62,51-65,F,Ibuprofen,50mg,Inhaled,Three times daily,Migraine,No indications of intolerance or adverse events tied to Ibuprofen.,No ADE
+0965,61,51-65,F,Sertraline,10mg,Inhaled,As needed,Rheumatoid Arthritis,"insomnia symptoms noted by patient, potentially related to Sertraline.",insomnia
+0966,59,51-65,F,Albuterol,50mg,Inhaled,As needed,Depression,"rash symptoms noted by patient, potentially related to Albuterol.",rash
+0967,63,51-65,M,Ibuprofen,50mg,Oral,Three times daily,Rheumatoid Arthritis,Patient appears to tolerate Ibuprofen well with no side effects noted.,No ADE
+0968,70,66+,F,Prednisone,10mg,Inhaled,Once daily,Atrial Fibrillation,"itching symptoms noted by patient, potentially related to Prednisone.",itching
+0969,51,51-65,M,Lisinopril,500mg,Inhaled,As needed,Depression,No indications of intolerance or adverse events tied to Lisinopril.,No ADE
+0970,47,36-50,F,Amoxicillin,50mg,Oral,Twice daily,Migraine,Follow-up suggests the patient has no adverse responses to Amoxicillin.,No ADE
+0971,28,19-35,F,Simvastatin,20mg,Oral,Twice daily,Atrial Fibrillation,Patient has been experiencing dry mouth after initiating treatment with Simvastatin.,dry mouth
+0972,30,19-35,F,Sertraline,500mg,Inhaled,Once daily,Anxiety,"nosebleeds symptoms noted by patient, potentially related to Sertraline.",nosebleeds
+0973,77,66+,M,Warfarin,500mg,Inhaled,Once daily,Sinus Infection,"Reported issues include nosebleeds, which started after Warfarin was prescribed.",nosebleeds
+0974,25,19-35,M,Prednisone,100mg,Oral,Three times daily,High Cholesterol,"nausea symptoms noted by patient, potentially related to Prednisone.",nausea
+0975,75,66+,M,Simvastatin,100mg,Oral,Three times daily,Depression,Patient has been experiencing rash after initiating treatment with Simvastatin.,rash
+0976,31,19-35,M,Metformin,20mg,Inhaled,Once daily,Rheumatoid Arthritis,No adverse reactions reported during follow-up.,No ADE
+0977,55,51-65,M,Ibuprofen,10mg,Inhaled,Once daily,Asthma,"itching symptoms noted by patient, potentially related to Ibuprofen.",itching
+0978,58,51-65,M,Lisinopril,20mg,Oral,Twice daily,Hypertension,Follow-up suggests the patient has no adverse responses to Lisinopril.,No ADE
+0979,73,66+,F,Warfarin,20mg,Inhaled,Once daily,Sinus Infection,Patient shows improvement with no notable side effects.,No ADE
+0980,41,36-50,F,Amoxicillin,20mg,Inhaled,Twice daily,Anxiety,"Reported issues include insomnia, which started after Amoxicillin was prescribed.",insomnia
+0981,57,51-65,F,Metformin,20mg,Inhaled,As needed,Depression,"Reported issues include bruising, which started after Metformin was prescribed.",bruising
+0982,62,51-65,M,Lisinopril,10mg,Inhaled,Once daily,Depression,Patient remains asymptomatic and compliant with Lisinopril therapy.,No ADE
+0983,51,51-65,F,Sertraline,100mg,Oral,As needed,Type 2 Diabetes,"insomnia symptoms noted by patient, potentially related to Sertraline.",insomnia
+0984,23,19-35,F,Albuterol,50mg,Inhaled,Three times daily,Depression,"dry mouth symptoms noted by patient, potentially related to Albuterol.",dry mouth
+0985,29,19-35,M,Paroxetine,10mg,Oral,Twice daily,Atrial Fibrillation,"insomnia symptoms noted by patient, potentially related to Paroxetine.",insomnia
+0986,59,51-65,F,Lisinopril,10mg,Inhaled,As needed,Asthma,No undesirable reactions have been observed following Lisinopril administration.,No ADE
+0987,51,51-65,M,Metformin,100mg,Inhaled,Three times daily,Depression,Patient denies any negative side effects associated with Metformin.,No ADE
+0988,61,51-65,M,Albuterol,100mg,Inhaled,Three times daily,High Cholesterol,Patient has been experiencing bruising after initiating treatment with Albuterol.,bruising
+0989,47,36-50,M,Warfarin,50mg,Inhaled,Twice daily,Atrial Fibrillation,Patient has been experiencing bruising after initiating treatment with Warfarin.,bruising
+0990,54,51-65,M,Warfarin,20mg,Oral,Once daily,High Cholesterol,Patient has been experiencing drowsiness after initiating treatment with Warfarin.,drowsiness
+0991,37,36-50,F,Prednisone,20mg,Oral,Once daily,Hypertension,"Reported issues include dizziness, which started after Prednisone was prescribed.",dizziness
+0992,37,36-50,M,Prednisone,50mg,Inhaled,Twice daily,Hypertension,"Reported issues include nausea, which started after Prednisone was prescribed.",nausea
+0993,57,51-65,M,Lisinopril,500mg,Oral,As needed,Hypertension,"Reported issues include rash, which started after Lisinopril was prescribed.",rash
+0994,58,51-65,F,Simvastatin,20mg,Inhaled,Twice daily,Depression,Patient has been experiencing nausea after initiating treatment with Simvastatin.,nausea
+0995,22,19-35,F,Lisinopril,100mg,Inhaled,Once daily,Hypertension,Patient shows improvement with no notable side effects.,No ADE
+0996,46,36-50,M,Simvastatin,10mg,Inhaled,Once daily,High Cholesterol,Patient has been experiencing nosebleeds after initiating treatment with Simvastatin.,nosebleeds
+0997,75,66+,F,Ibuprofen,100mg,Inhaled,Twice daily,Migraine,Patient remains asymptomatic and compliant with Ibuprofen therapy.,No ADE
+0998,25,19-35,M,Prednisone,20mg,Oral,As needed,Type 2 Diabetes,"muscle pain symptoms noted by patient, potentially related to Prednisone.",muscle pain
+0999,69,66+,M,Amoxicillin,50mg,Inhaled,Once daily,Atrial Fibrillation,"stomach upset symptoms noted by patient, potentially related to Amoxicillin.",stomach upset
+1000,78,66+,F,Lisinopril,100mg,Inhaled,As needed,Hypertension,"Reported issues include insomnia, which started after Lisinopril was prescribed.",insomnia
+1001,48,36-50,M,Lisinopril,100mg,Oral,As needed,Hypertension,Patient has been experiencing rash after initiating treatment with Lisinopril.,rash
+1002,60,51-65,F,Warfarin,50mg,Oral,Twice daily,Depression,Patient has been experiencing stomach upset after initiating treatment with Warfarin.,stomach upset
+1003,38,36-50,M,Lisinopril,50mg,Inhaled,Three times daily,Sinus Infection,"Reported issues include mood swings, which started after Lisinopril was prescribed.",mood swings
+1004,29,19-35,F,Paroxetine,500mg,Inhaled,Three times daily,Anxiety,Patient denies any negative side effects associated with Paroxetine.,No ADE
+1005,79,66+,M,Prednisone,50mg,Inhaled,Twice daily,Atrial Fibrillation,Patient appears to tolerate Prednisone well with no side effects noted.,No ADE
+1006,36,36-50,F,Simvastatin,20mg,Inhaled,Twice daily,Depression,No adverse reactions reported during follow-up.,No ADE
+1007,47,36-50,F,Simvastatin,500mg,Oral,As needed,Asthma,Patient shows improvement with no notable side effects.,No ADE
+1008,79,66+,M,Paroxetine,50mg,Oral,As needed,Atrial Fibrillation,"Reported issues include stomach upset, which started after Paroxetine was prescribed.",stomach upset
+1009,75,66+,F,Simvastatin,20mg,Inhaled,Twice daily,High Cholesterol,"bruising symptoms noted by patient, potentially related to Simvastatin.",bruising
+1010,42,36-50,F,Simvastatin,10mg,Inhaled,As needed,Type 2 Diabetes,Patient shows improvement with no notable side effects.,No ADE
+1011,30,19-35,M,Amoxicillin,100mg,Inhaled,Once daily,Depression,Patient has been experiencing rash after initiating treatment with Amoxicillin.,rash
+1012,42,36-50,F,Sertraline,10mg,Oral,As needed,Anxiety,Clinical evaluation reveals no signs of Sertraline-related adverse effects.,No ADE
+1013,73,66+,M,Warfarin,10mg,Inhaled,Once daily,Atrial Fibrillation,"muscle pain symptoms noted by patient, potentially related to Warfarin.",muscle pain
+1014,76,66+,F,Ibuprofen,10mg,Inhaled,Once daily,High Cholesterol,No adverse reactions reported during follow-up.,No ADE
+1015,32,19-35,F,Albuterol,50mg,Inhaled,Once daily,Anxiety,"dry mouth symptoms noted by patient, potentially related to Albuterol.",dry mouth
+1016,59,51-65,F,Prednisone,500mg,Inhaled,Once daily,Depression,No undesirable reactions have been observed following Prednisone administration.,No ADE
+1017,56,51-65,M,Sertraline,100mg,Inhaled,Three times daily,Sinus Infection,Treatment with Sertraline appears safe with no adverse symptoms recorded.,No ADE
+1018,64,51-65,M,Prednisone,100mg,Inhaled,As needed,Anxiety,Clinical evaluation reveals no signs of Prednisone-related adverse effects.,No ADE
+1019,37,36-50,F,Albuterol,500mg,Inhaled,Three times daily,High Cholesterol,Routine checkup showed no adverse responses to medication.,No ADE
+1020,75,66+,F,Paroxetine,20mg,Inhaled,Once daily,Type 2 Diabetes,"rash symptoms noted by patient, potentially related to Paroxetine.",rash
+1021,35,19-35,F,Albuterol,50mg,Inhaled,Once daily,Atrial Fibrillation,"bruising symptoms noted by patient, potentially related to Albuterol.",bruising
+1022,61,51-65,M,Simvastatin,100mg,Oral,Twice daily,Type 2 Diabetes,Medical review confirms the absence of drug-related side effects.,No ADE
+1023,24,19-35,F,Paroxetine,50mg,Oral,Twice daily,Rheumatoid Arthritis,No undesirable reactions have been observed following Paroxetine administration.,No ADE
+1024,35,19-35,F,Prednisone,20mg,Oral,Once daily,Depression,Patient has been experiencing itching after initiating treatment with Prednisone.,itching
+1025,23,19-35,M,Paroxetine,20mg,Oral,Twice daily,Hypertension,No undesirable reactions have been observed following Paroxetine administration.,No ADE
+1026,25,19-35,F,Lisinopril,10mg,Oral,Three times daily,Depression,Patient shows improvement with no notable side effects.,No ADE
+1027,70,66+,M,Simvastatin,100mg,Inhaled,As needed,Asthma,Patient has been experiencing itching after initiating treatment with Simvastatin.,itching
+1028,65,51-65,F,Prednisone,500mg,Oral,Three times daily,Anxiety,Treatment with Prednisone appears safe with no adverse symptoms recorded.,No ADE
+1029,23,19-35,F,Metformin,10mg,Inhaled,Three times daily,Type 2 Diabetes,"Reported issues include muscle pain, which started after Metformin was prescribed.",muscle pain
+1030,47,36-50,M,Paroxetine,500mg,Inhaled,Twice daily,Sinus Infection,Treatment with Paroxetine appears safe with no adverse symptoms recorded.,No ADE
+1031,58,51-65,M,Simvastatin,100mg,Oral,Once daily,Asthma,"itching symptoms noted by patient, potentially related to Simvastatin.",itching
+1032,27,19-35,M,Ibuprofen,20mg,Oral,Twice daily,Type 2 Diabetes,"mood swings symptoms noted by patient, potentially related to Ibuprofen.",mood swings
+1033,26,19-35,M,Amoxicillin,50mg,Oral,As needed,Migraine,"stomach upset symptoms noted by patient, potentially related to Amoxicillin.",stomach upset
+1034,32,19-35,M,Sertraline,10mg,Inhaled,Once daily,Migraine,No indications of intolerance or adverse events tied to Sertraline.,No ADE
+1035,69,66+,F,Amoxicillin,20mg,Inhaled,As needed,Migraine,Routine checkup showed no adverse responses to medication.,No ADE
+1036,41,36-50,M,Metformin,10mg,Inhaled,Three times daily,Type 2 Diabetes,No complaints or unusual symptoms observed after medication use.,No ADE
+1037,68,66+,F,Ibuprofen,20mg,Inhaled,Twice daily,Asthma,Patient has been experiencing drowsiness after initiating treatment with Ibuprofen.,drowsiness
+1038,61,51-65,M,Amoxicillin,100mg,Oral,Three times daily,Asthma,"Reported issues include nausea, which started after Amoxicillin was prescribed.",nausea
+1039,40,36-50,F,Ibuprofen,10mg,Oral,As needed,Anxiety,"stomach upset symptoms noted by patient, potentially related to Ibuprofen.",stomach upset
+1040,42,36-50,M,Metformin,50mg,Inhaled,Twice daily,Depression,Treatment with Metformin appears safe with no adverse symptoms recorded.,No ADE
+1041,70,66+,F,Amoxicillin,500mg,Oral,As needed,Sinus Infection,Patient has been experiencing nosebleeds after initiating treatment with Amoxicillin.,nosebleeds
+1042,71,66+,F,Prednisone,20mg,Inhaled,Three times daily,Type 2 Diabetes,No adverse reactions reported during follow-up.,No ADE
+1043,61,51-65,M,Sertraline,10mg,Oral,Once daily,Rheumatoid Arthritis,Clinical evaluation reveals no signs of Sertraline-related adverse effects.,No ADE
+1044,69,66+,M,Metformin,10mg,Inhaled,Three times daily,Migraine,"rash symptoms noted by patient, potentially related to Metformin.",rash
+1045,47,36-50,F,Sertraline,50mg,Oral,As needed,Sinus Infection,Treatment with Sertraline appears safe with no adverse symptoms recorded.,No ADE
+1046,79,66+,M,Warfarin,50mg,Inhaled,Once daily,Hypertension,Patient denies any negative side effects associated with Warfarin.,No ADE
+1047,76,66+,M,Lisinopril,100mg,Oral,Twice daily,Migraine,Patient shows improvement with no notable side effects.,No ADE
+1048,76,66+,M,Albuterol,500mg,Inhaled,Twice daily,Depression,"muscle pain symptoms noted by patient, potentially related to Albuterol.",muscle pain
+1049,74,66+,M,Ibuprofen,100mg,Inhaled,Three times daily,Asthma,Patient denies any negative side effects associated with Ibuprofen.,No ADE
+1050,49,36-50,M,Simvastatin,100mg,Inhaled,As needed,Migraine,Patient has been experiencing stomach upset after initiating treatment with Simvastatin.,stomach upset
+1051,72,66+,F,Simvastatin,100mg,Inhaled,Three times daily,Atrial Fibrillation,"Reported issues include insomnia, which started after Simvastatin was prescribed.",insomnia
+1052,45,36-50,F,Prednisone,10mg,Oral,Once daily,Asthma,Patient remains asymptomatic and compliant with Prednisone therapy.,No ADE
+1053,38,36-50,F,Sertraline,500mg,Oral,Twice daily,Anxiety,Patient has been experiencing muscle pain after initiating treatment with Sertraline.,muscle pain
+1054,79,66+,M,Amoxicillin,100mg,Inhaled,Once daily,High Cholesterol,Routine checkup showed no adverse responses to medication.,No ADE
+1055,34,19-35,F,Amoxicillin,50mg,Inhaled,As needed,Asthma,Routine checkup showed no adverse responses to medication.,No ADE
+1056,26,19-35,F,Albuterol,100mg,Oral,As needed,Depression,"Reported issues include muscle pain, which started after Albuterol was prescribed.",muscle pain
+1057,30,19-35,M,Albuterol,10mg,Inhaled,Three times daily,Type 2 Diabetes,"Reported issues include appetite increase, which started after Albuterol was prescribed.",appetite increase
+1058,50,36-50,F,Albuterol,100mg,Oral,Three times daily,Migraine,Routine checkup showed no adverse responses to medication.,No ADE
+1059,75,66+,M,Simvastatin,10mg,Inhaled,Once daily,Anxiety,Patient has been experiencing itching after initiating treatment with Simvastatin.,itching
+1060,39,36-50,F,Warfarin,500mg,Inhaled,Three times daily,Hypertension,No adverse reactions reported during follow-up.,No ADE
+1061,45,36-50,F,Sertraline,20mg,Oral,Three times daily,Anxiety,"Reported issues include muscle pain, which started after Sertraline was prescribed.",muscle pain
+1062,48,36-50,F,Ibuprofen,20mg,Oral,Once daily,Atrial Fibrillation,"Reported issues include appetite increase, which started after Ibuprofen was prescribed.",appetite increase
+1063,28,19-35,M,Simvastatin,100mg,Inhaled,Three times daily,Migraine,Patient has been experiencing nosebleeds after initiating treatment with Simvastatin.,nosebleeds
+1064,40,36-50,F,Albuterol,50mg,Inhaled,As needed,Rheumatoid Arthritis,"Reported issues include mood swings, which started after Albuterol was prescribed.",mood swings
+1065,77,66+,F,Amoxicillin,20mg,Inhaled,Three times daily,Atrial Fibrillation,"Reported issues include stomach upset, which started after Amoxicillin was prescribed.",stomach upset
+1066,53,51-65,F,Simvastatin,100mg,Oral,Twice daily,Asthma,Patient denies any negative side effects associated with Simvastatin.,No ADE
+1067,29,19-35,F,Albuterol,50mg,Oral,As needed,Asthma,"Reported issues include nosebleeds, which started after Albuterol was prescribed.",nosebleeds
+1068,63,51-65,F,Paroxetine,500mg,Oral,Once daily,Anxiety,Patient has been experiencing drowsiness after initiating treatment with Paroxetine.,drowsiness
+1069,28,19-35,M,Prednisone,10mg,Oral,Twice daily,Migraine,Patient appears to tolerate Prednisone well with no side effects noted.,No ADE
+1070,62,51-65,M,Warfarin,500mg,Oral,As needed,Rheumatoid Arthritis,Patient has been experiencing stomach upset after initiating treatment with Warfarin.,stomach upset
+1071,52,51-65,F,Sertraline,500mg,Oral,Twice daily,Asthma,Medical review confirms the absence of drug-related side effects.,No ADE
+1072,52,51-65,F,Sertraline,20mg,Oral,Three times daily,Type 2 Diabetes,Patient has been experiencing stomach upset after initiating treatment with Sertraline.,stomach upset
+1073,64,51-65,M,Paroxetine,100mg,Oral,Three times daily,Migraine,Treatment with Paroxetine appears safe with no adverse symptoms recorded.,No ADE
+1074,49,36-50,F,Sertraline,100mg,Oral,Once daily,High Cholesterol,"drowsiness symptoms noted by patient, potentially related to Sertraline.",drowsiness
+1075,35,19-35,M,Lisinopril,500mg,Inhaled,Once daily,Sinus Infection,Clinical evaluation reveals no signs of Lisinopril-related adverse effects.,No ADE
+1076,39,36-50,F,Ibuprofen,20mg,Inhaled,Three times daily,Asthma,Reports indicate Ibuprofen has been effective without complications.,No ADE
+1077,24,19-35,F,Albuterol,100mg,Oral,Three times daily,Depression,"Reported issues include muscle pain, which started after Albuterol was prescribed.",muscle pain
+1078,70,66+,M,Paroxetine,10mg,Inhaled,As needed,Migraine,"mood swings symptoms noted by patient, potentially related to Paroxetine.",mood swings
+1079,28,19-35,F,Lisinopril,20mg,Oral,Once daily,Anxiety,Patient has been experiencing nosebleeds after initiating treatment with Lisinopril.,nosebleeds
+1080,40,36-50,M,Lisinopril,50mg,Inhaled,As needed,Rheumatoid Arthritis,Treatment with Lisinopril appears safe with no adverse symptoms recorded.,No ADE
+1081,31,19-35,F,Sertraline,10mg,Inhaled,Once daily,Sinus Infection,Treatment with Sertraline appears safe with no adverse symptoms recorded.,No ADE
+1082,71,66+,F,Paroxetine,100mg,Oral,Twice daily,Type 2 Diabetes,Reports indicate Paroxetine has been effective without complications.,No ADE
+1083,57,51-65,F,Lisinopril,100mg,Inhaled,As needed,Hypertension,Patient has been experiencing dizziness after initiating treatment with Lisinopril.,dizziness
+1084,23,19-35,M,Ibuprofen,100mg,Oral,As needed,Atrial Fibrillation,No evidence of Ibuprofen being poorly tolerated by the patient.,No ADE
+1085,64,51-65,F,Paroxetine,500mg,Inhaled,Three times daily,High Cholesterol,Patient has been experiencing mood swings after initiating treatment with Paroxetine.,mood swings
+1086,51,51-65,M,Lisinopril,50mg,Oral,Three times daily,Depression,"Reported issues include muscle pain, which started after Lisinopril was prescribed.",muscle pain
+1087,68,66+,F,Paroxetine,20mg,Oral,Three times daily,Depression,"Reported issues include sweating, which started after Paroxetine was prescribed.",sweating
+1088,34,19-35,F,Lisinopril,50mg,Inhaled,Twice daily,Depression,Routine checkup showed no adverse responses to medication.,No ADE
+1089,77,66+,F,Prednisone,10mg,Oral,As needed,Asthma,"dry mouth symptoms noted by patient, potentially related to Prednisone.",dry mouth
+1090,43,36-50,M,Albuterol,100mg,Inhaled,Twice daily,Hypertension,"Reported issues include rash, which started after Albuterol was prescribed.",rash
+1091,54,51-65,M,Paroxetine,50mg,Oral,Twice daily,Rheumatoid Arthritis,Patient appears to tolerate Paroxetine well with no side effects noted.,No ADE
+1092,45,36-50,F,Prednisone,10mg,Oral,As needed,Type 2 Diabetes,Reports indicate Prednisone has been effective without complications.,No ADE
+1093,52,51-65,F,Prednisone,50mg,Oral,As needed,Depression,Follow-up suggests the patient has no adverse responses to Prednisone.,No ADE
+1094,28,19-35,M,Prednisone,10mg,Oral,As needed,Migraine,No evidence of Prednisone being poorly tolerated by the patient.,No ADE
+1095,39,36-50,M,Simvastatin,500mg,Inhaled,Twice daily,Migraine,"Reported issues include dry mouth, which started after Simvastatin was prescribed.",dry mouth
+1096,26,19-35,M,Amoxicillin,10mg,Oral,Twice daily,Rheumatoid Arthritis,No evidence of Amoxicillin being poorly tolerated by the patient.,No ADE
+1097,47,36-50,F,Albuterol,20mg,Oral,As needed,Asthma,"Reported issues include bruising, which started after Albuterol was prescribed.",bruising
+1098,73,66+,F,Metformin,100mg,Inhaled,Once daily,Anxiety,Patient has been experiencing bruising after initiating treatment with Metformin.,bruising
+1099,29,19-35,F,Simvastatin,20mg,Inhaled,Twice daily,Anxiety,Patient appears to tolerate Simvastatin well with no side effects noted.,No ADE
+1100,79,66+,F,Ibuprofen,500mg,Oral,As needed,High Cholesterol,Follow-up suggests the patient has no adverse responses to Ibuprofen.,No ADE
+1101,27,19-35,F,Sertraline,50mg,Oral,Three times daily,Anxiety,Patient has been experiencing sweating after initiating treatment with Sertraline.,sweating
+1102,67,66+,F,Ibuprofen,100mg,Inhaled,Twice daily,Anxiety,No indications of intolerance or adverse events tied to Ibuprofen.,No ADE
+1103,33,19-35,M,Simvastatin,10mg,Inhaled,Once daily,Anxiety,"bruising symptoms noted by patient, potentially related to Simvastatin.",bruising
+1104,79,66+,M,Lisinopril,50mg,Oral,Three times daily,Type 2 Diabetes,Patient has been experiencing mood swings after initiating treatment with Lisinopril.,mood swings
+1105,79,66+,F,Albuterol,100mg,Inhaled,As needed,Rheumatoid Arthritis,"appetite increase symptoms noted by patient, potentially related to Albuterol.",appetite increase
+1106,47,36-50,M,Paroxetine,10mg,Oral,Twice daily,Atrial Fibrillation,"Reported issues include dry mouth, which started after Paroxetine was prescribed.",dry mouth
+1107,33,19-35,F,Paroxetine,20mg,Oral,As needed,Anxiety,"appetite increase symptoms noted by patient, potentially related to Paroxetine.",appetite increase
+1108,39,36-50,F,Sertraline,50mg,Inhaled,Twice daily,Hypertension,Patient has been experiencing sweating after initiating treatment with Sertraline.,sweating
+1109,56,51-65,M,Simvastatin,50mg,Inhaled,Three times daily,High Cholesterol,Follow-up suggests the patient has no adverse responses to Simvastatin.,No ADE
+1110,58,51-65,M,Ibuprofen,20mg,Inhaled,Three times daily,Anxiety,No indications of intolerance or adverse events tied to Ibuprofen.,No ADE
+1111,51,51-65,M,Sertraline,50mg,Inhaled,Twice daily,Hypertension,Patient appears to tolerate Sertraline well with no side effects noted.,No ADE
+1112,70,66+,M,Ibuprofen,500mg,Inhaled,Twice daily,Hypertension,Patient remains asymptomatic and compliant with Ibuprofen therapy.,No ADE
+1113,29,19-35,F,Prednisone,50mg,Oral,Twice daily,Rheumatoid Arthritis,"Reported issues include dizziness, which started after Prednisone was prescribed.",dizziness
+1114,71,66+,F,Metformin,50mg,Oral,As needed,Hypertension,No complaints or unusual symptoms observed after medication use.,No ADE
+1115,57,51-65,F,Amoxicillin,10mg,Oral,As needed,Depression,Patient shows improvement with no notable side effects.,No ADE
+1116,34,19-35,M,Albuterol,20mg,Inhaled,Once daily,Rheumatoid Arthritis,Reports indicate Albuterol has been effective without complications.,No ADE
+1117,25,19-35,M,Metformin,20mg,Oral,Twice daily,Hypertension,No adverse reactions reported during follow-up.,No ADE
+1118,26,19-35,M,Ibuprofen,100mg,Oral,Twice daily,Atrial Fibrillation,"insomnia symptoms noted by patient, potentially related to Ibuprofen.",insomnia
+1119,24,19-35,M,Warfarin,100mg,Inhaled,Three times daily,Sinus Infection,No complaints or unusual symptoms observed after medication use.,No ADE
+1120,28,19-35,F,Prednisone,50mg,Oral,Once daily,Migraine,Patient appears to tolerate Prednisone well with no side effects noted.,No ADE
+1121,34,19-35,M,Simvastatin,20mg,Inhaled,Once daily,Asthma,"rash symptoms noted by patient, potentially related to Simvastatin.",rash
+1122,66,66+,F,Albuterol,100mg,Inhaled,As needed,Rheumatoid Arthritis,No complaints or unusual symptoms observed after medication use.,No ADE
+1123,53,51-65,M,Ibuprofen,100mg,Oral,Once daily,Migraine,Patient shows improvement with no notable side effects.,No ADE
+1124,58,51-65,M,Simvastatin,20mg,Inhaled,Three times daily,Sinus Infection,Treatment with Simvastatin appears safe with no adverse symptoms recorded.,No ADE
+1125,43,36-50,F,Warfarin,20mg,Oral,Three times daily,Hypertension,Patient has been experiencing mood swings after initiating treatment with Warfarin.,mood swings
+1126,75,66+,F,Sertraline,100mg,Oral,Twice daily,Sinus Infection,Patient has been experiencing appetite increase after initiating treatment with Sertraline.,appetite increase
+1127,44,36-50,M,Prednisone,50mg,Oral,Three times daily,Depression,"Reported issues include drowsiness, which started after Prednisone was prescribed.",drowsiness
+1128,33,19-35,M,Albuterol,50mg,Inhaled,Once daily,Depression,No evidence of Albuterol being poorly tolerated by the patient.,No ADE
+1129,32,19-35,F,Albuterol,20mg,Inhaled,Three times daily,Migraine,Patient denies any negative side effects associated with Albuterol.,No ADE
+1130,62,51-65,F,Lisinopril,500mg,Inhaled,Twice daily,Anxiety,No indications of intolerance or adverse events tied to Lisinopril.,No ADE
+1131,48,36-50,F,Warfarin,50mg,Oral,Twice daily,Migraine,"muscle pain symptoms noted by patient, potentially related to Warfarin.",muscle pain
+1132,36,36-50,F,Albuterol,50mg,Inhaled,Once daily,Rheumatoid Arthritis,No undesirable reactions have been observed following Albuterol administration.,No ADE
+1133,73,66+,F,Metformin,10mg,Inhaled,As needed,Depression,"Reported issues include dizziness, which started after Metformin was prescribed.",dizziness
+1134,57,51-65,F,Metformin,20mg,Inhaled,Twice daily,Asthma,"Reported issues include appetite increase, which started after Metformin was prescribed.",appetite increase
+1135,32,19-35,M,Lisinopril,50mg,Inhaled,As needed,Sinus Infection,Patient appears to tolerate Lisinopril well with no side effects noted.,No ADE
+1136,34,19-35,M,Amoxicillin,10mg,Inhaled,Three times daily,Type 2 Diabetes,Patient has been experiencing bruising after initiating treatment with Amoxicillin.,bruising
+1137,76,66+,M,Sertraline,100mg,Inhaled,Once daily,Anxiety,Patient remains asymptomatic and compliant with Sertraline therapy.,No ADE
+1138,51,51-65,M,Lisinopril,100mg,Inhaled,Once daily,Type 2 Diabetes,No adverse reactions reported during follow-up.,No ADE
+1139,72,66+,F,Metformin,100mg,Oral,As needed,Migraine,Patient remains asymptomatic and compliant with Metformin therapy.,No ADE
+1140,78,66+,M,Albuterol,20mg,Oral,Once daily,Depression,"Reported issues include appetite increase, which started after Albuterol was prescribed.",appetite increase
+1141,38,36-50,M,Lisinopril,500mg,Inhaled,Once daily,Asthma,Reports indicate Lisinopril has been effective without complications.,No ADE
+1142,60,51-65,M,Simvastatin,100mg,Inhaled,Twice daily,Sinus Infection,Patient has been experiencing sweating after initiating treatment with Simvastatin.,sweating
+1143,43,36-50,F,Simvastatin,10mg,Inhaled,Twice daily,Hypertension,Patient has been experiencing mood swings after initiating treatment with Simvastatin.,mood swings
+1144,23,19-35,M,Amoxicillin,10mg,Oral,Twice daily,Atrial Fibrillation,"Reported issues include appetite increase, which started after Amoxicillin was prescribed.",appetite increase
+1145,56,51-65,M,Metformin,50mg,Inhaled,As needed,Anxiety,Follow-up suggests the patient has no adverse responses to Metformin.,No ADE
+1146,64,51-65,F,Metformin,20mg,Oral,Three times daily,Migraine,Medical review confirms the absence of drug-related side effects.,No ADE
+1147,32,19-35,M,Ibuprofen,500mg,Inhaled,As needed,Atrial Fibrillation,Patient has been experiencing appetite increase after initiating treatment with Ibuprofen.,appetite increase
+1148,76,66+,F,Simvastatin,500mg,Oral,Once daily,Migraine,No evidence of Simvastatin being poorly tolerated by the patient.,No ADE
+1149,45,36-50,F,Sertraline,100mg,Inhaled,Once daily,Atrial Fibrillation,No indications of intolerance or adverse events tied to Sertraline.,No ADE
+1150,52,51-65,M,Warfarin,10mg,Oral,Twice daily,Asthma,No complaints or unusual symptoms observed after medication use.,No ADE
+1151,79,66+,F,Amoxicillin,500mg,Oral,Twice daily,Type 2 Diabetes,"Reported issues include itching, which started after Amoxicillin was prescribed.",itching
+1152,40,36-50,M,Lisinopril,20mg,Inhaled,As needed,Hypertension,"Reported issues include drowsiness, which started after Lisinopril was prescribed.",drowsiness
+1153,27,19-35,M,Simvastatin,10mg,Oral,As needed,Atrial Fibrillation,Patient denies any negative side effects associated with Simvastatin.,No ADE
+1154,66,66+,M,Amoxicillin,50mg,Inhaled,Twice daily,High Cholesterol,"Reported issues include itching, which started after Amoxicillin was prescribed.",itching
+1155,46,36-50,F,Lisinopril,10mg,Oral,As needed,Type 2 Diabetes,No indications of intolerance or adverse events tied to Lisinopril.,No ADE
+1156,23,19-35,F,Prednisone,20mg,Inhaled,Once daily,Rheumatoid Arthritis,Medical review confirms the absence of drug-related side effects.,No ADE
+1157,76,66+,M,Paroxetine,20mg,Inhaled,As needed,Sinus Infection,No adverse reactions reported during follow-up.,No ADE
+1158,57,51-65,M,Sertraline,10mg,Oral,Twice daily,Type 2 Diabetes,Follow-up suggests the patient has no adverse responses to Sertraline.,No ADE
+1159,47,36-50,M,Sertraline,10mg,Inhaled,Once daily,Depression,"itching symptoms noted by patient, potentially related to Sertraline.",itching
+1160,70,66+,M,Simvastatin,100mg,Inhaled,Twice daily,Sinus Infection,No undesirable reactions have been observed following Simvastatin administration.,No ADE
+1161,52,51-65,F,Amoxicillin,100mg,Inhaled,Twice daily,Anxiety,"Reported issues include muscle pain, which started after Amoxicillin was prescribed.",muscle pain
+1162,34,19-35,M,Sertraline,500mg,Inhaled,Twice daily,Rheumatoid Arthritis,"muscle pain symptoms noted by patient, potentially related to Sertraline.",muscle pain
+1163,43,36-50,F,Simvastatin,500mg,Oral,Three times daily,Hypertension,Clinical evaluation reveals no signs of Simvastatin-related adverse effects.,No ADE
+1164,71,66+,M,Albuterol,20mg,Inhaled,Twice daily,Rheumatoid Arthritis,"dry mouth symptoms noted by patient, potentially related to Albuterol.",dry mouth
+1165,68,66+,F,Warfarin,50mg,Inhaled,Three times daily,Anxiety,Patient has been experiencing itching after initiating treatment with Warfarin.,itching
+1166,22,19-35,F,Amoxicillin,500mg,Oral,Three times daily,Rheumatoid Arthritis,Patient has been experiencing itching after initiating treatment with Amoxicillin.,itching
+1167,22,19-35,F,Lisinopril,10mg,Inhaled,Once daily,Atrial Fibrillation,Patient denies any negative side effects associated with Lisinopril.,No ADE
+1168,50,36-50,F,Lisinopril,10mg,Oral,Once daily,High Cholesterol,"nosebleeds symptoms noted by patient, potentially related to Lisinopril.",nosebleeds
+1169,20,19-35,F,Paroxetine,500mg,Oral,Once daily,Hypertension,"mood swings symptoms noted by patient, potentially related to Paroxetine.",mood swings
+1170,35,19-35,F,Warfarin,20mg,Oral,Once daily,High Cholesterol,Patient appears to tolerate Warfarin well with no side effects noted.,No ADE
+1171,55,51-65,F,Prednisone,500mg,Inhaled,Three times daily,Migraine,No adverse reactions reported during follow-up.,No ADE
+1172,54,51-65,M,Warfarin,500mg,Inhaled,Three times daily,Sinus Infection,"Reported issues include appetite increase, which started after Warfarin was prescribed.",appetite increase
+1173,57,51-65,M,Lisinopril,10mg,Inhaled,Once daily,Rheumatoid Arthritis,Treatment with Lisinopril appears safe with no adverse symptoms recorded.,No ADE
+1174,70,66+,M,Paroxetine,10mg,Oral,As needed,Sinus Infection,No undesirable reactions have been observed following Paroxetine administration.,No ADE
+1175,57,51-65,F,Amoxicillin,100mg,Oral,Once daily,Atrial Fibrillation,Follow-up suggests the patient has no adverse responses to Amoxicillin.,No ADE
+1176,23,19-35,F,Amoxicillin,500mg,Inhaled,As needed,High Cholesterol,"dizziness symptoms noted by patient, potentially related to Amoxicillin.",dizziness
+1177,61,51-65,F,Amoxicillin,100mg,Inhaled,Once daily,Depression,Patient has been experiencing muscle pain after initiating treatment with Amoxicillin.,muscle pain
+1178,66,66+,M,Albuterol,100mg,Inhaled,As needed,Anxiety,"Reported issues include sweating, which started after Albuterol was prescribed.",sweating
+1179,55,51-65,M,Simvastatin,500mg,Inhaled,Three times daily,Anxiety,"insomnia symptoms noted by patient, potentially related to Simvastatin.",insomnia
+1180,34,19-35,M,Lisinopril,20mg,Oral,Three times daily,Depression,Medical review confirms the absence of drug-related side effects.,No ADE
+1181,73,66+,M,Amoxicillin,100mg,Inhaled,Once daily,High Cholesterol,Patient has been experiencing drowsiness after initiating treatment with Amoxicillin.,drowsiness
+1182,68,66+,M,Lisinopril,20mg,Oral,Three times daily,Depression,Patient appears to tolerate Lisinopril well with no side effects noted.,No ADE
+1183,66,66+,M,Simvastatin,500mg,Oral,Twice daily,Migraine,No undesirable reactions have been observed following Simvastatin administration.,No ADE
+1184,43,36-50,M,Lisinopril,50mg,Inhaled,Twice daily,Sinus Infection,Patient has been experiencing drowsiness after initiating treatment with Lisinopril.,drowsiness
+1185,24,19-35,F,Simvastatin,100mg,Inhaled,Once daily,High Cholesterol,Patient remains asymptomatic and compliant with Simvastatin therapy.,No ADE
+1186,21,19-35,M,Ibuprofen,10mg,Oral,Once daily,Atrial Fibrillation,"Reported issues include itching, which started after Ibuprofen was prescribed.",itching
+1187,49,36-50,M,Warfarin,50mg,Oral,As needed,Atrial Fibrillation,"mood swings symptoms noted by patient, potentially related to Warfarin.",mood swings
+1188,43,36-50,M,Albuterol,10mg,Inhaled,Three times daily,Asthma,Routine checkup showed no adverse responses to medication.,No ADE
+1189,70,66+,M,Albuterol,100mg,Inhaled,As needed,Migraine,Clinical evaluation reveals no signs of Albuterol-related adverse effects.,No ADE
+1190,22,19-35,M,Simvastatin,10mg,Inhaled,Three times daily,Atrial Fibrillation,"appetite increase symptoms noted by patient, potentially related to Simvastatin.",appetite increase
+1191,72,66+,F,Warfarin,50mg,Inhaled,Twice daily,Rheumatoid Arthritis,No undesirable reactions have been observed following Warfarin administration.,No ADE
+1192,54,51-65,M,Albuterol,10mg,Oral,Twice daily,Sinus Infection,Patient appears to tolerate Albuterol well with no side effects noted.,No ADE
+1193,23,19-35,F,Albuterol,20mg,Oral,Twice daily,Migraine,Patient has been experiencing nausea after initiating treatment with Albuterol.,nausea
+1194,48,36-50,M,Sertraline,100mg,Oral,Twice daily,Sinus Infection,Patient remains asymptomatic and compliant with Sertraline therapy.,No ADE
+1195,25,19-35,F,Sertraline,20mg,Inhaled,Three times daily,Depression,No indications of intolerance or adverse events tied to Sertraline.,No ADE
+1196,75,66+,M,Prednisone,20mg,Oral,Once daily,Sinus Infection,"mood swings symptoms noted by patient, potentially related to Prednisone.",mood swings
+1197,40,36-50,F,Warfarin,500mg,Inhaled,Twice daily,Rheumatoid Arthritis,Routine checkup showed no adverse responses to medication.,No ADE
+1198,23,19-35,M,Ibuprofen,10mg,Inhaled,Once daily,Migraine,"sweating symptoms noted by patient, potentially related to Ibuprofen.",sweating
+1199,25,19-35,M,Lisinopril,10mg,Inhaled,As needed,Atrial Fibrillation,"mood swings symptoms noted by patient, potentially related to Lisinopril.",mood swings
+1200,69,66+,M,Paroxetine,20mg,Inhaled,Three times daily,Hypertension,Routine checkup showed no adverse responses to medication.,No ADE
+1201,72,66+,F,Albuterol,10mg,Oral,Once daily,Depression,"Reported issues include bruising, which started after Albuterol was prescribed.",bruising
+1202,38,36-50,M,Metformin,10mg,Inhaled,Once daily,Rheumatoid Arthritis,"Reported issues include muscle pain, which started after Metformin was prescribed.",muscle pain
+1203,41,36-50,F,Warfarin,500mg,Oral,Three times daily,Depression,Patient has been experiencing itching after initiating treatment with Warfarin.,itching
+1204,26,19-35,M,Metformin,10mg,Inhaled,Once daily,Hypertension,"dizziness symptoms noted by patient, potentially related to Metformin.",dizziness
+1205,50,36-50,F,Paroxetine,500mg,Inhaled,Three times daily,Type 2 Diabetes,Patient appears to tolerate Paroxetine well with no side effects noted.,No ADE
+1206,79,66+,F,Paroxetine,50mg,Inhaled,Once daily,Depression,"dry mouth symptoms noted by patient, potentially related to Paroxetine.",dry mouth
+1207,32,19-35,M,Amoxicillin,100mg,Oral,Once daily,Migraine,Patient has been experiencing sweating after initiating treatment with Amoxicillin.,sweating
+1208,26,19-35,M,Metformin,20mg,Inhaled,Three times daily,Depression,"rash symptoms noted by patient, potentially related to Metformin.",rash
+1209,61,51-65,F,Paroxetine,100mg,Oral,As needed,Sinus Infection,Patient has been experiencing dry mouth after initiating treatment with Paroxetine.,dry mouth
+1210,66,66+,F,Albuterol,50mg,Inhaled,Three times daily,Anxiety,Patient has been experiencing muscle pain after initiating treatment with Albuterol.,muscle pain
+1211,24,19-35,F,Paroxetine,500mg,Inhaled,As needed,Migraine,"Reported issues include muscle pain, which started after Paroxetine was prescribed.",muscle pain
+1212,54,51-65,F,Simvastatin,500mg,Oral,Twice daily,Type 2 Diabetes,"stomach upset symptoms noted by patient, potentially related to Simvastatin.",stomach upset
+1213,49,36-50,M,Metformin,500mg,Inhaled,Once daily,High Cholesterol,"insomnia symptoms noted by patient, potentially related to Metformin.",insomnia
+1214,58,51-65,M,Paroxetine,500mg,Inhaled,As needed,Sinus Infection,Patient shows improvement with no notable side effects.,No ADE
+1215,80,66+,F,Lisinopril,100mg,Oral,Three times daily,Anxiety,"Reported issues include itching, which started after Lisinopril was prescribed.",itching
+1216,65,51-65,M,Albuterol,50mg,Oral,As needed,Rheumatoid Arthritis,"bruising symptoms noted by patient, potentially related to Albuterol.",bruising
+1217,34,19-35,F,Warfarin,100mg,Oral,Three times daily,Type 2 Diabetes,"Reported issues include rash, which started after Warfarin was prescribed.",rash
+1218,45,36-50,F,Sertraline,100mg,Oral,As needed,Type 2 Diabetes,Patient has been experiencing dizziness after initiating treatment with Sertraline.,dizziness
+1219,65,51-65,M,Prednisone,100mg,Inhaled,Three times daily,Depression,Medical review confirms the absence of drug-related side effects.,No ADE
+1220,40,36-50,F,Ibuprofen,20mg,Oral,Twice daily,Depression,Medical review confirms the absence of drug-related side effects.,No ADE
+1221,43,36-50,M,Metformin,20mg,Inhaled,Once daily,Atrial Fibrillation,No complaints or unusual symptoms observed after medication use.,No ADE
+1222,66,66+,F,Metformin,10mg,Inhaled,As needed,Anxiety,Patient has been experiencing sweating after initiating treatment with Metformin.,sweating
+1223,31,19-35,F,Prednisone,100mg,Inhaled,Twice daily,Rheumatoid Arthritis,"stomach upset symptoms noted by patient, potentially related to Prednisone.",stomach upset
+1224,23,19-35,F,Lisinopril,20mg,Inhaled,As needed,Asthma,No adverse reactions reported during follow-up.,No ADE
+1225,26,19-35,F,Ibuprofen,100mg,Oral,Three times daily,Sinus Infection,"Reported issues include sweating, which started after Ibuprofen was prescribed.",sweating
+1226,53,51-65,F,Warfarin,10mg,Inhaled,Three times daily,Depression,Routine checkup showed no adverse responses to medication.,No ADE
+1227,27,19-35,F,Ibuprofen,100mg,Oral,Once daily,Atrial Fibrillation,"Reported issues include nausea, which started after Ibuprofen was prescribed.",nausea
+1228,45,36-50,M,Prednisone,500mg,Oral,Twice daily,Anxiety,Patient denies any negative side effects associated with Prednisone.,No ADE
+1229,26,19-35,F,Metformin,20mg,Oral,Once daily,High Cholesterol,Patient appears to tolerate Metformin well with no side effects noted.,No ADE
+1230,77,66+,F,Prednisone,10mg,Oral,Twice daily,Anxiety,No adverse reactions reported during follow-up.,No ADE
+1231,48,36-50,F,Albuterol,100mg,Inhaled,Once daily,Type 2 Diabetes,No adverse reactions reported during follow-up.,No ADE
+1232,33,19-35,M,Simvastatin,50mg,Inhaled,Once daily,Type 2 Diabetes,"Reported issues include itching, which started after Simvastatin was prescribed.",itching
+1233,28,19-35,F,Albuterol,10mg,Oral,Twice daily,Anxiety,"dry mouth symptoms noted by patient, potentially related to Albuterol.",dry mouth
+1234,55,51-65,F,Paroxetine,10mg,Inhaled,Twice daily,Rheumatoid Arthritis,"sweating symptoms noted by patient, potentially related to Paroxetine.",sweating
+1235,45,36-50,F,Warfarin,50mg,Oral,Once daily,Asthma,Patient remains asymptomatic and compliant with Warfarin therapy.,No ADE
+1236,20,19-35,F,Paroxetine,100mg,Inhaled,Once daily,Sinus Infection,Patient has been experiencing itching after initiating treatment with Paroxetine.,itching
+1237,69,66+,F,Ibuprofen,50mg,Inhaled,Twice daily,Depression,"muscle pain symptoms noted by patient, potentially related to Ibuprofen.",muscle pain
+1238,73,66+,M,Sertraline,50mg,Inhaled,Once daily,Migraine,"Reported issues include nausea, which started after Sertraline was prescribed.",nausea
+1239,50,36-50,M,Sertraline,500mg,Inhaled,Twice daily,Anxiety,Patient remains asymptomatic and compliant with Sertraline therapy.,No ADE
+1240,52,51-65,F,Lisinopril,500mg,Inhaled,Twice daily,Asthma,"itching symptoms noted by patient, potentially related to Lisinopril.",itching
+1241,74,66+,M,Lisinopril,10mg,Oral,As needed,Anxiety,"Reported issues include rash, which started after Lisinopril was prescribed.",rash
+1242,60,51-65,M,Warfarin,20mg,Oral,As needed,High Cholesterol,Clinical evaluation reveals no signs of Warfarin-related adverse effects.,No ADE
+1243,65,51-65,F,Lisinopril,10mg,Inhaled,Once daily,High Cholesterol,Patient shows improvement with no notable side effects.,No ADE
+1244,46,36-50,M,Sertraline,20mg,Oral,As needed,Asthma,No indications of intolerance or adverse events tied to Sertraline.,No ADE
+1245,52,51-65,F,Amoxicillin,50mg,Oral,Three times daily,High Cholesterol,Patient has been experiencing muscle pain after initiating treatment with Amoxicillin.,muscle pain
+1246,47,36-50,F,Amoxicillin,50mg,Inhaled,As needed,Depression,"Reported issues include muscle pain, which started after Amoxicillin was prescribed.",muscle pain
+1247,60,51-65,F,Paroxetine,500mg,Inhaled,Three times daily,Migraine,Patient has been experiencing nausea after initiating treatment with Paroxetine.,nausea
+1248,33,19-35,F,Albuterol,10mg,Oral,Once daily,Asthma,"nosebleeds symptoms noted by patient, potentially related to Albuterol.",nosebleeds
+1249,42,36-50,F,Warfarin,100mg,Oral,Once daily,Anxiety,"Reported issues include appetite increase, which started after Warfarin was prescribed.",appetite increase
+1250,23,19-35,F,Metformin,20mg,Inhaled,Once daily,Asthma,Patient shows improvement with no notable side effects.,No ADE
+1251,32,19-35,F,Metformin,500mg,Oral,Once daily,Depression,Patient shows improvement with no notable side effects.,No ADE
+1252,33,19-35,F,Prednisone,10mg,Oral,Once daily,Asthma,Patient has been experiencing nausea after initiating treatment with Prednisone.,nausea
+1253,58,51-65,M,Metformin,500mg,Inhaled,Twice daily,Sinus Infection,Patient remains asymptomatic and compliant with Metformin therapy.,No ADE
+1254,71,66+,M,Simvastatin,100mg,Oral,Three times daily,Atrial Fibrillation,Patient has been experiencing itching after initiating treatment with Simvastatin.,itching
+1255,28,19-35,F,Paroxetine,500mg,Oral,Once daily,Atrial Fibrillation,"Reported issues include nosebleeds, which started after Paroxetine was prescribed.",nosebleeds
+1256,20,19-35,F,Paroxetine,100mg,Inhaled,Three times daily,Atrial Fibrillation,No complaints or unusual symptoms observed after medication use.,No ADE
+1257,26,19-35,F,Ibuprofen,50mg,Oral,As needed,Asthma,Patient remains asymptomatic and compliant with Ibuprofen therapy.,No ADE
+1258,24,19-35,F,Prednisone,500mg,Inhaled,Three times daily,Rheumatoid Arthritis,Follow-up suggests the patient has no adverse responses to Prednisone.,No ADE
+1259,59,51-65,M,Prednisone,50mg,Inhaled,Three times daily,Migraine,"stomach upset symptoms noted by patient, potentially related to Prednisone.",stomach upset
+1260,67,66+,M,Prednisone,500mg,Inhaled,As needed,High Cholesterol,Patient shows improvement with no notable side effects.,No ADE
+1261,80,66+,M,Warfarin,500mg,Oral,Three times daily,Type 2 Diabetes,Follow-up suggests the patient has no adverse responses to Warfarin.,No ADE
+1262,67,66+,M,Prednisone,500mg,Inhaled,As needed,Sinus Infection,"drowsiness symptoms noted by patient, potentially related to Prednisone.",drowsiness
+1263,22,19-35,M,Lisinopril,20mg,Oral,As needed,Atrial Fibrillation,No evidence of Lisinopril being poorly tolerated by the patient.,No ADE
+1264,29,19-35,F,Lisinopril,100mg,Oral,As needed,Depression,"bruising symptoms noted by patient, potentially related to Lisinopril.",bruising
+1265,20,19-35,M,Sertraline,100mg,Oral,Once daily,Atrial Fibrillation,No undesirable reactions have been observed following Sertraline administration.,No ADE
+1266,54,51-65,M,Amoxicillin,100mg,Inhaled,Twice daily,Asthma,"drowsiness symptoms noted by patient, potentially related to Amoxicillin.",drowsiness
+1267,25,19-35,F,Metformin,50mg,Oral,As needed,Depression,Reports indicate Metformin has been effective without complications.,No ADE
+1268,43,36-50,M,Metformin,20mg,Oral,Twice daily,Anxiety,"Reported issues include sweating, which started after Metformin was prescribed.",sweating
+1269,72,66+,M,Paroxetine,50mg,Inhaled,Three times daily,Rheumatoid Arthritis,Medical review confirms the absence of drug-related side effects.,No ADE
+1270,35,19-35,F,Albuterol,500mg,Inhaled,Once daily,Sinus Infection,Patient has been experiencing dizziness after initiating treatment with Albuterol.,dizziness
+1271,21,19-35,M,Metformin,10mg,Inhaled,Once daily,Atrial Fibrillation,Patient appears to tolerate Metformin well with no side effects noted.,No ADE
+1272,57,51-65,F,Prednisone,500mg,Oral,Once daily,Type 2 Diabetes,"rash symptoms noted by patient, potentially related to Prednisone.",rash
+1273,25,19-35,F,Prednisone,500mg,Oral,Once daily,Asthma,Patient appears to tolerate Prednisone well with no side effects noted.,No ADE
+1274,60,51-65,F,Lisinopril,20mg,Oral,As needed,Anxiety,Routine checkup showed no adverse responses to medication.,No ADE
+1275,73,66+,F,Simvastatin,10mg,Oral,Once daily,Sinus Infection,"dizziness symptoms noted by patient, potentially related to Simvastatin.",dizziness
+1276,22,19-35,F,Paroxetine,20mg,Inhaled,Once daily,Depression,No indications of intolerance or adverse events tied to Paroxetine.,No ADE
+1277,42,36-50,F,Albuterol,100mg,Inhaled,Three times daily,Type 2 Diabetes,"Reported issues include rash, which started after Albuterol was prescribed.",rash
+1278,79,66+,F,Lisinopril,10mg,Oral,Three times daily,Type 2 Diabetes,"nosebleeds symptoms noted by patient, potentially related to Lisinopril.",nosebleeds
+1279,70,66+,F,Ibuprofen,50mg,Oral,As needed,Anxiety,Patient denies any negative side effects associated with Ibuprofen.,No ADE
+1280,25,19-35,M,Sertraline,100mg,Inhaled,Three times daily,Asthma,No undesirable reactions have been observed following Sertraline administration.,No ADE
+1281,33,19-35,F,Simvastatin,50mg,Inhaled,Twice daily,Atrial Fibrillation,"Reported issues include rash, which started after Simvastatin was prescribed.",rash
+1282,34,19-35,F,Warfarin,500mg,Oral,As needed,Depression,Patient appears to tolerate Warfarin well with no side effects noted.,No ADE
+1283,49,36-50,M,Ibuprofen,500mg,Oral,Once daily,Type 2 Diabetes,"Reported issues include dry mouth, which started after Ibuprofen was prescribed.",dry mouth
+1284,43,36-50,F,Warfarin,50mg,Inhaled,Once daily,Type 2 Diabetes,Medical review confirms the absence of drug-related side effects.,No ADE

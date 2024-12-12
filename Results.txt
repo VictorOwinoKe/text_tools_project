@@ -1,0 +1,53 @@
+Total Records: 1284
+Records with Adverse Drug Events (ADEs): 644
+Prevalence of ADEs: 50.2%
+
+Table1: Prevalence of all ADEs
+=====================================================================
+ADE Cases         Total Cases    Prevalence(%)
+=====================================================================
+appetite increase   49             3.8       %
+bruising            37             2.9       %
+dizziness           46             3.6       %
+drowsiness          56             4.4       %
+dry mouth           45             3.5       %
+insomnia            46             3.6       %
+itching             60             4.7       %
+mood swings         42             3.3       %
+muscle pain         55             4.3       %
+nausea              37             2.9       %
+nosebleeds          50             3.9       %
+rash                40             3.1       %
+stomach upset       44             3.4       %
+sweating            37             2.9       %
+
+Table2: ADE Prevalence by Medication
+=====================================================================
+Medication   #Patients   #ADE Cases  #ADE Prevalence(%)
+=====================================================================
+Albuterol 150       77        51.3%
+Amoxicillin113       67        59.3%
+Ibuprofen 118       61        51.7%
+Lisinopril147       66        44.9%
+Metformin 115       55        47.8%
+Paroxetine129       62        48.1%
+Prednisone150       71        47.3%
+Sertraline104       51        49.0%
+Simvastatin134       63        47.0%
+Warfarin  124       71        57.3%
+
+Table 3.1: ADE Prevalence by Gender
+==========================================================
+Gender  #Patients  #ADE Cases  #ADE Prevalence(%)
+==========================================================
+F         667       342       51.3%
+M         617       302       48.9%
+
+Table 3.2: ADE Prevalence by Age Group
+==========================================================
+AgeGroup    #Patients    #ADE Cases    #ADE Prevalence(%)
+==========================================================
+19-35       356            193            54.2%
+36-50       293            138            47.1%
+51-65       306            140            45.8%
+66+         329            173            52.6%

@@ -16,3 +16,15 @@ In most cases, these notes are frequently written by different practitioners, an
 - Which patient demographics (age, gender) are most frequently associated with specific ADEs?
 - Which medications are most commonly linked to ADEs, and what types of ADEs are associated with each medication?
 
+## Conclusion
+- While we are able to Extract some insights using only Linux Utilities, they are only ahs good for basic text preprocessing. 
+The recognition of negation modifiers represents an important challenge.
+
+## Moving Forward
+
+-I hope to leverage advanced NLP techniques with dense representations (embeddings) and incorporating attention mechanisms solve negation recognition
+
+
+
+
+
